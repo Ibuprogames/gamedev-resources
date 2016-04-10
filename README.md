@@ -1,8 +1,6 @@
 # Gamedev resources
 
-An updated collection of useful resources to design, develop and market games.
-
-Maintained by [@ibuprogames](https://twitter.com/Ibuprogames).
+An updated collection of useful resources to design, develop and market games. Maintained by [@ibuprogames](https://twitter.com/Ibuprogames).
 
 ## Contributing
 
@@ -35,10 +33,6 @@ To add, remove or change things on the list: please submit a pull request.
 * [Blender game character creation series](https://www.youtube.com/playlist?list=PLyelx0TsmSpeHKYfP-_HG37deH3RW5sMD) :tv:.
 * [Blocky SciFi gallery](https://es.pinterest.com/pascalblanche/blocky-scifi/).
 * [How to learn Blender 3D in under 24 hours](http://www.creativebloq.com/blender/learn-blender-3d-under-24-hours-111518089).
-* []().
-* []().
-* []().
-* []().
 
 ## Design
 
