@@ -89,6 +89,11 @@ To add, remove or change things on the list: please submit a pull request.
 
 ## Unity
 
+* []().
+* []().
+* []().
+* []().
+* []().[]().
 * [Porting Unity games to consoles](https://drive.google.com/file/d/0B9QBGqwp4zCQSTJFd2hEXzFrX1k/view).
 
 ## Unreal
@@ -99,16 +104,19 @@ To add, remove or change things on the list: please submit a pull request.
 
 ## Resources
 
-* [Free fonts for commercial use.](https://www.fontsquirrel.com).
+* [Free fonts for commercial use](https://www.fontsquirrel.com).
 * [The list of best free and affordable game graphics resources](http://gamasutra.com/blogs/ArtursSosins/20151028/257619/The_list_of_best_free_and_affordable_game_graphics_resources.php).
 * [Free sound effects](http://www.freesound.org/).
 * [Sound effects and loops](http://www.soundsnap.com/) :heavy_dollar_sign:.
 * [Music and effects](http://www.audiobank.fm/) :heavy_dollar_sign:.
 * [Retro sound effect generator](http://www.superflashbros.net/as3sfxr/).
-* [4250+ royalty free sound effects](http://www.universalsoundfx.com/), 40$.
+* [4250+ royalty free sound effects](http://www.universalsoundfx.com/) :heavy_dollar_sign:.
 * [Buy music](http://bandcamp.com/).
 * [10GB+ of high-quality game audio](http://sonniss.com/GameAudioGDC.torrent), torrent.
 * [The big list of sound and music assets](http://www.gamepix.com/blog/the-big-list-of-sound-and-music-assets-for-your-html5-game/).
+* [Kenny Assets](http://www.kenney.nl/assets), GUI, sprites, models and sounds at very low price.
+* [TwentyEP](https://soundcloud.com/auditory_cheesecake/sets/twentyep), free music.
+* [Free Loop Project](http://sleepfacingwest.com/), free music and loops.
 
 ## Engines.
 
