@@ -81,6 +81,12 @@ To add, remove or change things on the list: please submit a pull request.
 
 ## Audio
 
+* [Noise level chart](http://www.noisehelp.com/noise-level-chart.html), examples of sounds with dB levels ranging from 0 to 180 decibels.
+* [The basics of recording audio for digital video](https://www.youtube.com/watch?v=S9cP1WHL0Zo) :tv:.
+* [Sound effects and scripting in Unity](https://www.youtube.com/watch?v=5N-428vKwaE) :tv:.
+* [Game audio tutorials](https://www.youtube.com/playlist?list=PLzOBPpKi0Kcvm4tIS6ribeIkIzkv7Bl1Z) :tv:.
+* [Music explained, exploited, expressed](http://blog.disasterpeace.com/) blog.
+
 ## Unity
 
 * [Porting Unity games to consoles](https://drive.google.com/file/d/0B9QBGqwp4zCQSTJFd2hEXzFrX1k/view).
@@ -95,6 +101,14 @@ To add, remove or change things on the list: please submit a pull request.
 
 * [Free fonts for commercial use.](https://www.fontsquirrel.com).
 * [The list of best free and affordable game graphics resources](http://gamasutra.com/blogs/ArtursSosins/20151028/257619/The_list_of_best_free_and_affordable_game_graphics_resources.php).
+* [Free sound effects](http://www.freesound.org/).
+* [Sound effects and loops](http://www.soundsnap.com/) :heavy_dollar_sign:.
+* [Music and effects](http://www.audiobank.fm/) :heavy_dollar_sign:.
+* [Retro sound effect generator](http://www.superflashbros.net/as3sfxr/).
+* [4250+ royalty free sound effects](http://www.universalsoundfx.com/), 40$.
+* [Buy music](http://bandcamp.com/).
+* [10GB+ of high-quality game audio](http://sonniss.com/GameAudioGDC.torrent), torrent.
+* [The big list of sound and music assets](http://www.gamepix.com/blog/the-big-list-of-sound-and-music-assets-for-your-html5-game/).
 
 ## Engines.
 
