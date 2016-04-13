@@ -89,11 +89,44 @@ To add, remove or change things on the list: please submit a pull request.
 
 ## Unity
 
-* []().
-* []().
-* []().
-* []().
-* []().[]().
+* [Introduction to Game Development with Unity and C#](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ) :tv:.
+* [Dynamic lighting on sprites](http://robotloveskitty.tumblr.com/post/33164532086/legend-of-dungeon-dynamic-lighting-on-sprites).
+* [Introduction to Unity test tools](http://gamasutra.com/blogs/LiorTal/20140520/218123/Introduction_to_Unity_Test_Tools.php).
+* [Memory profiling in Unity](http://www.slideshare.net/williamyang3910/unitekorea2013-memory-profiling-in-unity).
+* [C# memory management for Unity developers](http://www.gamasutra.com/blogs/WendelinReich/20131109/203841/C_Memory_Management_for_Unity_Developers_part_1_of_3.php) (I/III).
+* [Mastering Physically Based Shading in Unity 5](http://www.slideshare.net/RenaldasZioma/unite2014-mastering-physically-based-shading-in-unity-5).
+* [2D best practices in Unity](https://www.youtube.com/watch?v=HM17mAmLd7k) :tv:.
+* [Big Android: Best performance on the most devices](https://www.youtube.com/watch?v=yFcI6pFEgjk) :tv:.
+* [Managing 2D animation states in Unity](http://johnstejskal.com/wp/creating-2d-animations-from-sprite-sheets-in-unity3d/).
+* [Unity youtube channel](https://www.youtube.com/user/Unity3D/videos?shelf_id=0&view=0&sort=dd) :tv:.
+* [Serialization best practices](http://forum.unity3d.com/threads/serialization-best-practices-megapost.155352).
+* [Best practices for physically based content creation](https://www.youtube.com/watch?v=OeEYEUCa4tI) :tv:.
+* [Modern 2D techniques](https://www.youtube.com/watch?v=bUGbXThraVM) :tv:.
+* [Unity 3D best practices](https://x-team.com/2014/03/unity-3d-optimisation-and-best-practices-part-1/).
+* [Unity 5 - Intro to Lighting and Rendering](http://unity3d.com/es/learn/tutorials/modules/beginner/graphics/lighting-and-rendering).
+* [Unity best practices](http://www.glenstevens.ca/unity3d-best-practices/).
+* [Infinite terrain generation in Unity](http://code-phi.com/infinite-terrain-generation-in-unity-3d/).
+* [EditorWindow lifecycle](http://t-machine.org/index.php/2015/06/25/unity3d-missing-docs-editorwindow-lifecycle/).
+* [How to make a MOBA in Unity](https://www.youtube.com/playlist?list=PLHW9PxPVcecHLa7JP-Ts09LZYHLIwdky_) :tv:.
+* [Building Unity games in Visual Studio](https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2015-Final-Release-Event/Building-Unity-games-in-Visual-Studio) :tv:.
+* [So you want to be a Unity freelancer](https://www.youtube.com/watch?v=gVjW-BeS1bk&feature=youtu.be) :tv:.
+* [Character locomotion](https://www.youtube.com/watch?v=eVAMOYVSszI) :tv:.
+* [Making of Monument Valley in Unity](https://www.youtube.com/watch?v=mCCC9hQm6MM) :tv:.
+* [Quick setup scalable UI in Unity](https://www.youtube.com/watch?v=HwZfv_17KN8) :tv:.
+* [Making a sport game in Unity](https://www.youtube.com/watch?v=Ud7RNhO_VRU) :tv:.
+* [C# memory and performance tips for Unity](http://www.somasim.com/blog/2015/04/csharp-memory-and-performance-tips-for-unity/).
+* [Introduction to Unity Analytics](https://www.youtube.com/watch?v=axZJ6R8Iz8c) :tv:.
+* [How to make realistic bullets in Unity](http://www.habrador.com/tutorials/unity-realistic-bullets/).
+* [Resources for writing shaders in Unity](https://github.com/VoxelBoy/Resources-for-Writing-Shaders-in-Unity).
+* [Art optimizations for Maximum Performance in Unity 5](https://www.youtube.com/watch?v=HsGZ83sQyBI) :tv:.
+* [How we optimized our mobile game](https://www.youtube.com/watch?v=G0IdA_CHCUs) :tv:.
+* [The beginner’s guide to Physically Based Rendering in Unity](http://blog.teamtreehouse.com/beginners-guide-physically-based-rendering-unity).
+* [How to write native plugins for Unity](http://www.alanzucconi.com/2015/10/11/how-to-write-native-plugins-for-unity/).
+* [A coder's guide to spline-based procedural geometry](https://www.youtube.com/watch?v=o9RK6O2kOKo) :tv:.
+* [Advanced Global Illumination in Unity 5](https://www.youtube.com/watch?v=NQLgR_a-g_8) :tv:.
+* [50 tips for working with Unity](http://devmag.org.za/2012/07/12/50-tips-for-working-with-unity-best-practices/).
+* [Dependency Injection and Unit Testing Unity](http://unity3d.college/2016/02/22/dependency-injection-and-unit-testing-unity/).
+* [Unity serialization best practices](https://imgur.com/a/uqQij).
 * [Porting Unity games to consoles](https://drive.google.com/file/d/0B9QBGqwp4zCQSTJFd2hEXzFrX1k/view).
 
 ## Unreal
@@ -114,7 +147,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Buy music](http://bandcamp.com/).
 * [10GB+ of high-quality game audio](http://sonniss.com/GameAudioGDC.torrent), torrent.
 * [The big list of sound and music assets](http://www.gamepix.com/blog/the-big-list-of-sound-and-music-assets-for-your-html5-game/).
-* [Kenny Assets](http://www.kenney.nl/assets), GUI, sprites, models and sounds at very low price.
+* [Kenny Assets](http://www.kenney.nl/assets), low price packs.
 * [TwentyEP](https://soundcloud.com/auditory_cheesecake/sets/twentyep), free music.
 * [Free Loop Project](http://sleepfacingwest.com/), free music and loops.
 
