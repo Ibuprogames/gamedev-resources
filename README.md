@@ -7,7 +7,7 @@ An updated collection of useful resources to design, develop and market games. M
 To add, remove or change things on the list: please submit a pull request.
 
 ## Art
-* [Lots of icons from iOS apps](iosicongallery.com).
+* [Lots of icons from iOS apps](http://iosicongallery.com).
 * [Color theory and color palette editors](http://www.pixelprospector.com/color-theory-and-color-palette-editors).
 * [A gallery of interesting visual styles used in games](http://videogameartstyles.tumblr.com/).
 * [Futuristic interfaces from movies and videogames](http://futureinterface.tumblr.com/).
@@ -33,6 +33,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Blender game character creation series](https://www.youtube.com/playlist?list=PLyelx0TsmSpeHKYfP-_HG37deH3RW5sMD) :tv:.
 * [Blocky SciFi gallery](https://es.pinterest.com/pascalblanche/blocky-scifi/).
 * [How to learn Blender 3D in under 24 hours](http://www.creativebloq.com/blender/learn-blender-3d-under-24-hours-111518089).
+* [Blender Tutorial from the very basics](https://www.youtube.com/watch?v=A3HOEjmLMbQ) :tv:.
 
 ## Design
 
@@ -60,8 +61,23 @@ To add, remove or change things on the list: please submit a pull request.
 * [The eight steps game design document](https://es.scribd.com/doc/299827462/8-Step-Game-Design-Document).
 * [About Combat System Design](http://breadcrumbsinteractive.com/about-combat-system-design/).
 * [UX How-To](https://www.youtube.com/playlist?list=PLg-UKERBljNy2Yem3RJkYL1V70dpzkysC) :tv:.
+* [11 Tips to speed up your game design process](http://blog.gameanalytics.com/blog/11-tips-to-speed-up-your-game-design-process.html).
 
 ## Programming
+
+* [A list of open source C++ libraries](http://en.cppreference.com/w/cpp/links/libs).
+* [Introduction to Computer Science I](http://cs50.tv/2014/fall/), a Harvard College's introductory course.
+* [Awesome OpenGL](https://github.com/eug/awesome-opengl), a curated list of awesome OpenGL libraries, debuggers, ...
+* [Awesome C/C++](https://drktech.com/2014/11/05/a-curated-list-of-awesome-cc-frameworks-libraries-resources-and-shiny-things/), a curated list of awesome C/C++ frameworks, libraries, resources, ...
+* [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp), a collection of resources on modern C++.
+* [Advanced C++/OpenGL](https://www.youtube.com/playlist?list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW) :tv:.
+* [Client side network DO’s and DON’Ts for Game Engine Developers](http://ithare.com/64-network-dos-and-donts-for-game-engine-developers-part-i-client-side/) (I/VIIb).
+* [Scalable game architectures that don't break the bank](http://es.slideshare.net/AmazonWebServices/gam201-scalable-game-architectures-that-dont-break-the-bank-aws-reinvent-2014) AWS.
+* [Graphics resources](https://github.com/mattdesl/graphics-resources), bookmarks related to game development and realtime graphics programming.
+* [Basic principles of 3D computer graphics](https://www.youtube.com/playlist?list=PL_w_qWAQZtAZhtzPI5pkAtcUVgmzdAP8g) (ECS175) :tv:.
+* [3D basic lessons](http://www.scratchapixel.com/old/lessons/3d-basic-lessons/).
+* [The book of shaders](http://patriciogonzalezvivo.com/2015/thebookofshaders/), gentle step-by-step guide to shaders.
+* [Agile software development process: 90 months of evolution](https://www.targetprocess.com/articles/agile-software-development-process-90-months-of-evolution/).
 
 ## Audio
 
@@ -79,6 +95,10 @@ To add, remove or change things on the list: please submit a pull request.
 
 * [Free fonts for commercial use.](https://www.fontsquirrel.com).
 * [The list of best free and affordable game graphics resources](http://gamasutra.com/blogs/ArtursSosins/20151028/257619/The_list_of_best_free_and_affordable_game_graphics_resources.php).
+
+## Engines.
+
+* [Xenko](http://xenko.com/), cross-platform open-source C# game engine.
 
 ## Tools
 
