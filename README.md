@@ -34,6 +34,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Blocky SciFi gallery](https://es.pinterest.com/pascalblanche/blocky-scifi/).
 * [How to learn Blender 3D in under 24 hours](http://www.creativebloq.com/blender/learn-blender-3d-under-24-hours-111518089).
 * [Blender Tutorial from the very basics](https://www.youtube.com/watch?v=A3HOEjmLMbQ) :tv:.
+* [Spriting guide](http://www.dragonflycave.com/recoloring.aspx).
 
 ## Design
 
@@ -131,9 +132,24 @@ To add, remove or change things on the list: please submit a pull request.
 
 ## Unreal
 
+* [Beginner tutorial series](https://www.youtube.com/playlist?list=PLL0cLF8gjBpqDdMoeid6Vl5roMl6xJQGC) :tv:.
+* [Introduction to Blueprints](https://www.youtube.com/playlist?list=PLZlv_N0_O1gY35ezlSQn1sWOGfh4C7ewO) :tv:.
+* [Creating a Blueprint Zombie Shooter](https://www.youtube.com/playlist?list=PL4g86nVHyAEfq6p9HPwj6aPT2GussW8c0) :tv:.
+* [Unreal Engine tutorials](https://docs.unrealengine.com/latest/INT/Videos/?series=PLZlv_N0_O1gb5sdygbSiEU7hb0eomNLdq) :tv:.
+* [How to create a shooter game from scratch](http://shootertutorial.com/2015/08/08/enemy-boss-robot/).
+* [Making a Pong game](http://gaming-resources.com.ve/site/index.php/2015/08/27/tutorial-making-a-pong-game-with-ue4/).
+* [Getting Started with VR](http://www.tomlooman.com/getting-started-with-vr/).
+
 ## Postmortems
 
+* [Lessons Learned in a successful indie game Kickstarter campaign: How CodeSpells raised $120K+](http://gamasutra.com/blogs/LindseyHandley/20140930/226640/Lessons_Learned_in_a_Successful_Indie_Game_Kickstarter_Campaign_How_CodeSpells_Raised_120K.php).
+* [The Key to Steam Greenlight is preparation](http://www.gamasutra.com/blogs/CoreyWarning/20150813/251122/PostMortem_The_Key_to_Steam_Greenlight_is_Preparation.php).
+
 ## Web
+
+* [Material design](http://www.google.com/design/spec/material-design/introduction.html) (and [Lite](http://www.getmdl.io/)).
+* [Polimer](https://www.polymer-project.org), easier and faster web develop.
+* [html5up.net](http://html5up.net/), [getbootstrap.com](http://getbootstrap.com/), html5 responsive templates.
 
 ## Resources
 
@@ -154,6 +170,7 @@ To add, remove or change things on the list: please submit a pull request.
 ## Engines.
 
 * [Xenko](http://xenko.com/), cross-platform open-source C# game engine.
+* [HaxeFlixel](http://haxeflixel.com/), cross-platform free 2D engine.
 
 ## Tools
 
@@ -162,20 +179,49 @@ To add, remove or change things on the list: please submit a pull request.
 * [Polarr](https://v3.polarr.co/), online photo editor.
 * [Pixel art tools](http://pixelartus.com/tagged/pixel-art-tools).
 
-## Bureaucracy
+## Social
+
+* [hashtagify.me](http://hashtagify.me/), hashtags popularity.
+* [mention.com](https://mention.com), who is talking about you?.
 
 ## Marketing
 
 ## Commercial
 
+* [Organ Trail: Director's Cut one year sales figures](http://www.gamasutra.com/blogs/RyanWiemeyer/20130809/198021/Organ_Trail_Directors_Cut_One_Year_Sales_Figures.php).
+* [Sales and Ads stats of an iOS / Android game](http://www.frozax.com/blog/2012/07/sales-ads-stats-ios-android-game/).
+* [Dustforce sales figures](http://hitboxteam.com/dustforce-sales-figures).
+* [Monster Loves You: By the numbers](http://gamasutra.com/blogs/AndyMoore/20130605/193717/Monster_Loves_You_By_The_Numbers.php).
+* [Results of translating Hit Tennis 3](http://www.markj.net/translate-hit-tennis-3-iphone-game).
+* [Sales and Ads stats for Hashi Puzzles (iOS, Google Play and Amazon App Store)](http://www.frozax.com/blog/2013/01/sales-ads-stats-hashi-puzzles-ios-google-play-amazon-app-store/).
+* [Fingle marketing effort and numbers](http://gameovenstudios.com/fingle-marketing-effort-and-numbers).
+* [Cardinal Quest: How I made $60k from My indie game](http://gamedevelopment.tutsplus.com/articles/cardinal-quest-how-i-made-60000-from-my-indie-game--gamedev-12073).
+* [Proun sales data revealed](http://joostdevblog.blogspot.com.es/2011/10/proun-is-big-success-pay-what-you-want.html).
+* [15 Days of Waking Mars at $2.99](http://blog.tigerstylegames.com/post/23104925410/15-days-of-waking-mars-at-299).
+* [Digging down to business: Shovel Knight planning and sales](http://www.gamasutra.com/blogs/DavidDAngelo/20140805/222585/Digging_down_to_business_Shovel_Knight_Planning_and_Sales.php).
+* [How I spent $26k CAN making a professional mobile game](https://www.reddit.com/r/gamedev/comments/2lbime/how_i_spent_26000_can_making_a_professional).
+* [4k copies in Early Access](http://sergeiklimov.biz/2016/01/early_access/).
+
 ## Translation
+
+* [Tethras](https://www.tethras.com/), text localization (50+ languages).
+* [LocalHeroes](http://www.local-heroes.com/), text localization.
+* [VoiceBunny](https://voicebunny.com), professional voice actors.
+* [Polyglot Project](https://docs.google.com/spreadsheets/d/17f0dQawb-s_Fd7DHgmVvJoEGDMH_yoSd8EYigrb0zmM), common game texts translated.
 
 ## Documentation
 
+## Bureaucracy
+
 ## Hardware
+
+* [Unity hardware statistics](http://hwstats.unity3d.com/index.html).
+* [Valve hardware statistics](http://store.steampowered.com/hwsurvey).
 
 ## Testing
 
 * [A Crash Course on A/B Testing](http://www.slideshare.net/spuiszis/a-crash-course-on-ab-testing).
 
 ## Misc
+
+* [The Game Developer's Toolbox](http://gamasutra.com/blogs/AnnaJenelius/20160411/269662/The_Game_Developers_Toolbox_for_Students.php).
