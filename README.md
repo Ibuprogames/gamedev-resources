@@ -89,6 +89,16 @@ To add, remove or change things on the list: please submit a pull request.
 * [Game audio tutorials](https://www.youtube.com/playlist?list=PLzOBPpKi0Kcvm4tIS6ribeIkIzkv7Bl1Z) :tv:.
 * [Music explained, exploited, expressed](http://blog.disasterpeace.com/) blog.
 
+## Organization
+
+* [Building and managing your team](https://www.youtube.com/watch?v=MPZYeVcDkG0) :tv:.
+* [Git centralized workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow/).
+* [How to install GitLab as your private GitHub clone](https://vexxhost.com/resources/tutorials/how-to-install-gitlab-as-your-private-github-clone/).
+* [Tools are just means to get the job done](https://medium.com/@VovaNaz/tools-are-just-means-to-get-the-job-done-7f79cc199099).
+* [10 great ways to impress a software engineer on their first day](http://www.sleepeasysoftware.com/10-great-ways-to-impress-a-software-engineer-on-their-first-day/).
+* [85 of the best business tools for startups](http://articles.bplans.com/business-startup-tools-a-curated-list-of-our-favorite-tools-and-resources-to-build-your-company/).
+* [Killing the "Lucky Indie" myth: How to build a sustainable microstudio](https://www.youtube.com/watch?v=1BCg31KVJok&feature=youtu.be) :tv:.
+ 
 ## Unity
 
 * [Introduction to Game Development with Unity and C#](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ) :tv:.
@@ -154,6 +164,7 @@ To add, remove or change things on the list: please submit a pull request.
 
 ## Resources
 
+* [Open Game Art](http://opengameart.org/).
 * [Free fonts for commercial use](https://www.fontsquirrel.com).
 * [The list of best free and affordable game graphics resources](http://gamasutra.com/blogs/ArtursSosins/20151028/257619/The_list_of_best_free_and_affordable_game_graphics_resources.php).
 * [Free sound effects](http://www.freesound.org/).
@@ -167,6 +178,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Kenny Assets](http://www.kenney.nl/assets), low price packs.
 * [TwentyEP](https://soundcloud.com/auditory_cheesecake/sets/twentyep), free music.
 * [Free Loop Project](http://sleepfacingwest.com/), free music and loops.
+* [Free icons for your games](http://game-icons.net/).
 
 ## Engines.
 
@@ -179,6 +191,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Spriter](http://www.brashmonkey.com/spriter.htm), 2D animation editor.
 * [Polarr](https://v3.polarr.co/), online photo editor.
 * [Pixel art tools](http://pixelartus.com/tagged/pixel-art-tools).
+* [Make infographics easily](http://www.easel.ly/).
+* [Make diagrams easily](https://www.draw.io/).
 
 ## Social
 
@@ -229,6 +243,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [The 2016 definitive guide to mobile analytic platforms](https://www.reddit.com/r/gamedev/comments/42wkmu/the_2016_definitive_guide_to_mobile_analytic/).
 * [Promoting your game - 2016 edition](https://www.reddit.com/r/gamedev/comments/492wvp/promoting_your_game_2016_edition/).
 * [Video game analytics (metrics) you NEED to measure](https://www.reddit.com/r/gamedev/comments/4cgimb/video_game_analytics_metrics_you_need_to_measure/).
+* [Marketing for videogames](http://egameslabs.com/) :es:.
 
 ## Commercial
 
@@ -257,6 +272,15 @@ To add, remove or change things on the list: please submit a pull request.
 
 ## Bureaucracy
 
+* [How we should have started indie game dev company](https://medium.com/@VovaNaz/how-we-should-have-started-indie-game-dev-company-b9a472f89ea3).
+* [Five reasons to trademark your video game today](http://www.gamasutra.com/blogs/StephenMcArthur/20150917/252626/Five_Reasons_to_Trademark_Your_Video_Game_Today.php).
+* [Free agreement generator for game developers](http://docontract.com/).
+* [Legal and accounting basics for startups](https://www.youtube.com/watch?v=EHzvmyMJEK4) :tv:.
+* [Video game law guide](http://morrisonlee.com/2014/10/04/video-game-law-guide/).
+* [A game lawyer](http://www.strebecklaw.com/).
+* [Crea tu empresa de videojuegos](http://www.andorstudios.com/ager/wp-content/desarrollo/CEV.pdf) :es:.
+* [Monta tu empresa de videojuegos](https://www.youtube.com/watch?v=8vB3vrDEPhM) :tv: :es:.
+
 ## Hardware
 
 * [Unity hardware statistics](http://hwstats.unity3d.com/index.html).
@@ -265,6 +289,9 @@ To add, remove or change things on the list: please submit a pull request.
 ## Testing
 
 * [A Crash Course on A/B Testing](http://www.slideshare.net/spuiszis/a-crash-course-on-ab-testing).
+* [User testing service for mobile and browser games](https://www.playtestcloud.com/).
+* [Test mobile games on 1000 mobile devices in 1 hour](http://en.testbird.com/).
+* [Game cloud testing services](http://gamecloud-ltd.com/).
 
 ## Misc
 
