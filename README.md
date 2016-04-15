@@ -35,6 +35,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [How to learn Blender 3D in under 24 hours](http://www.creativebloq.com/blender/learn-blender-3d-under-24-hours-111518089).
 * [Blender Tutorial from the very basics](https://www.youtube.com/watch?v=A3HOEjmLMbQ) :tv:.
 * [Spriting guide](http://www.dragonflycave.com/recoloring.aspx).
+* [Pixel Art tutorial series](https://www.youtube.com/playlist?list=PLC6BCB8E64F315574) :tv:.
 
 ## Design
 
@@ -185,6 +186,49 @@ To add, remove or change things on the list: please submit a pull request.
 * [mention.com](https://mention.com), who is talking about you?.
 
 ## Marketing
+
+* [Marketing indie games on a $0 budget](https://www.youtube.com/watch?v=SkEQtMP2CuA) :tv:.
+* [Step-by-step guide on how to promote your game](https://www.reddit.com/r/gamedev/comments/22godl/stepbystep_guide_on_how_to_promote_your_game).
+* [The ultimate guide to App Store optimization in 2015](http://www.appfreak.net/ultimate-guide-app-store-optimization-2014/).
+* [Videogame marketing and PR](http://www.sellmorevideogames.com/VideogameMarketingAndPR.pdf) (pdf).
+* [How to calculate a marketing budget for your game in 3 steps](http://www.indiegamegirl.com/how-to-calculate-a-marketing-budget/).
+* [7 Dos and Donts of mobile app marketing](http://www.dotcominfoway.com/images/infographic-7-dos-and-donts-of-mobile-app-marketing.jpg).
+* [That one lethal mistake of indie marketing](http://www.theastronauts.com/2013/12/one-lethal-mistake-indie-marketing).
+* [Here's how to contact the press](http://www.gnomeslair.com/2014/06/hey-indie-devs-heres-how-to-contact.html).
+* [iPhone and android game marketing using flurry tracking](https://www.youtube.com/watch?v=hIJqsRoRFp4) :tv:.
+* [Squidiverse marketing presentation](http://www.slideshare.net/phoenixsmith353/squidiverse-marketing-presentation).
+* [Five common mistakes made in marketing freemium apps](http://www.slideshare.net/IsraelMobileSummit/five-common-mistakes-made-in-marketing-freemium-apps).
+* [Marketing 101: Everything you need to know about marketing your mobile game](http://gamasutra.com/blogs/GraceKuo/20140624/219678/Marketing_101_Everything_you_need_to_know_about_marketing_your_mobile_game.php).
+* [How to make an indie game trailer with no budget](http://gamedevelopment.tutsplus.com/tutorials/how-to-make-an-indie-game-trailer-with-no-budget--cms-20825).
+* [A small guide to getting your PC game known before launch - for $0](http://www.gamasutra.com/blogs/MarcMcCann/20140702/220096/A_small_guide_to_getting_your_PC_game_known__for_0.php).
+* [Marketing your indie game: The single most important thing that no one knows how to do](http://gamedevelopment.tutsplus.com/articles/marketing-your-indie-game-the-single-most-important-thing-that-no-one-knows-how-to-do--gamedev-7157).
+* [The Mega-List of content sharing sites for your indie oroject
+](https://docs.google.com/document/d/1wfkCE3qxGmk0oMPUknKlEfZysOuUbrwaIzmd5xGzy4M/edit?pli=1).
+* [User acquisition best practices for mobile games](http://www.gamasutra.com/blogs/DavidZhao/20140808/222741/User_Acquisition_Best_Practices_for_Mobile_Games.php).
+* [US and China mobile games markets brief](http://www.slideshare.net/superdata/us-and-china-mobile-games-markets-brief).
+* [ChinaJoy Special: A foreigner's guide to digital China](http://gamasutra.com/blogs/PascalClarysse/20140801/222406/ChinaJoy_Special_a_Foreigners_Guide_to_Digital_China.php).
+* [Discover the spending habits of online gamers worldwide](http://corporate.onebip.com/onebip-data-insights-discover-the-spending-habits-of-online-gamers-worldwide/).
+* [The Freemium Codex](http://mobiledevmemo.com/freemium-codex-resources-for-freemium/).
+* [Capture your audience's attention](http://www.kertgartner.com/making-entertaining-and-engaging-video-game-trailers/).
+* [The ultimate startup marketing strategy](https://www.ventureharbour.com/ultimate-startup-marketing-strategy/).
+* [Naming an indie game](http://www.gamedev.net/page/resources/_/business/business-and-law/naming-an-indie-game-r3835).
+* [Indie game marketing guide - How to create Landing Pages](http://gamasutra.com/blogs/MariosMouratidis/20141001/226838/Indie_Game_Marketing_Guide_Part_1__How_to_create_Landing_Pages.php).
+* [The 150 most powerful marketing & sales tools](http://www.slideshare.net/ELIV8/the-150-most-powerful-marketing-sales-tools).
+* [Make trailers like the triple A](http://videogamemarketing.ca/2014/10/28/make-trailers-like-triple/).
+* [Indie game PR, marketing, consulting & creative services](http://novypr.com/).
+* [Choosing the perfect keywords for your iOS app](http://gamasutra.com/blogs/SimonHill/20141120/230642/Choosing_the_perfect_keywords_for_your_iOS_app.php).
+* [The 10 commandments of asset promotion](http://blogs.unity3d.com/2013/10/21/the-10-commandments-of-asset-promotion/).
+* [Mobile game press](https://docs.google.com/spreadsheets/d/1sWjJMLk65FgPoF9acJsEeeXp_g4nVNlBYTSKGh-KlPI).
+* [The first month of marketing my new iOS/Android game, Planet Lander](https://www.reddit.com/r/gamedev/comments/3dn4g2/the_first_month_of_marketing_my_new_iosandroid/).
+* [How to make $1m without making your players cross](https://www.youtube.com/watch?v=oRFXrheDP8s) :tv:.
+* [The holy trinity of monetisation](https://ongamesndata.wordpress.com/2015/07/28/the-holy-trinity-of-monetisation/).
+* [Marketing 101 for indie mobile game developers](http://blog.soom.la/2015/08/marketing-101-indie-mobile-game-developers.html).
+* [6 ways for indie game devs to innovate their way into the top chart](http://www.chupamobile.com/blog/2015/09/17/6-ways-for-indie-game-devs-to-innovate-their-way-into-the-top-chart/).
+* [Marketing ideas for your indie game](http://www.gamasutra.com/blogs/SergiuCraitoiu/20160119/263694/Marketing_ideas_for_your_indie_game.php).
+* [Understanding your game through data, analytics for indies 101](https://medium.com/steam-spy/understanding-your-game-through-data-8b09ca93ec11#.ljmc44pid).
+* [The 2016 definitive guide to mobile analytic platforms](https://www.reddit.com/r/gamedev/comments/42wkmu/the_2016_definitive_guide_to_mobile_analytic/).
+* [Promoting your game - 2016 edition](https://www.reddit.com/r/gamedev/comments/492wvp/promoting_your_game_2016_edition/).
+* [Video game analytics (metrics) you NEED to measure](https://www.reddit.com/r/gamedev/comments/4cgimb/video_game_analytics_metrics_you_need_to_measure/).
 
 ## Commercial
 
