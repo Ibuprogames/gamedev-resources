@@ -1,8 +1,6 @@
 # Gamedev resources
 
-An updated collection of useful resources to design, develop and market games. Maintained by [@ibuprogames](https://twitter.com/Ibuprogames).
-
-## Contributing
+An updated collection of useful resources to design, develop and marketing games. Maintained by [@ibuprogames](https://twitter.com/Ibuprogames).
 
 To add, remove or change things on the list: please submit a pull request.
 
@@ -98,7 +96,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [10 great ways to impress a software engineer on their first day](http://www.sleepeasysoftware.com/10-great-ways-to-impress-a-software-engineer-on-their-first-day/).
 * [85 of the best business tools for startups](http://articles.bplans.com/business-startup-tools-a-curated-list-of-our-favorite-tools-and-resources-to-build-your-company/).
 * [Killing the "Lucky Indie" myth: How to build a sustainable microstudio](https://www.youtube.com/watch?v=1BCg31KVJok&feature=youtu.be) :tv:.
- 
+* [An App launch guide](https://github.com/adamwulf/app-launch-guide/blob/master/README.md).
+
 ## Unity
 
 * [Introduction to Game Development with Unity and C#](https://www.youtube.com/channel/UCmtyQOKKmrMVaKuRXz02jbQ) :tv:.
@@ -244,22 +243,48 @@ To add, remove or change things on the list: please submit a pull request.
 * [Promoting your game - 2016 edition](https://www.reddit.com/r/gamedev/comments/492wvp/promoting_your_game_2016_edition/).
 * [Video game analytics (metrics) you NEED to measure](https://www.reddit.com/r/gamedev/comments/4cgimb/video_game_analytics_metrics_you_need_to_measure/).
 * [Marketing for videogames](http://egameslabs.com/) :es:.
+* [7 tips to give traction to your indie game](https://gamedevacademy.org/7-tips-to-give-traction-to-your-indie-game/).
+* [How to top the App Store charts with no marketing budget](http://blog.tapdaq.com/app-marketing/how-to-top-the-app-store-charts-with-no-marketing-budget/).
 
 ## Commercial
 
 * [Organ Trail: Director's Cut one year sales figures](http://www.gamasutra.com/blogs/RyanWiemeyer/20130809/198021/Organ_Trail_Directors_Cut_One_Year_Sales_Figures.php).
-* [Sales and Ads stats of an iOS / Android game](http://www.frozax.com/blog/2012/07/sales-ads-stats-ios-android-game/).
-* [Dustforce sales figures](http://hitboxteam.com/dustforce-sales-figures).
-* [Monster Loves You: By the numbers](http://gamasutra.com/blogs/AndyMoore/20130605/193717/Monster_Loves_You_By_The_Numbers.php).
-* [Results of translating Hit Tennis 3](http://www.markj.net/translate-hit-tennis-3-iphone-game).
-* [Sales and Ads stats for Hashi Puzzles (iOS, Google Play and Amazon App Store)](http://www.frozax.com/blog/2013/01/sales-ads-stats-hashi-puzzles-ios-google-play-amazon-app-store/).
-* [Fingle marketing effort and numbers](http://gameovenstudios.com/fingle-marketing-effort-and-numbers).
-* [Cardinal Quest: How I made $60k from My indie game](http://gamedevelopment.tutsplus.com/articles/cardinal-quest-how-i-made-60000-from-my-indie-game--gamedev-12073).
-* [Proun sales data revealed](http://joostdevblog.blogspot.com.es/2011/10/proun-is-big-success-pay-what-you-want.html).
-* [15 Days of Waking Mars at $2.99](http://blog.tigerstylegames.com/post/23104925410/15-days-of-waking-mars-at-299).
-* [Digging down to business: Shovel Knight planning and sales](http://www.gamasutra.com/blogs/DavidDAngelo/20140805/222585/Digging_down_to_business_Shovel_Knight_Planning_and_Sales.php).
 * [How I spent $26k CAN making a professional mobile game](https://www.reddit.com/r/gamedev/comments/2lbime/how_i_spent_26000_can_making_a_professional).
 * [4k copies in Early Access](http://sergeiklimov.biz/2016/01/early_access/).
+* [Forcing the Hard Currency in F2P Games](http://www.gamasutra.com/blogs/MikkelFaurholm/20140422/215931/Forcing_the_Hard_Currency_in_F2P_Games.php).
+* [Freemium business model](https://speakerdeck.com/bftrick/wordcamp-minneapolis-2014-freemium-business-model).
+* [Sales and Ads stats of an iOS / Android game](http://www.frozax.com/blog/2012/07/sales-ads-stats-ios-android-game/).
+* [Dustforce sales figures](http://hitboxteam.com/dustforce-sales-figures).
+* [Is freemium the right model for your business?](https://t37.net/is-freemium-the-right-model-for-your-business.html).
+* [Hearthstone - Monetization analysis](http://www.gamasutra.com/blogs/EthanLevy/20140508/217377/Hearthstone__Heroes_of_Warcraft_monetization_analysis.php).
+* [Results of translating Hit Tennis 3](http://www.markj.net/translate-hit-tennis-3-iphone-game).
+* [Sales and Ads stats for Hashi Puzzles (iOS, Google Play and Amazon App * []().
+* [A comprehensive free-to-play game model](http://mobiledevmemo.com/free-to-play-spreadsheet-revenue-model/).
+* [Analyzing apps worldwide](http://blog.appannie.com/).
+* [Fingle marketing effort and numbers](http://gameovenstudios.com/fingle-marketing-effort-and-numbers).
+* [Cardinal Quest: How I made $60k from My indie game](http://gamedevelopment.tutsplus.com/articles/cardinal-quest-how-i-made-60000-from-my-indie-game--gamedev-12073).
+* [Discover all you need to know on games, eSports & mobile](https://newzoo.com/).
+* [24000 videogames releases since 1975](http://imgur.com/Eo9kJ).
+* [](http://images.businessdegree.net.s3.amazonaws.com/little-games-big-business.gif).
+* [Proun sales data revealed](http://joostdevblog.blogspot.com.es/2011/10/proun-is-big-success-pay-what-you-want.html).
+* [15 Days of Waking Mars at $2.99](http://blog.tigerstylegames.com/post/23104925410/15-days-of-waking-mars-at-299).
+* [Developing your app for the global market](https://www.youtube.com/watch?v=tWPEY1Kzndw) :tv:.
+* [Ten lessons from ten years building ten F2P games](https://www.youtube.com/watch?v=FF6_M66AtTs) :tv:.
+* [Monster Loves You: By the numbers](http://gamasutra.com/blogs/AndyMoore/20130605/193717/Monster_Loves_You_By_The_Numbers.php).
+Store)](http://www.frozax.com/blog/2013/01/sales-ads-stats-hashi-puzzles-ios-google-play-amazon-app-store/).
+* [Digging down to business: Shovel Knight planning and sales](http://www.gamasutra.com/blogs/DavidDAngelo/20140805/222585/Digging_down_to_business_Shovel_Knight_Planning_and_Sales.php).
+* [The top 5 mistakes in F2P](http://www.slideshare.net/anastasiaalikova/chris-williams-vp-general-manager-of-freetoplay).
+* [Creating the financial model for your company](http://www.gamedev.net/page/resources/_/business/business-and-law/creating-the-financial-model-for-your-company-part-i-r3685).
+* [Mobile games market](http://www.slideshare.net/StephanieLlamas/mobile-games-market-by-stephanie-llamas-at-casual-connect-europe-2014).
+* [How to explain your game to an asshole](http://www.pentadact.com/2012-03-17-gdc-talk-how-to-explain-your-game-to-an-asshole/).
+* [10 steps to the top paid 25 overall on App Store](https://www.reddit.com/r/gamedev/comments/vedcc/10_steps_to_the_top_paid_25_overall_on_app_store).
+* [How to monetize the 97%](http://www.slideshare.net/IsraelMobileSummit/how-to-monetize-the-97).
+* [Premium currency pricing trends and tricks](http://www.gamesbrief.com/2014/09/premium-currency-pricing-trends-and-tricks/).
+* [How to monetize your apps with Ads](https://www.youtube.com/watch?v=UwXCss12Akc).
+* [App Store optimization (ASO)](https://betterin2d.com/2015/01/05/aso-part-1/).
+* [The shape of the App Store](http://dazeend.org/2015/01/the-shape-of-the-app-store/).
+* [Game revenue metrics — What matters, and when](https://www.periscopedata.com/blog/game-revenue-metrics.html).
+* [Is your business model evil? The moral maze of the new games business](https://www.youtube.com/watch?v=gjPaQldK-RE&feature=youtu.be) :tv:.
 
 ## Translation
 
@@ -267,6 +292,9 @@ To add, remove or change things on the list: please submit a pull request.
 * [LocalHeroes](http://www.local-heroes.com/), text localization.
 * [VoiceBunny](https://voicebunny.com), professional voice actors.
 * [Polyglot Project](https://docs.google.com/spreadsheets/d/17f0dQawb-s_Fd7DHgmVvJoEGDMH_yoSd8EYigrb0zmM), common game texts translated.
+* [Chinese mobile app UI trends](http://dangrover.com/blog/2014/12/01/chinese-mobile-app-ui-trends.html).
+* [Top 100 countries by game revenues](http://www.newzoo.com/free/rankings/top-100-countries-by-game-revenues/).
+* [How to succeed in the west](http://www.slideshare.net/DavidPChiu/how-to-succeed-in-the-west-stats-best-practices-and-common-mistakes-for-f2p-core-games-kongregate-f2p-monetization-presentation-chinajoy-wmgc-2014).
 
 ## Documentation
 
