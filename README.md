@@ -269,7 +269,6 @@ To add, remove or change things on the list: please submit a pull request.
 * [Developing your app for the global market](https://www.youtube.com/watch?v=tWPEY1Kzndw) :tv:.
 * [Ten lessons from ten years building ten F2P games](https://www.youtube.com/watch?v=FF6_M66AtTs) :tv:.
 * [Monster Loves You: By the numbers](http://gamasutra.com/blogs/AndyMoore/20130605/193717/Monster_Loves_You_By_The_Numbers.php).
-Store)](http://www.frozax.com/blog/2013/01/sales-ads-stats-hashi-puzzles-ios-google-play-amazon-app-store/).
 * [Digging down to business: Shovel Knight planning and sales](http://www.gamasutra.com/blogs/DavidDAngelo/20140805/222585/Digging_down_to_business_Shovel_Knight_Planning_and_Sales.php).
 * [The top 5 mistakes in F2P](http://www.slideshare.net/anastasiaalikova/chris-williams-vp-general-manager-of-freetoplay).
 * [Creating the financial model for your company](http://www.gamedev.net/page/resources/_/business/business-and-law/creating-the-financial-model-for-your-company-part-i-r3685).
