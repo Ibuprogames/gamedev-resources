@@ -258,14 +258,12 @@ To add, remove or change things on the list: please submit a pull request.
 * [Is freemium the right model for your business?](https://t37.net/is-freemium-the-right-model-for-your-business.html).
 * [Hearthstone - Monetization analysis](http://www.gamasutra.com/blogs/EthanLevy/20140508/217377/Hearthstone__Heroes_of_Warcraft_monetization_analysis.php).
 * [Results of translating Hit Tennis 3](http://www.markj.net/translate-hit-tennis-3-iphone-game).
-* [Sales and Ads stats for Hashi Puzzles (iOS, Google Play and Amazon App * []().
 * [A comprehensive free-to-play game model](http://mobiledevmemo.com/free-to-play-spreadsheet-revenue-model/).
 * [Analyzing apps worldwide](http://blog.appannie.com/).
 * [Fingle marketing effort and numbers](http://gameovenstudios.com/fingle-marketing-effort-and-numbers).
 * [Cardinal Quest: How I made $60k from My indie game](http://gamedevelopment.tutsplus.com/articles/cardinal-quest-how-i-made-60000-from-my-indie-game--gamedev-12073).
 * [Discover all you need to know on games, eSports & mobile](https://newzoo.com/).
 * [24000 videogames releases since 1975](http://imgur.com/Eo9kJ).
-* [](http://images.businessdegree.net.s3.amazonaws.com/little-games-big-business.gif).
 * [Proun sales data revealed](http://joostdevblog.blogspot.com.es/2011/10/proun-is-big-success-pay-what-you-want.html).
 * [15 Days of Waking Mars at $2.99](http://blog.tigerstylegames.com/post/23104925410/15-days-of-waking-mars-at-299).
 * [Developing your app for the global market](https://www.youtube.com/watch?v=tWPEY1Kzndw) :tv:.
