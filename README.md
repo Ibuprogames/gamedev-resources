@@ -309,8 +309,6 @@ To add, remove or change things on the list: please submit a pull request.
 * [Top 100 countries by game revenues](http://www.newzoo.com/free/rankings/top-100-countries-by-game-revenues/).
 * [How to succeed in the west](http://www.slideshare.net/DavidPChiu/how-to-succeed-in-the-west-stats-best-practices-and-common-mistakes-for-f2p-core-games-kongregate-f2p-monetization-presentation-chinajoy-wmgc-2014).
 
-## Documentation
-
 ## Bureaucracy
 
 * [How we should have started indie game dev company](https://medium.com/@VovaNaz/how-we-should-have-started-indie-game-dev-company-b9a472f89ea3).
