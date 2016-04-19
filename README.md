@@ -34,6 +34,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Blender Tutorial from the very basics](https://www.youtube.com/watch?v=A3HOEjmLMbQ) :tv:.
 * [Spriting guide](http://www.dragonflycave.com/recoloring.aspx).
 * [Pixel Art tutorial series](https://www.youtube.com/playlist?list=PLC6BCB8E64F315574) :tv:.
+* [Blender low poly Pokemon tutorial](https://youtu.be/HH4Y9ghqRr4) :tv:.
 
 ## Design
 
@@ -139,6 +140,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Dependency Injection and Unit Testing Unity](http://unity3d.college/2016/02/22/dependency-injection-and-unit-testing-unity/).
 * [Unity serialization best practices](https://imgur.com/a/uqQij).
 * [Porting Unity games to consoles](https://drive.google.com/file/d/0B9QBGqwp4zCQSTJFd2hEXzFrX1k/view).
+* [A practical intro to shaders](https://www.youtube.com/watch?v=C0uJ4sZelio) :tv:.
+* [Unity open source resources](https://unity3d-open-source.zeef.com/taras.leskiv).
 
 ## Unreal
 
@@ -181,6 +184,19 @@ To add, remove or change things on the list: please submit a pull request.
 
 ## Engines.
 
+* [Unreal Engine](https://www.unrealengine.com), widely used since 1998 to build AAA games.
+* [Unity](http://unity3d.com/), most popular engine for indie developers.
+* [CryEngine](https://www.cryengine.com/), powerful engine, open-source code.
+* [StingrayEngine](http://stingrayengine.com/), Autodesk game engine.
+* [Lumberyard](https://aws.amazon.com/lumberyard/), open-source AAA game engine deeply integrated with AWS and Twitch.
+* [GameMaker](http://www.yoyogames.com/gamemaker), it doesn’t require programming knowledge to use.
+* [Cocos2d-x](http://www.cocos2d-x.org/), based on Cocos2d-iPhone with multiple choice of programming languages.
+* [Corona](https://coronalabs.com/), advanced development platform to create mobile 2D apps.
+* [Construct2](https://www.scirra.com/construct2), HTML5, no programming knowledge required.
+* [RPG Maker MV](http://www.rpgmakerweb.com/), create RPG games without programming knowledge.
+* [DarkBASIC Pro](https://www.thegamecreators.com/product/dark-basic-pro-open-source), advanced games development package built on the BASIC language.
+* [Godot](http://www.godotengine.org/), multi-platform 2D/3D open-source C# engine.
+* [MonoGame](http://www.monogame.net/), open-source implementation of Microsoft XNA.
 * [Xenko](http://xenko.com/), cross-platform open-source C# game engine.
 * [HaxeFlixel](http://haxeflixel.com/), cross-platform free 2D engine.
 
