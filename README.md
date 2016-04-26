@@ -35,6 +35,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Spriting guide](http://www.dragonflycave.com/recoloring.aspx).
 * [Pixel Art tutorial series](https://www.youtube.com/playlist?list=PLC6BCB8E64F315574) :tv:.
 * [Blender low poly Pokemon tutorial](https://youtu.be/HH4Y9ghqRr4) :tv:.
+* [Weapon modeling tutorials](https://gumroad.com/timb) :heavy_dollar_sign:.
 
 ## Design
 
@@ -63,9 +64,11 @@ To add, remove or change things on the list: please submit a pull request.
 * [About Combat System Design](http://breadcrumbsinteractive.com/about-combat-system-design/).
 * [UX How-To](https://www.youtube.com/playlist?list=PLg-UKERBljNy2Yem3RJkYL1V70dpzkysC) :tv:.
 * [11 Tips to speed up your game design process](http://blog.gameanalytics.com/blog/11-tips-to-speed-up-your-game-design-process.html).
+* [5 approaches to Crafting Systems in games](http://gamedevelopment.tutsplus.com/articles/5-approaches-to-crafting-systems-in-games-and-where-to-use-them--cms-22628).
 
 ## Programming
 
+* [Online school for developers](https://www.coding-school.eu/).
 * [A list of open source C++ libraries](http://en.cppreference.com/w/cpp/links/libs).
 * [Introduction to Computer Science I](http://cs50.tv/2014/fall/), a Harvard College's introductory course.
 * [Awesome OpenGL](https://github.com/eug/awesome-opengl), a curated list of awesome OpenGL libraries, debuggers, ...
@@ -79,6 +82,11 @@ To add, remove or change things on the list: please submit a pull request.
 * [3D basic lessons](http://www.scratchapixel.com/old/lessons/3d-basic-lessons/).
 * [The book of shaders](http://patriciogonzalezvivo.com/2015/thebookofshaders/), gentle step-by-step guide to shaders.
 * [Agile software development process: 90 months of evolution](https://www.targetprocess.com/articles/agile-software-development-process-90-months-of-evolution/).
+* [Creating a hexagonal grid](http://catlikecoding.com/unity/tutorials/hex-map-1/).
+* [Unicode, localization and C++ support](http://www.italiancpp.org/2016/04/20/unicode-localization-and-cpp-support/).
+* [Beginning C# with Unity](https://www.youtube.com/playlist?list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX) :tv:.
+* [Amit’s game programming bookmarks](http://www-cs-students.stanford.edu/~amitp/gameprog.html).
+* [Creating a MapleStory based MMORPG for learning purposes](https://github.com/ZenXChaos/MapleStorySDLCPP).
 
 ## Audio
 
@@ -157,6 +165,7 @@ To add, remove or change things on the list: please submit a pull request.
 
 * [Lessons Learned in a successful indie game Kickstarter campaign: How CodeSpells raised $120K+](http://gamasutra.com/blogs/LindseyHandley/20140930/226640/Lessons_Learned_in_a_Successful_Indie_Game_Kickstarter_Campaign_How_CodeSpells_Raised_120K.php).
 * [The Key to Steam Greenlight is preparation](http://www.gamasutra.com/blogs/CoreyWarning/20150813/251122/PostMortem_The_Key_to_Steam_Greenlight_is_Preparation.php).
+* [A development diary and post-mortem for my 48 hour game jam entry](https://www.reddit.com/r/gamedev/comments/4fzl1m/stranded_a_development_diary_and_postmortem_for/).
 
 ## Web
 
@@ -182,7 +191,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Free Loop Project](http://sleepfacingwest.com/), free music and loops.
 * [Free icons for your games](http://game-icons.net/).
 
-## Engines.
+## Engines
 
 * [Unreal Engine](https://www.unrealengine.com), widely used since 1998 to build AAA games.
 * [Unity](http://unity3d.com/), most popular engine for indie developers.
@@ -261,6 +270,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Marketing for videogames](http://egameslabs.com/) :es:.
 * [7 tips to give traction to your indie game](https://gamedevacademy.org/7-tips-to-give-traction-to-your-indie-game/).
 * [How to top the App Store charts with no marketing budget](http://blog.tapdaq.com/app-marketing/how-to-top-the-app-store-charts-with-no-marketing-budget/).
+* [Best practices for rewarded video ads](http://blogs.unity3d.com/2016/04/20/best-practices-for-rewarded-video-ads-2/).
 
 ## Commercial
 
@@ -299,7 +309,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Game revenue metrics — What matters, and when](https://www.periscopedata.com/blog/game-revenue-metrics.html).
 * [Is your business model evil? The moral maze of the new games business](https://www.youtube.com/watch?v=gjPaQldK-RE&feature=youtu.be) :tv:.
 
-## Translation
+## Localization
 
 * [Tethras](https://www.tethras.com/), text localization (50+ languages).
 * [LocalHeroes](http://www.local-heroes.com/), text localization.
@@ -335,3 +345,4 @@ To add, remove or change things on the list: please submit a pull request.
 ## Misc
 
 * [The Game Developer's Toolbox](http://gamasutra.com/blogs/AnnaJenelius/20160411/269662/The_Game_Developers_Toolbox_for_Students.php).
+* [Getting a job in the games industry](http://arrowheadgamestudios.com/2016/04/getting-a-job-in-the-games-industry-part-1/).
