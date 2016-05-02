@@ -36,6 +36,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Pixel Art tutorial series](https://www.youtube.com/playlist?list=PLC6BCB8E64F315574) :tv:.
 * [Blender low poly Pokemon tutorial](https://youtu.be/HH4Y9ghqRr4) :tv:.
 * [Weapon modeling tutorials](https://gumroad.com/timb) :heavy_dollar_sign:.
+* [Creating perfectly pixelated games with Unity (2D or 3D)](http://www.gamasutra.com/blogs/AhmetKamilKeles/20160421/271027/Creating_perfectly_pixelated_games_with_Unity_2D_or_3D.php).
+* [An introduction to spine a 2D bone based animation system](http://www.gamefromscratch.com/post/2016/04/25/An-Introduction-To-Spine-A-2D-Bone-Based-Animation-System.aspx).
 
 ## Design
 
@@ -65,6 +67,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [UX How-To](https://www.youtube.com/playlist?list=PLg-UKERBljNy2Yem3RJkYL1V70dpzkysC) :tv:.
 * [11 Tips to speed up your game design process](http://blog.gameanalytics.com/blog/11-tips-to-speed-up-your-game-design-process.html).
 * [5 approaches to Crafting Systems in games](http://gamedevelopment.tutsplus.com/articles/5-approaches-to-crafting-systems-in-games-and-where-to-use-them--cms-22628).
+* [Designing game narrative: How to create a great story](http://www.develop-online.net/opinions/designing-game-narrative-how-to-create-a-great-story/0185460).
+* [On making good combat mechanics](http://joesopko.weebly.com/blog/on-making-good-combat-mechanics-part-1).
 
 ## Programming
 
@@ -87,6 +91,14 @@ To add, remove or change things on the list: please submit a pull request.
 * [Beginning C# with Unity](https://www.youtube.com/playlist?list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX) :tv:.
 * [Amit’s game programming bookmarks](http://www-cs-students.stanford.edu/~amitp/gameprog.html).
 * [Creating a MapleStory based MMORPG for learning purposes](https://github.com/ZenXChaos/MapleStorySDLCPP).
+* [Debugging memory corruption in Unity](http://blogs.unity3d.com/2016/04/25/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2/).
+* [Implementing a melee combo system in C++](http://orfeasel.com/implementing-a-melee-combo-system-in-c/).
+* [Intro to Unity IA](https://www.youtube.com/watch?v=r0kMW3Yasu0) :tv:.
+* [What every programmer needs to know about game networking](http://gafferongames.com/networking-for-game-programmers/what-every-programmer-needs-to-know-about-game-networking/).
+* [Introduction to networked physics](http://gafferongames.com/networked-physics/introduction-to-networked-physics/).
+* [Multithreading in modern C++](http://www.modernescpp.com/index.php/multithreading-in-modern-c).
+* [Essentials of Software Engineering, 
+with a Game Programming focus](http://www.randygaul.net/wp-content/uploads/2016/05/R.Gaul_Essentials_SE.pdf) PDF.
 
 ## Audio
 
@@ -95,6 +107,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Sound effects and scripting in Unity](https://www.youtube.com/watch?v=5N-428vKwaE) :tv:.
 * [Game audio tutorials](https://www.youtube.com/playlist?list=PLzOBPpKi0Kcvm4tIS6ribeIkIzkv7Bl1Z) :tv:.
 * [Music explained, exploited, expressed](http://blog.disasterpeace.com/) blog.
+* [Where the sounds from the world's favorite movies are born](https://www.youtube.com/watch?v=0GPGfDCZ1EE) :tv:.
 
 ## Organization
 
@@ -150,6 +163,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Porting Unity games to consoles](https://drive.google.com/file/d/0B9QBGqwp4zCQSTJFd2hEXzFrX1k/view).
 * [A practical intro to shaders](https://www.youtube.com/watch?v=C0uJ4sZelio) :tv:.
 * [Unity open source resources](https://unity3d-open-source.zeef.com/taras.leskiv).
+* [The big list of Unity development resources](http://appindex.com/app-development/big-list-unity-development-resources/).
+* [Unity UI tutorial: Canvas and scalability](http://cattrapstudios.com/blog/unity-ui-tutorial-canvas-and-scalability/).
 
 ## Unreal
 
@@ -160,12 +175,14 @@ To add, remove or change things on the list: please submit a pull request.
 * [How to create a shooter game from scratch](http://shootertutorial.com/2015/08/08/enemy-boss-robot/).
 * [Making a Pong game](http://gaming-resources.com.ve/site/index.php/2015/08/27/tutorial-making-a-pong-game-with-ue4/).
 * [Getting Started with VR](http://www.tomlooman.com/getting-started-with-vr/).
+* [Unreal Engine C++ tutorials](https://www.youtube.com/channel/UCpsN2TfWGmun4peN2IPgcKg) :tv:.
 
 ## Postmortems
 
 * [Lessons Learned in a successful indie game Kickstarter campaign: How CodeSpells raised $120K+](http://gamasutra.com/blogs/LindseyHandley/20140930/226640/Lessons_Learned_in_a_Successful_Indie_Game_Kickstarter_Campaign_How_CodeSpells_Raised_120K.php).
 * [The Key to Steam Greenlight is preparation](http://www.gamasutra.com/blogs/CoreyWarning/20150813/251122/PostMortem_The_Key_to_Steam_Greenlight_is_Preparation.php).
 * [A development diary and post-mortem for my 48 hour game jam entry](https://www.reddit.com/r/gamedev/comments/4fzl1m/stranded_a_development_diary_and_postmortem_for/).
+* [The first 4 days of Greenlight – What to expect](http://www.traptics.com/the-first-4-days-of-greenlight-what-to-expect/).
 
 ## Web
 
@@ -190,6 +207,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [TwentyEP](https://soundcloud.com/auditory_cheesecake/sets/twentyep), free music.
 * [Free Loop Project](http://sleepfacingwest.com/), free music and loops.
 * [Free icons for your games](http://game-icons.net/).
+* [Joost's textures](http://joost3d.com/textures/).
 
 ## Engines
 
@@ -341,6 +359,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [User testing service for mobile and browser games](https://www.playtestcloud.com/).
 * [Test mobile games on 1000 mobile devices in 1 hour](http://en.testbird.com/).
 * [Game cloud testing services](http://gamecloud-ltd.com/).
+* [Automated testing League Of Legends](https://engineering.riotgames.com/news/automated-testing-league-legends).
 
 ## Misc
 
