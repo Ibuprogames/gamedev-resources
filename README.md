@@ -38,6 +38,10 @@ To add, remove or change things on the list: please submit a pull request.
 * [Weapon modeling tutorials](https://gumroad.com/timb) :heavy_dollar_sign:.
 * [Creating perfectly pixelated games with Unity (2D or 3D)](http://www.gamasutra.com/blogs/AhmetKamilKeles/20160421/271027/Creating_perfectly_pixelated_games_with_Unity_2D_or_3D.php).
 * [An introduction to spine a 2D bone based animation system](http://www.gamefromscratch.com/post/2016/04/25/An-Introduction-To-Spine-A-2D-Bone-Based-Animation-System.aspx).
+* [Making the world of Firewatch](http://www.gdcvault.com/play/1023191/Making-the-World-of) :tv:.
+* [HD index painting in photoshop](http://danfessler.com/blog/hd-index-painting-in-photoshop).
+* [Photoshop as game editor](http://www.gamasutra.com/blogs/JochenHeizmann/20160506/272131/Photoshop_as_game_editor.php).
+* [User interfaces](http://gameuis.com/).
 
 ## Design
 
@@ -97,8 +101,10 @@ To add, remove or change things on the list: please submit a pull request.
 * [What every programmer needs to know about game networking](http://gafferongames.com/networking-for-game-programmers/what-every-programmer-needs-to-know-about-game-networking/).
 * [Introduction to networked physics](http://gafferongames.com/networked-physics/introduction-to-networked-physics/).
 * [Multithreading in modern C++](http://www.modernescpp.com/index.php/multithreading-in-modern-c).
-* [Essentials of Software Engineering, 
-with a Game Programming focus](http://www.randygaul.net/wp-content/uploads/2016/05/R.Gaul_Essentials_SE.pdf) PDF.
+* [Essentials of Software Engineering, with a Game Programming focus](http://www.randygaul.net/wp-content/uploads/2016/05/R.Gaul_Essentials_SE.pdf) PDF.
+* [Turn based multiplayer](https://theliquidfire.wordpress.com/2016/05/05/turn-based-multiplayer-part-1/).
+* [DiLIB: Behavior Tree library in C++](http://dilib.dimutu.com/).
+* [Remaking Cavestory in C++](https://www.youtube.com/watch?v=ETvApbD5xRo) :tv:.
 
 ## Audio
 
@@ -177,12 +183,39 @@ with a Game Programming focus](http://www.randygaul.net/wp-content/uploads/2016/
 * [Getting Started with VR](http://www.tomlooman.com/getting-started-with-vr/).
 * [Unreal Engine C++ tutorials](https://www.youtube.com/channel/UCpsN2TfWGmun4peN2IPgcKg) :tv:.
 
+## Engines
+
+* [Unreal Engine](https://www.unrealengine.com), widely used since 1998 to build AAA games.
+* [Unity](http://unity3d.com/), most popular engine for indie developers.
+* [CryEngine](https://www.cryengine.com/), powerful engine, open-source code.
+* [StingrayEngine](http://stingrayengine.com/), Autodesk game engine.
+* [Lumberyard](https://aws.amazon.com/lumberyard/), open-source AAA game engine deeply integrated with AWS and Twitch.
+* [GameMaker](http://www.yoyogames.com/gamemaker), it doesn’t require programming knowledge to use.
+* [Cocos2d-x](http://www.cocos2d-x.org/), based on Cocos2d-iPhone with multiple choice of programming languages.
+* [Corona](https://coronalabs.com/), advanced development platform to create mobile 2D apps.
+* [Construct2](https://www.scirra.com/construct2), HTML5, no programming knowledge required.
+* [RPG Maker MV](http://www.rpgmakerweb.com/), create RPG games without programming knowledge.
+* [DarkBASIC Pro](https://www.thegamecreators.com/product/dark-basic-pro-open-source), advanced games development package built on the BASIC language.
+* [Godot](http://www.godotengine.org/), multi-platform 2D/3D open-source C#.
+* [MonoGame](http://www.monogame.net/), open-source implementation of Microsoft XNA.
+* [Xenko](http://xenko.com/), cross-platform open-source C#.
+* [HaxeFlixel](http://haxeflixel.com/), cross-platform free 2D engine.
+* [GDevelop](http://compilgames.net/), cross-platform open-source HTML5.
+* [Superpowers](http://superpowers-html5.com/index.en.html), 2D & 3D free and open source.
+* [Defold](http://www.defold.com/), 2D game engine.
+* [QICI](http://www.qiciengine.com/), 2D, WYSIWYG editor.
+* [Wave Engine](https://waveengine.net/), 2D & 3D, cross-platform.
+* [Urho3D](http://urho3d.github.io/), free lightweight, C++, cross-platform 2D & 3D.
+* [SFML](http://www.sfml-dev.org/), multi-platform, multi-language.
+* [Banshee3D](http://www.banshee3d.com), multi-threaded, C++14, 2D & 3Ds.
+
 ## Postmortems
 
 * [Lessons Learned in a successful indie game Kickstarter campaign: How CodeSpells raised $120K+](http://gamasutra.com/blogs/LindseyHandley/20140930/226640/Lessons_Learned_in_a_Successful_Indie_Game_Kickstarter_Campaign_How_CodeSpells_Raised_120K.php).
 * [The Key to Steam Greenlight is preparation](http://www.gamasutra.com/blogs/CoreyWarning/20150813/251122/PostMortem_The_Key_to_Steam_Greenlight_is_Preparation.php).
 * [A development diary and post-mortem for my 48 hour game jam entry](https://www.reddit.com/r/gamedev/comments/4fzl1m/stranded_a_development_diary_and_postmortem_for/).
 * [The first 4 days of Greenlight – What to expect](http://www.traptics.com/the-first-4-days-of-greenlight-what-to-expect/).
+* [The making of mobile game 'Photo Finish Horse Racing'](http://www.gamasutra.com/blogs/IanCummings/20160505/271928/The_making_of_mobile_game_Photo_Finish_Horse_Racing_part_1.php).
 
 ## Web
 
@@ -208,24 +241,13 @@ with a Game Programming focus](http://www.randygaul.net/wp-content/uploads/2016/
 * [Free Loop Project](http://sleepfacingwest.com/), free music and loops.
 * [Free icons for your games](http://game-icons.net/).
 * [Joost's textures](http://joost3d.com/textures/).
-
-## Engines
-
-* [Unreal Engine](https://www.unrealengine.com), widely used since 1998 to build AAA games.
-* [Unity](http://unity3d.com/), most popular engine for indie developers.
-* [CryEngine](https://www.cryengine.com/), powerful engine, open-source code.
-* [StingrayEngine](http://stingrayengine.com/), Autodesk game engine.
-* [Lumberyard](https://aws.amazon.com/lumberyard/), open-source AAA game engine deeply integrated with AWS and Twitch.
-* [GameMaker](http://www.yoyogames.com/gamemaker), it doesn’t require programming knowledge to use.
-* [Cocos2d-x](http://www.cocos2d-x.org/), based on Cocos2d-iPhone with multiple choice of programming languages.
-* [Corona](https://coronalabs.com/), advanced development platform to create mobile 2D apps.
-* [Construct2](https://www.scirra.com/construct2), HTML5, no programming knowledge required.
-* [RPG Maker MV](http://www.rpgmakerweb.com/), create RPG games without programming knowledge.
-* [DarkBASIC Pro](https://www.thegamecreators.com/product/dark-basic-pro-open-source), advanced games development package built on the BASIC language.
-* [Godot](http://www.godotengine.org/), multi-platform 2D/3D open-source C# engine.
-* [MonoGame](http://www.monogame.net/), open-source implementation of Microsoft XNA.
-* [Xenko](http://xenko.com/), cross-platform open-source C# game engine.
-* [HaxeFlixel](http://haxeflixel.com/), cross-platform free 2D engine.
+* [Over 20000 free icons](http://www.icons8.com).
+* [Vector images](http://www.vecteezy.com).
+* [iOS icons](http://www.pixeden.com/free-icons-set).
+* [Icon finder](https://www.iconfinder.com).
+* [Glitch game art](http://www.glitchthegame.com/public-domain-game-art/).
+* [Scalable vector art](http://game-icons.net).
+* [Great collection of resources](https://github.com/saniv/free-game-art). 
 
 ## Tools
 
@@ -289,6 +311,9 @@ with a Game Programming focus](http://www.randygaul.net/wp-content/uploads/2016/
 * [7 tips to give traction to your indie game](https://gamedevacademy.org/7-tips-to-give-traction-to-your-indie-game/).
 * [How to top the App Store charts with no marketing budget](http://blog.tapdaq.com/app-marketing/how-to-top-the-app-store-charts-with-no-marketing-budget/).
 * [Best practices for rewarded video ads](http://blogs.unity3d.com/2016/04/20/best-practices-for-rewarded-video-ads-2/).
+* [Worst trailer mistakes](http://mjoshua.com/blog/2016/05/02/worst-trailer-mistakes/).
+* [Essential marketing/PR tips for indie devs](https://www.youtube.com/watch?v=c4XXTmdmcoA) :tv:.
+* [PAX East 2016 and the Indie MINIBOOTH](http://wulverblade.com/pax-east-2016-and-the-indieminibooth/).
 
 ## Commercial
 
@@ -326,6 +351,7 @@ with a Game Programming focus](http://www.randygaul.net/wp-content/uploads/2016/
 * [The shape of the App Store](http://dazeend.org/2015/01/the-shape-of-the-app-store/).
 * [Game revenue metrics — What matters, and when](https://www.periscopedata.com/blog/game-revenue-metrics.html).
 * [Is your business model evil? The moral maze of the new games business](https://www.youtube.com/watch?v=gjPaQldK-RE&feature=youtu.be) :tv:.
+* [Hacking Kickstarter: How to raise $100,000 in 10 days (includes Successful Templates, emails, etc.)](http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc/).
 
 ## Localization
 
@@ -347,6 +373,7 @@ with a Game Programming focus](http://www.randygaul.net/wp-content/uploads/2016/
 * [A game lawyer](http://www.strebecklaw.com/).
 * [Crea tu empresa de videojuegos](http://www.andorstudios.com/ager/wp-content/desarrollo/CEV.pdf) :es:.
 * [Monta tu empresa de videojuegos](https://www.youtube.com/watch?v=8vB3vrDEPhM) :tv: :es:.
+* [Why you should always register the trademark on your Kickstarter game](http://www.gamasutra.com/blogs/StephenMcArthur/20160504/271940/Why_You_Should_Always_Register_the_Trademark_on_your_Kickstarter_Game.php).
 
 ## Hardware
 
