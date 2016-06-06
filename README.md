@@ -42,6 +42,11 @@ To add, remove or change things on the list: please submit a pull request.
 * [HD index painting in photoshop](http://danfessler.com/blog/hd-index-painting-in-photoshop).
 * [Photoshop as game editor](http://www.gamasutra.com/blogs/JochenHeizmann/20160506/272131/Photoshop_as_game_editor.php).
 * [User interfaces](http://gameuis.com/).
+* [Game art tricks](https://simonschreibt.de/game-art-tricks/).
+* [How to build sci-fi environments in Unity 5](http://www.3dartistonline.com/news/2016/05/how-to-build-sci-fi-environments-in-unity-5/).
+* [Technical study: Overwatc](http://polycount.com/discussion/170394/technical-study-overwatch-image-heavy).
+* [The brilliance in Mad Max's world design](https://shaabanm.wordpress.com/2015/09/23/the-brilliance-in-mad-maxs-world-design/).
+* [Making of The Descendant](https://madewith.unity.com/stories/making-descendant).
 
 ## Design
 
@@ -105,6 +110,10 @@ To add, remove or change things on the list: please submit a pull request.
 * [Turn based multiplayer](https://theliquidfire.wordpress.com/2016/05/05/turn-based-multiplayer-part-1/).
 * [DiLIB: Behavior Tree library in C++](http://dilib.dimutu.com/).
 * [Remaking Cavestory in C++](https://www.youtube.com/watch?v=ETvApbD5xRo) :tv:.
+* [Three C# garbage examples](https://xenoprimate.wordpress.com/2016/04/08/three-garbage-examples/).
+* [Flatbuffers for Unity](http://exiin.com/blog/flatbuffers-for-unity-sample-code/).
+* [Data structures in games](http://enemyhideout.com/2016/05/games-101-data-structures-in-games/).
+* [C++ for games: Performance, allocations and Data Locality](http://ithare.com/c-for-games-performance-allocations-and-data-locality/).
 
 ## Audio
 
@@ -114,6 +123,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Game audio tutorials](https://www.youtube.com/playlist?list=PLzOBPpKi0Kcvm4tIS6ribeIkIzkv7Bl1Z) :tv:.
 * [Music explained, exploited, expressed](http://blog.disasterpeace.com/) blog.
 * [Where the sounds from the world's favorite movies are born](https://www.youtube.com/watch?v=0GPGfDCZ1EE) :tv:.
+* [DOOM: Behind the music](https://www.youtube.com/watch?v=ua-f0ypVbPA) :tv:.
 
 ## Organization
 
@@ -125,6 +135,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [85 of the best business tools for startups](http://articles.bplans.com/business-startup-tools-a-curated-list-of-our-favorite-tools-and-resources-to-build-your-company/).
 * [Killing the "Lucky Indie" myth: How to build a sustainable microstudio](https://www.youtube.com/watch?v=1BCg31KVJok&feature=youtu.be) :tv:.
 * [An App launch guide](https://github.com/adamwulf/app-launch-guide/blob/master/README.md).
+* [Developing simple and appealing games](http://www.voidbee.com/blog/develop-simple-and-appealing-games).
 
 ## Unity
 
@@ -171,6 +182,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Unity open source resources](https://unity3d-open-source.zeef.com/taras.leskiv).
 * [The big list of Unity development resources](http://appindex.com/app-development/big-list-unity-development-resources/).
 * [Unity UI tutorial: Canvas and scalability](http://cattrapstudios.com/blog/unity-ui-tutorial-canvas-and-scalability/).
+* [Unity serialization](https://sometimesicode.wordpress.com/2015/04/11/unity-serialization-part-1-how-it-works-and-examples/).
+* [Introduction to game development (Unity and C#)](https://www.youtube.com/playlist?list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw) :tv:.
 
 ## Unreal
 
@@ -182,6 +195,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Making a Pong game](http://gaming-resources.com.ve/site/index.php/2015/08/27/tutorial-making-a-pong-game-with-ue4/).
 * [Getting Started with VR](http://www.tomlooman.com/getting-started-with-vr/).
 * [Unreal Engine C++ tutorials](https://www.youtube.com/channel/UCpsN2TfWGmun4peN2IPgcKg) :tv:.
+* [Blender to UE4 animation pipeline](https://www.youtube.com/watch?v=moAcoJx8Hfg) :tv:.
 
 ## Engines
 
@@ -314,6 +328,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Worst trailer mistakes](http://mjoshua.com/blog/2016/05/02/worst-trailer-mistakes/).
 * [Essential marketing/PR tips for indie devs](https://www.youtube.com/watch?v=c4XXTmdmcoA) :tv:.
 * [PAX East 2016 and the Indie MINIBOOTH](http://wulverblade.com/pax-east-2016-and-the-indieminibooth/).
+* [Making the Gemstone Keeper Greenlight trailer](http://www.gamasutra.com/blogs/TimStoddard/20160516/272072/Making_the_Gemstone_Keeper_Greenlight_Trailer.php).
+* [The content marketing guide for game developers](http://dominickamin.com/content-marketing-1).
 
 ## Commercial
 
@@ -352,6 +368,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Game revenue metrics — What matters, and when](https://www.periscopedata.com/blog/game-revenue-metrics.html).
 * [Is your business model evil? The moral maze of the new games business](https://www.youtube.com/watch?v=gjPaQldK-RE&feature=youtu.be) :tv:.
 * [Hacking Kickstarter: How to raise $100,000 in 10 days (includes Successful Templates, emails, etc.)](http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc/).
+* [Mobile Ad networks comparison](http://blog.soom.la/2016/05/mobile-ad-networks-comparison-spreadsheet.html).
 
 ## Localization
 
