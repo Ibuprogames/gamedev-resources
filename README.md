@@ -47,6 +47,11 @@ To add, remove or change things on the list: please submit a pull request.
 * [Technical study: Overwatc](http://polycount.com/discussion/170394/technical-study-overwatch-image-heavy).
 * [The brilliance in Mad Max's world design](https://shaabanm.wordpress.com/2015/09/23/the-brilliance-in-mad-maxs-world-design/).
 * [Making of The Descendant](https://madewith.unity.com/stories/making-descendant).
+* [10 mobile games with the best map screens](https://www.linkedin.com/pulse/10-mobile-games-best-map-screens-junxue-li).
+* [Photoscan tutorial - Photogrammetry](https://www.youtube.com/watch?v=bero-JBTAX8) :tv:.
+* [Gamma and Linear space - What they are and how they differ](http://www.kinematicsoup.com/news/2016/6/15/gamma-and-linear-space-what-they-are-how-they-differ).
+* [How to avoid bad color schemes](https://neutroniogames.blogspot.com.es/2016/06/color-theory-for-programmers_18.html).
+* [Setting up PBR materials and baked lighting in Unity 5](http://www.thesongofseven.com/dev-blog/2016/6/26/setting-up-pbr-materials-and-baked-lighting-in-unity-5).
 
 ## Design
 
@@ -78,6 +83,11 @@ To add, remove or change things on the list: please submit a pull request.
 * [5 approaches to Crafting Systems in games](http://gamedevelopment.tutsplus.com/articles/5-approaches-to-crafting-systems-in-games-and-where-to-use-them--cms-22628).
 * [Designing game narrative: How to create a great story](http://www.develop-online.net/opinions/designing-game-narrative-how-to-create-a-great-story/0185460).
 * [On making good combat mechanics](http://joesopko.weebly.com/blog/on-making-good-combat-mechanics-part-1).
+* [Extra Credits: game design channel](https://www.youtube.com/playlist?list=PLtkJ7uLv7p0JMUNBbtMfh3wrkHKnWeyxd) :tv:.
+* [How rhythm engages players](https://www.youtube.com/watch?v=1z1r5RZFoS0) :tv:.
+* [On making good combat mechanics](http://www.gamasutra.com/blogs/JosephSopko/20160630/276193/On_Making_Good_Combat_Mechanics_Part_1.php).
+* [Platformer controls: how to avoid limpness and rigidity feelings](http://www.gamasutra.com/blogs/YoannPignole/20140103/207987/Platformer_controls_how_to_avoid_limpness_and_rigidity_feelings.php).
+* [Death in video games](https://www.youtube.com/watch?v=4D6hJG3GVF0).
 
 ## Programming
 
@@ -114,6 +124,10 @@ To add, remove or change things on the list: please submit a pull request.
 * [Flatbuffers for Unity](http://exiin.com/blog/flatbuffers-for-unity-sample-code/).
 * [Data structures in games](http://enemyhideout.com/2016/05/games-101-data-structures-in-games/).
 * [C++ for games: Performance, allocations and Data Locality](http://ithare.com/c-for-games-performance-allocations-and-data-locality/).
+* [A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things](https://cpp.libhunt.com/).
+* [C# binding for Vulkan](https://github.com/Mervill/Tanagra).
+* [Upgrading existing C# code to C# 6.0](http://www.dotnetcurry.com/csharp/1222/upgrade-existing-csharp-code-csharp-6).
+* [Rendering multiple lights in Unity](http://catlikecoding.com/unity/tutorials/rendering/part-5/).
 
 ## Audio
 
@@ -124,6 +138,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Music explained, exploited, expressed](http://blog.disasterpeace.com/) blog.
 * [Where the sounds from the world's favorite movies are born](https://www.youtube.com/watch?v=0GPGfDCZ1EE) :tv:.
 * [DOOM: Behind the music](https://www.youtube.com/watch?v=ua-f0ypVbPA) :tv:.
+* [Mario Kart 8 ft. SpaceHamster - Original sound theory](https://www.youtube.com/watch?v=mGjVkz-duNc) :tv:.
 
 ## Organization
 
@@ -186,6 +201,10 @@ To add, remove or change things on the list: please submit a pull request.
 * [Unity UI tutorial: Canvas and scalability](http://cattrapstudios.com/blog/unity-ui-tutorial-canvas-and-scalability/).
 * [Unity serialization](https://sometimesicode.wordpress.com/2015/04/11/unity-serialization-part-1-how-it-works-and-examples/).
 * [Introduction to game development (Unity and C#)](https://www.youtube.com/playlist?list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw) :tv:.
+* [Unity 5 level design, tutorial and image effects](https://www.youtube.com/watch?v=bhin1zxbIdU) :tv:.
+* [Shaders case study - Hearthstone golden cards](https://www.youtube.com/watch?v=OYjMnMZe1Vg) :tv:.
+* [Coding gameplay](http://enemyhideout.com/2016/06/coding-gameplay/).
+* [5 more Unity tips](http://synersteel.com/blog/2016/6/22/5-more-unity-tips).
 
 ## Unreal
 
@@ -232,6 +251,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [A development diary and post-mortem for my 48 hour game jam entry](https://www.reddit.com/r/gamedev/comments/4fzl1m/stranded_a_development_diary_and_postmortem_for/).
 * [The first 4 days of Greenlight – What to expect](http://www.traptics.com/the-first-4-days-of-greenlight-what-to-expect/).
 * [The making of mobile game 'Photo Finish Horse Racing'](http://www.gamasutra.com/blogs/IanCummings/20160505/271928/The_making_of_mobile_game_Photo_Finish_Horse_Racing_part_1.php).
+* [Demons with Shotguns postmortem - Don't quit your day job](http://www.gamasutra.com/blogs/NicholasDiMucci/20160623/275260/Demons_with_Shotguns_Postmortem__Dont_Quit_Your_Day_Job.php).
+* [Psych postmortem](http://www.gamasutra.com/blogs/ChristianBaumgartner/20160209/265443/Psych_Postmortem.php).
 
 ## Web
 
@@ -263,7 +284,9 @@ To add, remove or change things on the list: please submit a pull request.
 * [Icon finder](https://www.iconfinder.com).
 * [Glitch game art](http://www.glitchthegame.com/public-domain-game-art/).
 * [Scalable vector art](http://game-icons.net).
-* [Great collection of resources](https://github.com/saniv/free-game-art). 
+* [Great collection of resources](https://github.com/saniv/free-game-art).
+* [Free Unity assets list](http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/).
+* [80's free soundtracks](https://soundcloud.com/beardmont/sets/the-happiest-days-of-our-lives).
 
 ## Tools
 
@@ -372,6 +395,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Is your business model evil? The moral maze of the new games business](https://www.youtube.com/watch?v=gjPaQldK-RE&feature=youtu.be) :tv:.
 * [Hacking Kickstarter: How to raise $100,000 in 10 days (includes Successful Templates, emails, etc.)](http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc/).
 * [Mobile Ad networks comparison](http://blog.soom.la/2016/05/mobile-ad-networks-comparison-spreadsheet.html).
+* [App stores, Steam and indie poverty: the web as an alternative](http://wimi5.com/app-stores-steam-and-indie-poverty-the-web-as-an-alternative/).
 
 ## Localization
 
