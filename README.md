@@ -55,6 +55,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Creating our Logo](https://i.imgur.com/zbSbj47.png).
 * [Texturing for beginners: Top 14 Ways to mix textures and shaders, in Blender](https://www.youtube.com/watch?v=liNGmdXsfbs) :tv:.
 * [Lighting for game developers](https://www.youtube.com/watch?v=O9XPEMu4Chs) :tv:.
+* [Creating high-quality character art](http://80.lv/articles/alessando-baldasseroni-creating-high-quality-character-art/).
+
 
 ## Design
 
@@ -144,7 +146,6 @@ To add, remove or change things on the list: please submit a pull request.
 * [Raylib, a simple and easy-to-use library to learn videogames programming](http://www.raylib.com/).
 * [A collection of Awesome .NET libraries, tools & frameworks](https://dotnet.libhunt.com/).
 * [A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things](https://cpp.libhunt.com/).
-* [Creating high-quality character art](http://80.lv/articles/alessando-baldasseroni-creating-high-quality-character-art/).
 
 ## Audio
 
