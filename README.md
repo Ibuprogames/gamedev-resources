@@ -52,6 +52,9 @@ To add, remove or change things on the list: please submit a pull request.
 * [Gamma and Linear space - What they are and how they differ](http://www.kinematicsoup.com/news/2016/6/15/gamma-and-linear-space-what-they-are-how-they-differ).
 * [How to avoid bad color schemes](https://neutroniogames.blogspot.com.es/2016/06/color-theory-for-programmers_18.html).
 * [Setting up PBR materials and baked lighting in Unity 5](http://www.thesongofseven.com/dev-blog/2016/6/26/setting-up-pbr-materials-and-baked-lighting-in-unity-5).
+* [Creating our Logo](https://i.imgur.com/zbSbj47.png).
+* [Texturing for beginners: Top 14 Ways to mix textures and shaders, in Blender](https://www.youtube.com/watch?v=liNGmdXsfbs) :tv:.
+* [Lighting for game developers](https://www.youtube.com/watch?v=O9XPEMu4Chs) :tv:.
 
 ## Design
 
@@ -88,6 +91,14 @@ To add, remove or change things on the list: please submit a pull request.
 * [On making good combat mechanics](http://www.gamasutra.com/blogs/JosephSopko/20160630/276193/On_Making_Good_Combat_Mechanics_Part_1.php).
 * [Platformer controls: how to avoid limpness and rigidity feelings](http://www.gamasutra.com/blogs/YoannPignole/20140103/207987/Platformer_controls_how_to_avoid_limpness_and_rigidity_feelings.php).
 * [Death in video games](https://www.youtube.com/watch?v=4D6hJG3GVF0).
+* [Why The Witcher 3's Sidequests Are So Good](https://www.youtube.com/watch?v=fkA3KKSHx9o) :tv:.
+* [6 books every game and product designer should read](http://www.doriadar.com/6-books-every-game-product-designer-read/).
+* [A collection of mobile game screenshots](http://gamesinspiration.com/).
+* [Why do FPS boss battles suck?](https://www.youtube.com/watch?v=pAI3klmQCno) :tv:.
+* [A Theory of Fun 10 years later](http://www.gdcvault.com/play/1016632/A-Theory-of-Fun-10).
+* [Why is Pokemon Go so addicting?](https://www.youtube.com/watch?v=1dQ5O95Zy7Y) :tv:.
+* [Making difficult fun: How to challenge your players](http://gamedevelopment.tutsplus.com/tutorials/making-difficult-fun-how-to-challenge-your-players--cms-25873).
+* [Diablo: A classic game postmortem](https://www.youtube.com/watch?v=VscdPA6sUkc) :tv:.
 
 ## Programming
 
@@ -128,6 +139,12 @@ To add, remove or change things on the list: please submit a pull request.
 * [C# binding for Vulkan](https://github.com/Mervill/Tanagra).
 * [Upgrading existing C# code to C# 6.0](http://www.dotnetcurry.com/csharp/1222/upgrade-existing-csharp-code-csharp-6).
 * [Rendering multiple lights in Unity](http://catlikecoding.com/unity/tutorials/rendering/part-5/).
+* [Learn C# online](http://bafflednerd.com/learn-csharp-online/).
+* [libyojimbo, a source network library](http://gafferongames.com/2016/07/21/launch-of-libyojimbo/).
+* [Raylib, a simple and easy-to-use library to learn videogames programming](http://www.raylib.com/).
+* [A collection of Awesome .NET libraries, tools & frameworks](https://dotnet.libhunt.com/).
+* [A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things](https://cpp.libhunt.com/).
+* [Creating high-quality character art](http://80.lv/articles/alessando-baldasseroni-creating-high-quality-character-art/).
 
 ## Audio
 
@@ -139,6 +156,10 @@ To add, remove or change things on the list: please submit a pull request.
 * [Where the sounds from the world's favorite movies are born](https://www.youtube.com/watch?v=0GPGfDCZ1EE) :tv:.
 * [DOOM: Behind the music](https://www.youtube.com/watch?v=ua-f0ypVbPA) :tv:.
 * [Mario Kart 8 ft. SpaceHamster - Original sound theory](https://www.youtube.com/watch?v=mGjVkz-duNc) :tv:.
+* [Designing sound effects](https://www.youtube.com/watch?v=AtpMqJ6kOyU) :tv:.
+* [How to make a coin sound effect in Audacity fast & easy](https://youtu.be/JVrft9cqduQ) :tv:.
+* [Sound + Music creation software](http://www.pixelprospector.com/sound-music-creation-software/).
+
 
 ## Organization
 
@@ -153,6 +174,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Developing simple and appealing games](http://www.voidbee.com/blog/develop-simple-and-appealing-games).
 * [Project planning for solo gamedev](http://hacknplan.com/project-planning-for-solo-game-developers/).
 * [Understanding vertical slicing](http://hacknplan.com/understanding-vertical-slicing).
+* [Spiral model for game development](http://gamedevelopertips.com/spiral-model-for-game-development/).
 
 ## Unity
 
@@ -205,6 +227,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Shaders case study - Hearthstone golden cards](https://www.youtube.com/watch?v=OYjMnMZe1Vg) :tv:.
 * [Coding gameplay](http://enemyhideout.com/2016/06/coding-gameplay/).
 * [5 more Unity tips](http://synersteel.com/blog/2016/6/22/5-more-unity-tips).
+* [Volumetric rendering](http://www.alanzucconi.com/2016/07/01/volumetric-rendering/).
+* [AI for games](https://www.youtube.com/watch?v=bc86es4YOoc) :tv:.
 
 ## Unreal
 
@@ -253,6 +277,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [The making of mobile game 'Photo Finish Horse Racing'](http://www.gamasutra.com/blogs/IanCummings/20160505/271928/The_making_of_mobile_game_Photo_Finish_Horse_Racing_part_1.php).
 * [Demons with Shotguns postmortem - Don't quit your day job](http://www.gamasutra.com/blogs/NicholasDiMucci/20160623/275260/Demons_with_Shotguns_Postmortem__Dont_Quit_Your_Day_Job.php).
 * [Psych postmortem](http://www.gamasutra.com/blogs/ChristianBaumgartner/20160209/265443/Psych_Postmortem.php).
+* [Lessons from our launch trailer for Poly Bridge](http://mjoshua.com/blog/2016/07/26/lessons-from-poly-bridges-launch-trailer/).
 
 ## Web
 
@@ -406,6 +431,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Chinese mobile app UI trends](http://dangrover.com/blog/2014/12/01/chinese-mobile-app-ui-trends.html).
 * [Top 100 countries by game revenues](http://www.newzoo.com/free/rankings/top-100-countries-by-game-revenues/).
 * [How to succeed in the west](http://www.slideshare.net/DavidPChiu/how-to-succeed-in-the-west-stats-best-practices-and-common-mistakes-for-f2p-core-games-kongregate-f2p-monetization-presentation-chinajoy-wmgc-2014).
+* [9 tips on localizing audio](http://www.gamedev.net/page/resources/_/creative/music-and-sound/9-tips-on-localizing-audio-r4337).
 
 ## Bureaucracy
 
@@ -436,3 +462,7 @@ To add, remove or change things on the list: please submit a pull request.
 
 * [The Game Developer's Toolbox](http://gamasutra.com/blogs/AnnaJenelius/20160411/269662/The_Game_Developers_Toolbox_for_Students.php).
 * [Getting a job in the games industry](http://arrowheadgamestudios.com/2016/04/getting-a-job-in-the-games-industry-part-1/).
+
+## Fun
+
+* [Steam game generator](https://applepinegames.com/tech/steam-game-generator).
