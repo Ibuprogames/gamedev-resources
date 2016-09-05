@@ -56,7 +56,9 @@ To add, remove or change things on the list: please submit a pull request.
 * [Texturing for beginners: Top 14 Ways to mix textures and shaders, in Blender](https://www.youtube.com/watch?v=liNGmdXsfbs) :tv:.
 * [Lighting for game developers](https://www.youtube.com/watch?v=O9XPEMu4Chs) :tv:.
 * [Creating high-quality character art](http://80.lv/articles/alessando-baldasseroni-creating-high-quality-character-art/).
-
+* [Space Marine sprite](https://www.youtube.com/watch?v=9EKm3FBcEL4) :tv:.
+* [Playdead's Inside and minimalism](https://www.youtube.com/watch?v=F0egRN-49h0) :tv:.
+* [Unity VFX tutorials](https://www.youtube.com/watch?v=M-ADfgaQvCU) :tv:.
 
 ## Design
 
@@ -101,6 +103,12 @@ To add, remove or change things on the list: please submit a pull request.
 * [Why is Pokemon Go so addicting?](https://www.youtube.com/watch?v=1dQ5O95Zy7Y) :tv:.
 * [Making difficult fun: How to challenge your players](http://gamedevelopment.tutsplus.com/tutorials/making-difficult-fun-how-to-challenge-your-players--cms-25873).
 * [Diablo: A classic game postmortem](https://www.youtube.com/watch?v=VscdPA6sUkc) :tv:.
+* [How games do health](https://youtu.be/4AEKbBF3URE) :tv:.
+* [How Hyper Light drifter’s ammo recharges its combat](https://www.rockpapershotgun.com/2016/07/29/how-hyper-light-drifters-ammo-recharges-its-combat/).
+* [The language of Video Games](https://www.youtube.com/watch?v=qsSpo8DPuIc) :tv:.
+* [Feeling like a badass in games](https://convexadam.wordpress.com/2016/06/27/badass-in-games/).
+* [Composition techniques and player direction](https://shapeofplay.wordpress.com/2013/06/25/composition-level-design/).
+* [How Pillars of Eternity changed the stats game](https://www.youtube.com/watch?v=9xP4U2z3d-Y) :tv:.
 
 ## Programming
 
@@ -146,6 +154,13 @@ To add, remove or change things on the list: please submit a pull request.
 * [Raylib, a simple and easy-to-use library to learn videogames programming](http://www.raylib.com/).
 * [A collection of Awesome .NET libraries, tools & frameworks](https://dotnet.libhunt.com/).
 * [A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things](https://cpp.libhunt.com/).
+* [Finite State Machine for game developers](http://gamedevelopertips.com/finite-state-machine-game-developers/).
+* [Networking for game programmers](http://gafferongames.com/networking-for-game-programmers/).
+* [C# networking](https://16bpp.net/tutorials/csharp-networking/01).
+* [Introduction to Computer Graphics and Imaging](https://mdzahidh.github.io/cs148/?class/cs148/).
+* [Learn C# by building a simple RPG](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/).
+* [Learn C# online](http://bafflednerd.com/learn-csharp-online/).
+* [A collection of awesome .NET libraries, tools, frameworks and software](https://github.com/quozd/awesome-dotnet).
 
 ## Audio
 
@@ -160,7 +175,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Designing sound effects](https://www.youtube.com/watch?v=AtpMqJ6kOyU) :tv:.
 * [How to make a coin sound effect in Audacity fast & easy](https://youtu.be/JVrft9cqduQ) :tv:.
 * [Sound + Music creation software](http://www.pixelprospector.com/sound-music-creation-software/).
-
+* [8-bit game soundtracks you probably haven't heard](http://imgur.com/gallery/TtAHz).
+* [Completely redesigning Pokemon GO sounds](https://www.youtube.com/watch?v=11VO_owpOJw) :tv:.
 
 ## Organization
 
@@ -230,6 +246,9 @@ To add, remove or change things on the list: please submit a pull request.
 * [5 more Unity tips](http://synersteel.com/blog/2016/6/22/5-more-unity-tips).
 * [Volumetric rendering](http://www.alanzucconi.com/2016/07/01/volumetric-rendering/).
 * [AI for games](https://www.youtube.com/watch?v=bc86es4YOoc) :tv:.
+* [Optimizations for mobile games](https://www.youtube.com/watch?v=gHJ-J3jYjpA) :tv:.
+* [Let's Learn Unity](https://www.youtube.com/playlist?list=PLc4er0fVuCUc8S-z6PLfSjql9RPFCGwmj) :tv:.
+* [50 Tips and Best Practices for Unity (2016 Edition)](http://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php).
 
 ## Unreal
 
@@ -268,6 +287,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Urho3D](http://urho3d.github.io/), free lightweight, C++, cross-platform 2D & 3D.
 * [SFML](http://www.sfml-dev.org/), multi-platform, multi-language.
 * [Banshee3D](http://www.banshee3d.com), multi-threaded, C++14, 2D & 3Ds.
+* [Kit Framework](http://svkonsult.se/kit/), C++11, PBR.
 
 ## Postmortems
 
@@ -313,6 +333,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Great collection of resources](https://github.com/saniv/free-game-art).
 * [Free Unity assets list](http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/).
 * [80's free soundtracks](https://soundcloud.com/beardmont/sets/the-happiest-days-of-our-lives).
+* [A list of game development resources](https://github.com/ellisonleao/magictools).
 
 ## Tools
 
@@ -382,6 +403,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [PAX East 2016 and the Indie MINIBOOTH](http://wulverblade.com/pax-east-2016-and-the-indieminibooth/).
 * [Making the Gemstone Keeper Greenlight trailer](http://www.gamasutra.com/blogs/TimStoddard/20160516/272072/Making_the_Gemstone_Keeper_Greenlight_Trailer.php).
 * [The content marketing guide for game developers](http://dominickamin.com/content-marketing-1).
+* [Three ways to raise money for your game](https://blogs.unity3d.com/2016/08/08/three-ways-to-raise-money-for-your-game/).
+* [8 marketing tools for gamedevs](http://dominickamin.com/8-marketing-tools-gamedevs).
 
 ## Commercial
 
@@ -422,6 +445,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Hacking Kickstarter: How to raise $100,000 in 10 days (includes Successful Templates, emails, etc.)](http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc/).
 * [Mobile Ad networks comparison](http://blog.soom.la/2016/05/mobile-ad-networks-comparison-spreadsheet.html).
 * [App stores, Steam and indie poverty: the web as an alternative](http://wimi5.com/app-stores-steam-and-indie-poverty-the-web-as-an-alternative/).
+* [New mobile game statistics every game publisher should know in 2016](https://www.surveymonkey.com/business/intelligence/mobile-game-statistics/).
 
 ## Localization
 
