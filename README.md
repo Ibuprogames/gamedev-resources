@@ -59,6 +59,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Space Marine sprite](https://www.youtube.com/watch?v=9EKm3FBcEL4) :tv:.
 * [Playdead's Inside and minimalism](https://www.youtube.com/watch?v=F0egRN-49h0) :tv:.
 * [Unity VFX tutorials](https://www.youtube.com/watch?v=M-ADfgaQvCU) :tv:.
+* [Pixels and voxels, the long answer](https://medium.com/retronator-magazine/pixels-and-voxels-the-long-answer-5889ecc18190).
 
 ## Design
 
@@ -109,6 +110,10 @@ To add, remove or change things on the list: please submit a pull request.
 * [Feeling like a badass in games](https://convexadam.wordpress.com/2016/06/27/badass-in-games/).
 * [Composition techniques and player direction](https://shapeofplay.wordpress.com/2013/06/25/composition-level-design/).
 * [How Pillars of Eternity changed the stats game](https://www.youtube.com/watch?v=9xP4U2z3d-Y) :tv:.
+* [A taxonomy of randomness in Hearthstone](http://gangles.ca/2016/09/12/hearthstone-randomness/).
+* [5 things we learned about the appeal of competition from over 239k gamers](http://quanticfoundry.com/2016/08/11/appeal-of-competition/).
+* [The rule of Three: Examining plot, Exploration and Combat](http://thegamedesignforum.com/features/reverse_design_ff6_3.html).
+* [Roguelike Celebration videos](https://www.youtube.com/channel/UCsCqXksJuAkfZRtnW5Pq1mw/videos?shelf_id=0&sort=dd&view=0) :tv:.
 
 ## Programming
 
@@ -161,6 +166,10 @@ To add, remove or change things on the list: please submit a pull request.
 * [Learn C# by building a simple RPG](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/).
 * [Learn C# online](http://bafflednerd.com/learn-csharp-online/).
 * [A collection of awesome .NET libraries, tools, frameworks and software](https://github.com/quozd/awesome-dotnet).
+* [Doom 2016, a graphics study](http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/).
+* [Libgdx multiplatform game development](http://vladimirslav.com/tutorials/).
+* [Math for game developers](https://www.youtube.com/watch?v=sKCF8A3XGxQ&list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) :tv:.
+* [Game graphics 101: textures, UV mapping, and texture filtering](http://ithare.com/game-graphics-101-textures-uv-mapping-and-texture-filtering/).
 
 ## Audio
 
@@ -192,6 +201,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Project planning for solo gamedev](http://hacknplan.com/project-planning-for-solo-game-developers/).
 * [Understanding vertical slicing](http://hacknplan.com/understanding-vertical-slicing).
 * [Spiral model for game development](http://gamedevelopertips.com/spiral-model-for-game-development/).
+* [Crunch: the failure of project management in the games industry](http://www.openthesis.org/document/view/602718_0.pdf).
 
 ## Unity
 
@@ -249,6 +259,12 @@ To add, remove or change things on the list: please submit a pull request.
 * [Optimizations for mobile games](https://www.youtube.com/watch?v=gHJ-J3jYjpA) :tv:.
 * [Let's Learn Unity](https://www.youtube.com/playlist?list=PLc4er0fVuCUc8S-z6PLfSjql9RPFCGwmj) :tv:.
 * [50 Tips and Best Practices for Unity (2016 Edition)](http://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php).
+* [1000000 items in Unity](https://enzisoft.wordpress.com/2016/03/09/factorio-in-unity-part-1/).
+* [Pixel-Perfect virtual camera](https://theadrainblog.wordpress.com/2016/09/05/pixel-perfect-virtual-camera-unity3d/).
+* [Unity open source search engine](http://unitylist.com/).
+* [Extend the Unity editor](https://www.raywenderlich.com/130721/extend-unity3d-editor).
+* [Beginning C# with Unity](https://videos.raywenderlich.com/courses/beginning-c/lessons/1) :tv:.
+* [Compute shaders](https://www.youtube.com/watch?v=qDk-WIOYUSY) :tv:.
 
 ## Unreal
 
@@ -299,6 +315,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Demons with Shotguns postmortem - Don't quit your day job](http://www.gamasutra.com/blogs/NicholasDiMucci/20160623/275260/Demons_with_Shotguns_Postmortem__Dont_Quit_Your_Day_Job.php).
 * [Psych postmortem](http://www.gamasutra.com/blogs/ChristianBaumgartner/20160209/265443/Psych_Postmortem.php).
 * [Lessons from our launch trailer for Poly Bridge](http://mjoshua.com/blog/2016/07/26/lessons-from-poly-bridges-launch-trailer/).
+* [Thermometers puzzles sales & downloads statistics](https://www.frozax.com/blog/2016/06/thermometers-puzzles-sales-downloads-statistics/).
+* [Why is selling good games so hard?](https://thingtrunk.com/bod-early-access-launch-postmortem/).
 
 ## Web
 
@@ -405,6 +423,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [The content marketing guide for game developers](http://dominickamin.com/content-marketing-1).
 * [Three ways to raise money for your game](https://blogs.unity3d.com/2016/08/08/three-ways-to-raise-money-for-your-game/).
 * [8 marketing tools for gamedevs](http://dominickamin.com/8-marketing-tools-gamedevs).
+* [Behavior analysis of 50k mobile players](https://www.frozax.com/blog/2016/09/behavior-analysis-of-50000-mobile-players/).
 
 ## Commercial
 
@@ -446,6 +465,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Mobile Ad networks comparison](http://blog.soom.la/2016/05/mobile-ad-networks-comparison-spreadsheet.html).
 * [App stores, Steam and indie poverty: the web as an alternative](http://wimi5.com/app-stores-steam-and-indie-poverty-the-web-as-an-alternative/).
 * [New mobile game statistics every game publisher should know in 2016](https://www.surveymonkey.com/business/intelligence/mobile-game-statistics/).
+* [Stop shooting yourself in the foot: 10 elusive secrets to avoid complete commercial failure](http://gdcvault.com/play/1023776/Stop-Shooting-Yourself-in-the) :tv:.
+* [How to show your indie game at any expo](http://www.laurabularca.com/2016/09/show-indie-game-expo/).
 
 ## Localization
 
@@ -469,6 +490,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Crea tu empresa de videojuegos](http://www.andorstudios.com/ager/wp-content/desarrollo/CEV.pdf) :es:.
 * [Monta tu empresa de videojuegos](https://www.youtube.com/watch?v=8vB3vrDEPhM) :tv: :es:.
 * [Why you should always register the trademark on your Kickstarter game](http://www.gamasutra.com/blogs/StephenMcArthur/20160504/271940/Why_You_Should_Always_Register_the_Trademark_on_your_Kickstarter_Game.php).
+* [Practical law 101 for indie developers: Not scary edition](https://www.youtube.com/watch?v=8eAW-7Js7NA) :tv:.
+* [Negotiations for game aevs: a practical guide](https://indiewatch.net/2016/09/06/negotiations-for-game-devs-a-practical-guide-part-1/).
 
 ## Hardware
 
