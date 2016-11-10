@@ -60,6 +60,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Playdead's Inside and minimalism](https://www.youtube.com/watch?v=F0egRN-49h0) :tv:.
 * [Unity VFX tutorials](https://www.youtube.com/watch?v=M-ADfgaQvCU) :tv:.
 * [Pixels and voxels, the long answer](https://medium.com/retronator-magazine/pixels-and-voxels-the-long-answer-5889ecc18190).
+* [Strategy game battle UI](https://medium.com/@treeform/strategy-game-battle-ui-3b313ffd3769).
+* [The remastering of textures in Bioshock The Collection](https://80.lv/articles/the-remastering-of-textures-in-bioshock-the-collection/).
 
 ## Design
 
@@ -114,6 +116,11 @@ To add, remove or change things on the list: please submit a pull request.
 * [5 things we learned about the appeal of competition from over 239k gamers](http://quanticfoundry.com/2016/08/11/appeal-of-competition/).
 * [The rule of Three: Examining plot, Exploration and Combat](http://thegamedesignforum.com/features/reverse_design_ff6_3.html).
 * [Roguelike Celebration videos](https://www.youtube.com/channel/UCsCqXksJuAkfZRtnW5Pq1mw/videos?shelf_id=0&sort=dd&view=0) :tv:.
+* [User experience design](http://pixeland.io/guides/user-experience-design).
+* [Less is More: Designing awesome AI for games](https://www.youtube.com/watch?v=1xWg54mdQos) :tv:.
+* [The damage is too damn high or achieving the perfect balance](https://medium.com/@hex3r_/the-damage-is-too-damn-high-or-achieving-the-perfect-balance-3ccccbe70756).
+* [The psychology of games](https://www.youtube.com/watch?v=K0GZMA6c0T4) :tv:.
+* [System Shock retro analysis](https://www.youtube.com/watch?v=oaIAuFtF8XM) :tv:.
 
 ## Programming
 
@@ -170,6 +177,12 @@ To add, remove or change things on the list: please submit a pull request.
 * [Libgdx multiplatform game development](http://vladimirslav.com/tutorials/).
 * [Math for game developers](https://www.youtube.com/watch?v=sKCF8A3XGxQ&list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) :tv:.
 * [Game graphics 101: textures, UV mapping, and texture filtering](http://ithare.com/game-graphics-101-textures-uv-mapping-and-texture-filtering/).
+* [Modern OpenGL 3.0+](https://www.youtube.com/playlist?list=PLRtjMdoYXLf6zUMDJVRZYV-6g6n62vet8) :tv:.
+* [The math of idle games](http://developers.kongregate.com/blog/the-math-of-idle-games-part-i).
+* [Game engine using STD C++ 11](https://www.youtube.com/watch?v=8AjRD6mU96s) :tv:.
+* [Why video game coders don't use TDD, and why it matters](http://chrismdp.com/2015/03/why-games-coders-dont-use-tdd-and-why-it-matters/).
+* [A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub](https://github.com/leereilly/games).
+* [A collection of awesome .NET core libraries, tools, frameworks and software](https://github.com/thangchung/awesome-dotnet-core).
 
 ## Audio
 
@@ -186,6 +199,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Sound + Music creation software](http://www.pixelprospector.com/sound-music-creation-software/).
 * [8-bit game soundtracks you probably haven't heard](http://imgur.com/gallery/TtAHz).
 * [Completely redesigning Pokemon GO sounds](https://www.youtube.com/watch?v=11VO_owpOJw) :tv:.
+* [The Last of Us: Music analysis](https://youtu.be/7TYNLe8qjMc).
+* [The sound of Hearthstone](https://www.youtube.com/watch?v=XYKL3uozCfQ) :tv:.
 
 ## Organization
 
@@ -202,6 +217,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Understanding vertical slicing](http://hacknplan.com/understanding-vertical-slicing).
 * [Spiral model for game development](http://gamedevelopertips.com/spiral-model-for-game-development/).
 * [Crunch: the failure of project management in the games industry](http://www.openthesis.org/document/view/602718_0.pdf).
+* [How to plan a video game: The pre-production phase](https://www.youtube.com/watch?v=_kx_mpRyVMM) :tv:.
 
 ## Unity
 
@@ -265,6 +281,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Extend the Unity editor](https://www.raywenderlich.com/130721/extend-unity3d-editor).
 * [Beginning C# with Unity](https://videos.raywenderlich.com/courses/beginning-c/lessons/1) :tv:.
 * [Compute shaders](https://www.youtube.com/watch?v=qDk-WIOYUSY) :tv:.
+* [Raymarching Distance Fields in Unity](http://flafla2.github.io/2016/10/01/raymarching.html).
+* [MVC in Unity](http://www.stardust.ch/mvc-in-unity/).
 
 ## Unreal
 
@@ -277,6 +295,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Getting Started with VR](http://www.tomlooman.com/getting-started-with-vr/).
 * [Unreal Engine C++ tutorials](https://www.youtube.com/channel/UCpsN2TfWGmun4peN2IPgcKg) :tv:.
 * [Blender to UE4 animation pipeline](https://www.youtube.com/watch?v=moAcoJx8Hfg) :tv:.
+* [Unreal Engine 4 C++ Tutorials](http://orfeasel.com/blog/).
 
 ## Engines
 
@@ -317,6 +336,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Lessons from our launch trailer for Poly Bridge](http://mjoshua.com/blog/2016/07/26/lessons-from-poly-bridges-launch-trailer/).
 * [Thermometers puzzles sales & downloads statistics](https://www.frozax.com/blog/2016/06/thermometers-puzzles-sales-downloads-statistics/).
 * [Why is selling good games so hard?](https://thingtrunk.com/bod-early-access-launch-postmortem/).
+* [Costs: A year of game development](https://yellowlensgames.wordpress.com/2016/10/26/costs-a-year-of-game-development/).
 
 ## Web
 
@@ -352,6 +372,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Free Unity assets list](http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/).
 * [80's free soundtracks](https://soundcloud.com/beardmont/sets/the-happiest-days-of-our-lives).
 * [A list of game development resources](https://github.com/ellisonleao/magictools).
+* [Free programming eBooks](http://www.oreilly.com/programming/free/).
 
 ## Tools
 
@@ -424,6 +445,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Three ways to raise money for your game](https://blogs.unity3d.com/2016/08/08/three-ways-to-raise-money-for-your-game/).
 * [8 marketing tools for gamedevs](http://dominickamin.com/8-marketing-tools-gamedevs).
 * [Behavior analysis of 50k mobile players](https://www.frozax.com/blog/2016/09/behavior-analysis-of-50000-mobile-players/).
+* [15 Mobile KPIs every developer needs to measure... right now](https://mmmag.appsee.com/2016/11/03/mobile-kpis-every-developer-needs-to-measure/).
 
 ## Commercial
 
