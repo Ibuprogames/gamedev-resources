@@ -62,6 +62,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Pixels and voxels, the long answer](https://medium.com/retronator-magazine/pixels-and-voxels-the-long-answer-5889ecc18190).
 * [Strategy game battle UI](https://medium.com/@treeform/strategy-game-battle-ui-3b313ffd3769).
 * [The remastering of textures in Bioshock The Collection](https://80.lv/articles/the-remastering-of-textures-in-bioshock-the-collection/).
+* [The psychology of UI design: The gutenberg diagram & modern UI](https://www.youtube.com/watch?v=Saqz6uRlKyA) :tv:.
+* [Multiplatform 3D art development for indies](https://www.youtube.com/watch?v=IZNHQf84I8M) :tv:.
 
 ## Design
 
@@ -121,6 +123,11 @@ To add, remove or change things on the list: please submit a pull request.
 * [The damage is too damn high or achieving the perfect balance](https://medium.com/@hex3r_/the-damage-is-too-damn-high-or-achieving-the-perfect-balance-3ccccbe70756).
 * [The psychology of games](https://www.youtube.com/watch?v=K0GZMA6c0T4) :tv:.
 * [System Shock retro analysis](https://www.youtube.com/watch?v=oaIAuFtF8XM) :tv:.
+* [World of Warcraft: Level design panel](https://www.youtube.com/watch?v=eYDd3T_s1zo) :tv:.
+* [Weaving narratives into procedural worlds](http://www.gamasutra.com/blogs/JoshGe/20161116/285647/Weaving_Narratives_into_Procedural_Worlds.php).
+* [MMO economies: hyperinflation, reserve currencies & you!](https://www.youtube.com/watch?v=sumZLwFXJqE) :tv:.
+* [The Last Of Us: mechanical analysis ](https://youtu.be/hzgSzbMryFY) :tv:.
+* [The Legend of Zelda: The Minish Cap's dungeon design](https://www.youtube.com/watch?v=KEVJXqV7XMc) :tv:.
 
 ## Programming
 
@@ -183,6 +190,11 @@ To add, remove or change things on the list: please submit a pull request.
 * [Why video game coders don't use TDD, and why it matters](http://chrismdp.com/2015/03/why-games-coders-dont-use-tdd-and-why-it-matters/).
 * [A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub](https://github.com/leereilly/games).
 * [A collection of awesome .NET core libraries, tools, frameworks and software](https://github.com/thangchung/awesome-dotnet-core).
+* [How to make games with LÖVE](http://sheepolution.com/learn/book/contents).
+* [A list of modern C++11/14/17 features](https://github.com/AnthonyCalandra/modern-cpp-features).
+* [Rapid game prototyping: Tips for programmers](http://devmag.org.za/2014/01/08/rapid-game-prototyping-tips-for-programmers/).
+* [The complete guide to Unity and Git](http://www.gamasutra.com/blogs/TimPettersen/20161206/286981/The_complete_guide_to_Unity__Git.php).
+* [C++ in Huge AAA Games](https://www.youtube.com/watch?v=qYN6eduU06s) :tv:.
 
 ## Audio
 
@@ -337,12 +349,15 @@ To add, remove or change things on the list: please submit a pull request.
 * [Thermometers puzzles sales & downloads statistics](https://www.frozax.com/blog/2016/06/thermometers-puzzles-sales-downloads-statistics/).
 * [Why is selling good games so hard?](https://thingtrunk.com/bod-early-access-launch-postmortem/).
 * [Costs: A year of game development](https://yellowlensgames.wordpress.com/2016/10/26/costs-a-year-of-game-development/).
+* [The (whole) making of toto temple deluxe](http://juicybeast.com/2015/12/the-whole-making-of-toto-temple-deluxe/).
 
 ## Web
 
 * [Material design](http://www.google.com/design/spec/material-design/introduction.html) (and [Lite](http://www.getmdl.io/)).
 * [Polimer](https://www.polymer-project.org), easier and faster web develop.
 * [html5up.net](http://html5up.net/), [getbootstrap.com](http://getbootstrap.com/), html5 responsive templates.
+* [7 steps to optimizing your Indie Game Development website](http://devdog.io/blog/2016/11/7-things-every-game-developer-needs-on-their-website).
+* [Search domains and generate a beautiful, responsive, free website](http://launchaco.com/).
 
 ## Resources
 
@@ -489,6 +504,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [New mobile game statistics every game publisher should know in 2016](https://www.surveymonkey.com/business/intelligence/mobile-game-statistics/).
 * [Stop shooting yourself in the foot: 10 elusive secrets to avoid complete commercial failure](http://gdcvault.com/play/1023776/Stop-Shooting-Yourself-in-the) :tv:.
 * [How to show your indie game at any expo](http://www.laurabularca.com/2016/09/show-indie-game-expo/).
+* [How to survive in gamedev for eleven years without a hit](https://www.youtube.com/watch?v=JmwbYl6f11c) :tv:.
 
 ## Localization
 
@@ -532,6 +548,7 @@ To add, remove or change things on the list: please submit a pull request.
 
 * [The Game Developer's Toolbox](http://gamasutra.com/blogs/AnnaJenelius/20160411/269662/The_Game_Developers_Toolbox_for_Students.php).
 * [Getting a job in the games industry](http://arrowheadgamestudios.com/2016/04/getting-a-job-in-the-games-industry-part-1/).
+* [Quo Vadis 2016: 100 Gamedev Talks](https://vimeo.com/computec/videos/sort:alphabetical/format:thumbnail) :tv:.
 
 ## Fun
 
