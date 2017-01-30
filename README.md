@@ -64,6 +64,11 @@ To add, remove or change things on the list: please submit a pull request.
 * [The remastering of textures in Bioshock The Collection](https://80.lv/articles/the-remastering-of-textures-in-bioshock-the-collection/).
 * [The psychology of UI design: The gutenberg diagram & modern UI](https://www.youtube.com/watch?v=Saqz6uRlKyA) :tv:.
 * [Multiplatform 3D art development for indies](https://www.youtube.com/watch?v=IZNHQf84I8M) :tv:.
+* [Environment design: Style over function](https://80.lv/articles/environment-design-style-over-function/).
+* [Blender - Low Poly Scenario](https://www.youtube.com/watch?v=yrXrRLs1vec&list=PLpPd_BKEUoYi1ha6w28SUq7iYa1NC719E) :tv:.
+* [Stylized normal mapping](http://www.alkemi-games.com/a-game-of-tricks-iv-stylized-normal-mapping/).
+* [Color combinations from designers](http://colorsupplyyy.com/app/).
+* [6 examples of UI design that every game developer should study](http://www.gamasutra.com/view/news/289637/6_examples_of_UI_design_that_every_game_developer_should_study.php).
 
 ## Design
 
@@ -128,6 +133,14 @@ To add, remove or change things on the list: please submit a pull request.
 * [MMO economies: hyperinflation, reserve currencies & you!](https://www.youtube.com/watch?v=sumZLwFXJqE) :tv:.
 * [The Last Of Us: mechanical analysis ](https://youtu.be/hzgSzbMryFY) :tv:.
 * [The Legend of Zelda: The Minish Cap's dungeon design](https://www.youtube.com/watch?v=KEVJXqV7XMc) :tv:.
+* [5 game design innovations from 2016](https://youtu.be/kzfKnI8x5SE) :tv:.
+* [7 things about primary gaming motivations from over 250000 gamers](http://quanticfoundry.com/2016/12/15/primary-motivations/).
+* [How we design games now and why](https://medium.com/@haikus_by_KN/how-we-design-games-now-and-why-bcbc1deb7559).
+* [An in-depth analysis/critique of Uncharted 4](https://www.youtube.com/watch?v=F1C3g0HNh34) :tv:.
+* [A game designer explains the counterintuitive secret to fun](https://youtu.be/78rPt0RsosQ) :tv:.
+* [The beauty of Permanent Death](https://www.youtube.com/watch?v=ye7eEOFCidM) :tv:.
+* [Twilight Princess' dungeon design](https://www.youtube.com/watch?v=BTsgWepH3GY) :tv:.
+* [Build a bad guy workshop - Designing enemies for retro games](http://www.gamasutra.com/blogs/GarretBright/20140422/215978/Build_a_Bad_Guy_Workshop__Designing_enemies_for_retro_games.php).
 
 ## Programming
 
@@ -195,6 +208,12 @@ To add, remove or change things on the list: please submit a pull request.
 * [Rapid game prototyping: Tips for programmers](http://devmag.org.za/2014/01/08/rapid-game-prototyping-tips-for-programmers/).
 * [The complete guide to Unity and Git](http://www.gamasutra.com/blogs/TimPettersen/20161206/286981/The_complete_guide_to_Unity__Git.php).
 * [C++ in Huge AAA Games](https://www.youtube.com/watch?v=qYN6eduU06s) :tv:.
+* [List of single-file C/C++ libraries](https://github.com/nothings/single_file_libs).
+* [Full list of open source physics engines](http://www.tapirgames.com/blog/open-source-physics-engines).
+* [Extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com).
+* [Shadow Tactics, a rendering breakdown](https://kosmonautblog.wordpress.com/2017/01/09/shadow-tactics-rendering-breakdown/).
+* [How to make Minecraft in C++ and OpenGL](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_) :tv:.
+* [Godot game engine tutorial series](http://www.gamefromscratch.com/page/Godot-Game-Engine-tutorial-series.aspx).
 
 ## Audio
 
@@ -213,6 +232,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Completely redesigning Pokemon GO sounds](https://www.youtube.com/watch?v=11VO_owpOJw) :tv:.
 * [The Last of Us: Music analysis](https://youtu.be/7TYNLe8qjMc).
 * [The sound of Hearthstone](https://www.youtube.com/watch?v=XYKL3uozCfQ) :tv:.
+* [Effective Audio in Game Design](https://www.youtube.com/watch?v=g6Z4ad3qBoQ) :tv:.
 
 ## Organization
 
@@ -295,6 +315,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Compute shaders](https://www.youtube.com/watch?v=qDk-WIOYUSY) :tv:.
 * [Raymarching Distance Fields in Unity](http://flafla2.github.io/2016/10/01/raymarching.html).
 * [MVC in Unity](http://www.stardust.ch/mvc-in-unity/).
+* [Blend Trees quick tutorial](https://www.youtube.com/watch?v=YgaLKrSApWM) :tv:.
+* [Top 10 Unity quick tips](https://youtu.be/JDVuTBHnGWw) :tv:.
 
 ## Unreal
 
@@ -350,6 +372,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Why is selling good games so hard?](https://thingtrunk.com/bod-early-access-launch-postmortem/).
 * [Costs: A year of game development](https://yellowlensgames.wordpress.com/2016/10/26/costs-a-year-of-game-development/).
 * [The (whole) making of toto temple deluxe](http://juicybeast.com/2015/12/the-whole-making-of-toto-temple-deluxe/).
+* [Poncho – A postmortem](http://poncho-game.com/?p=208).
 
 ## Web
 
@@ -461,6 +484,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [8 marketing tools for gamedevs](http://dominickamin.com/8-marketing-tools-gamedevs).
 * [Behavior analysis of 50k mobile players](https://www.frozax.com/blog/2016/09/behavior-analysis-of-50000-mobile-players/).
 * [15 Mobile KPIs every developer needs to measure... right now](https://mmmag.appsee.com/2016/11/03/mobile-kpis-every-developer-needs-to-measure/).
+* [The developer marketing guide](https://www.devmarketingguide.com/).
 
 ## Commercial
 
@@ -505,6 +529,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Stop shooting yourself in the foot: 10 elusive secrets to avoid complete commercial failure](http://gdcvault.com/play/1023776/Stop-Shooting-Yourself-in-the) :tv:.
 * [How to show your indie game at any expo](http://www.laurabularca.com/2016/09/show-indie-game-expo/).
 * [How to survive in gamedev for eleven years without a hit](https://www.youtube.com/watch?v=JmwbYl6f11c) :tv:.
+* [Big list of Steam indie publishers (50+ companies)](https://docs.google.com/spreadsheets/d/1envgysmy1jRSPGimAXMhWcKQrdxG7eFK9YdBruJzhWw/edit#gid=0).
+* [How to sell your premium indie game](http://headlampstudios.com/how-to-sell-your-indie-game/).
 
 ## Localization
 
