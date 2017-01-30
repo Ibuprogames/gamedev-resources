@@ -421,6 +421,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Make infographics easily](http://www.easel.ly/).
 * [Make diagrams easily](https://www.draw.io/).
 * [HacknPlan](http://hacknplan.com/), project management for gamedev.
+* [Codecks](https://www.codecks.io), project management tool inspired by collectible card games.
 
 ## Social
 
