@@ -69,6 +69,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Stylized normal mapping](http://www.alkemi-games.com/a-game-of-tricks-iv-stylized-normal-mapping/).
 * [Color combinations from designers](http://colorsupplyyy.com/app/).
 * [6 examples of UI design that every game developer should study](http://www.gamasutra.com/view/news/289637/6_examples_of_UI_design_that_every_game_developer_should_study.php).
+* [Learn Blender in a single sheet poster](http://giudansky.com/images/articoli/2016/11/blender-infographic-1280-SM.png).
 
 ## Design
 
@@ -141,6 +142,11 @@ To add, remove or change things on the list: please submit a pull request.
 * [The beauty of Permanent Death](https://www.youtube.com/watch?v=ye7eEOFCidM) :tv:.
 * [Twilight Princess' dungeon design](https://www.youtube.com/watch?v=BTsgWepH3GY) :tv:.
 * [Build a bad guy workshop - Designing enemies for retro games](http://www.gamasutra.com/blogs/GarretBright/20140422/215978/Build_a_Bad_Guy_Workshop__Designing_enemies_for_retro_games.php).
+* [Mega Man analysis, Cut Man's level design](https://www.youtube.com/watch?v=G4j6f_ukKzo&t=163s) :tv:.
+* [Hyper Light Drifter, visual storytelling done right](https://youtu.be/2TLRjV137hw) :tv:.
+* [Sigmoid Functions in game design](http://www.jfurness.uk/sigmoid-functions-in-game-design/).
+* [The 12 most helpful youtube channels for game designers](http://www.gamedesigning.org/career/helpful-youtube-channels/) :tv:.
+* [The Art of Storytelling](https://www.khanacademy.org/partner-content/pixar/storytelling).
 
 ## Programming
 
@@ -214,6 +220,17 @@ To add, remove or change things on the list: please submit a pull request.
 * [Shadow Tactics, a rendering breakdown](https://kosmonautblog.wordpress.com/2017/01/09/shadow-tactics-rendering-breakdown/).
 * [How to make Minecraft in C++ and OpenGL](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_) :tv:.
 * [Godot game engine tutorial series](http://www.gamefromscratch.com/page/Godot-Game-Engine-tutorial-series.aspx).
+* [A library for patching, replacing and decorating .NET and Mono methods during runtime](https://github.com/pardeike/Harmony).
+* [Voxel rendering techniques](https://medium.com/@fogleman/voxel-rendering-techniques-fa8d869457ca).
+* [Essence of linear algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
+* [Nested coroutines in Unity](http://www.alanzucconi.com/2017/02/15/nested-coroutines-in-unity/).
+* [Code design and architecture series](http://codensuch.com/trap-labs-series/part0).
+* [Master C++ programming with open source books](https://www.ossblog.org/master-c-programming-with-open-source-books/).
+* [42 recommendations from Intel about coding in C++](https://software.intel.com/en-us/articles/the-ultimate-question-of-programming-refactoring-and-everything).
+* [Unity 5 - Artificial Intelligence / Basic AI](https://www.youtube.com/watch?v=p-_QyPu1oLI&index=19&list=PLpPd_BKEUoYi1ha6w28SUq7iYa1NC719E) :tv:.
+* [Writing a game engine in 2017](http://www.randygaul.net/2017/02/24/writing-a-game-engine-in-2017/).
+* [Making A Character Controller in Unity](https://www.youtube.com/watch?v=sHMPAO6pU8s&list=PL5KbKbJ6Gf99cmJJjXrkk2fdbWECBiAFb) :tv:.
+* [Data structures and algorithms problems in C++ using STL](http://www.techiedelight.com/data-structures-and-algorithms-interview-questions-stl/).
 
 ## Audio
 
@@ -233,6 +250,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [The Last of Us: Music analysis](https://youtu.be/7TYNLe8qjMc).
 * [The sound of Hearthstone](https://www.youtube.com/watch?v=XYKL3uozCfQ) :tv:.
 * [Effective Audio in Game Design](https://www.youtube.com/watch?v=g6Z4ad3qBoQ) :tv:.
+* [An introduction to game audio scripting](https://www.asoundeffect.com/game-audio-scripting/).
 
 ## Organization
 
@@ -317,6 +335,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [MVC in Unity](http://www.stardust.ch/mvc-in-unity/).
 * [Blend Trees quick tutorial](https://www.youtube.com/watch?v=YgaLKrSApWM) :tv:.
 * [Top 10 Unity quick tips](https://youtu.be/JDVuTBHnGWw) :tv:.
+* [Unity essential shortcuts for level design](https://www.youtube.com/watch?v=UVP2iycqisk) :tv:.
 
 ## Unreal
 
@@ -357,6 +376,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [SFML](http://www.sfml-dev.org/), multi-platform, multi-language.
 * [Banshee3D](http://www.banshee3d.com), multi-threaded, C++14, 2D & 3Ds.
 * [Kit Framework](http://svkonsult.se/kit/), C++11, PBR.
+* [Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.](https://github.com/bkaradzic/bgfx).
 
 ## Postmortems
 
@@ -411,6 +431,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [80's free soundtracks](https://soundcloud.com/beardmont/sets/the-happiest-days-of-our-lives).
 * [A list of game development resources](https://github.com/ellisonleao/magictools).
 * [Free programming eBooks](http://www.oreilly.com/programming/free/).
+* [The #GameAudioGDC bundle](http://www.sonniss.com/gameaudiogdc2017/).
+* [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models)
 
 ## Tools
 
@@ -422,6 +444,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Make diagrams easily](https://www.draw.io/).
 * [HacknPlan](http://hacknplan.com/), project management for gamedev.
 * [Codecks](https://www.codecks.io), project management tool inspired by collectible card games.
+* [A procedural tile creator designed for pixel-art games](https://led.itch.io/tilemancer).
 
 ## Social
 
@@ -486,6 +509,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Behavior analysis of 50k mobile players](https://www.frozax.com/blog/2016/09/behavior-analysis-of-50000-mobile-players/).
 * [15 Mobile KPIs every developer needs to measure... right now](https://mmmag.appsee.com/2016/11/03/mobile-kpis-every-developer-needs-to-measure/).
 * [The developer marketing guide](https://www.devmarketingguide.com/).
+* [59 ways to monetize your indie game](http://gdu.io/blog/monetization/).
+* [Marketing your indie game on a zero-dollar budget](http://www.gameanalytics.com/blog/marketing-indie-game-without-budget.html).
 
 ## Commercial
 
@@ -576,6 +601,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [The Game Developer's Toolbox](http://gamasutra.com/blogs/AnnaJenelius/20160411/269662/The_Game_Developers_Toolbox_for_Students.php).
 * [Getting a job in the games industry](http://arrowheadgamestudios.com/2016/04/getting-a-job-in-the-games-industry-part-1/).
 * [Quo Vadis 2016: 100 Gamedev Talks](https://vimeo.com/computec/videos/sort:alphabetical/format:thumbnail) :tv:.
+* [Non-Professional game development - The joy of making](https://youtu.be/m4p7T9O_tqg) :tv:.
 
 ## Fun
 
