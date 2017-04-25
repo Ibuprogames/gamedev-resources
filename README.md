@@ -403,7 +403,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Search domains and generate a beautiful, responsive, free website](http://launchaco.com/).
 
 ## Resources
-
+* [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/)
 * [Open Game Art](http://opengameart.org/).
 * [Free fonts for commercial use](https://www.fontsquirrel.com).
 * [The list of best free and affordable game graphics resources](http://gamasutra.com/blogs/ArtursSosins/20151028/257619/The_list_of_best_free_and_affordable_game_graphics_resources.php).
