@@ -70,6 +70,9 @@ To add, remove or change things on the list: please submit a pull request.
 * [Color combinations from designers](http://colorsupplyyy.com/app/).
 * [6 examples of UI design that every game developer should study](http://www.gamasutra.com/view/news/289637/6_examples_of_UI_design_that_every_game_developer_should_study.php).
 * [Learn Blender in a single sheet poster](http://giudansky.com/images/articoli/2016/11/blender-infographic-1280-SM.png).
+* [Learn how to prototype levels in Blender](https://www.youtube.com/watch?v=2Y2WwvOwn4w) :tv:.
+* [An introduction to procedural animations](http://www.alanzucconi.com/2017/04/17/procedural-animations/).
+* [Animation in games: function and automation](https://80.lv/articles/animation-in-games-function-and-automation/).
 
 ## Design
 
@@ -147,6 +150,14 @@ To add, remove or change things on the list: please submit a pull request.
 * [Sigmoid Functions in game design](http://www.jfurness.uk/sigmoid-functions-in-game-design/).
 * [The 12 most helpful youtube channels for game designers](http://www.gamedesigning.org/career/helpful-youtube-channels/) :tv:.
 * [The Art of Storytelling](https://www.khanacademy.org/partner-content/pixar/storytelling).
+* [250 game mechanics](http://www.squidi.net/three/by_year.php).
+* [40 game design theses from Master's Degree students](http://www.gamecareerguide.com/theses/).
+* [Designing game controls](http://www.gamasutra.com/blogs/AndrewDotsenko/20170329/294676/Designing_Game_Controls.php).
+* [Innovation through better design pillars](http://www.gdcvault.com/play/1024176/Finding-Duskers-Innovation-Through-Better) :tv:.
+* [Video game story structure guide](https://medium.com/@calebgeizer/video-game-story-structure-guide-f59a8f8c9b0a).
+* [Seven memorable boss fights that every developer should study](http://www.gamasutra.com/view/news/296157/7_memorable_boss_fights_that_every_developer_should_study.php).
+* [The computer RPG book project (450 pages PDF)](https://crpgbook.files.wordpress.com/2017/04/crpg-book-preview-5.pdf).
+* [Early access lessons from Raw Data](https://youtu.be/OTgvqfHWMGM) :tv:.
 
 ## Programming
 
@@ -231,6 +242,13 @@ To add, remove or change things on the list: please submit a pull request.
 * [Writing a game engine in 2017](http://www.randygaul.net/2017/02/24/writing-a-game-engine-in-2017/).
 * [Making A Character Controller in Unity](https://www.youtube.com/watch?v=sHMPAO6pU8s&list=PL5KbKbJ6Gf99cmJJjXrkk2fdbWECBiAFb) :tv:.
 * [Data structures and algorithms problems in C++ using STL](http://www.techiedelight.com/data-structures-and-algorithms-interview-questions-stl/).
+* [Practical color theory for people who code](https://tallys.github.io/color-theory/).
+* [Render pipelines desing in C++](http://www.marti.works/render-pipelines-desing-in-c/).
+* [Anvil, a cross-platform, open-source, MIT-licensed wrapper library for Vulkan](http://gpuopen.com/gaming-product/anvil-vulkan-framework/).
+* [Implementing robust AI: Enemy positioning](http://www.rikodu.com/implementing-robust-ai-for-secondhand-enemy-positioning/).
+* [How does multiplayer game sync their state?](http://www.cakesolutions.net/teamblogs/how-does-multiplayer-game-sync-their-state-part-1).
+* [A study path for game programmer](https://github.com/miloyip/game-programmer).
+* [C++ language quick guide](http://viptechworld.blogspot.com.es/2017/05/cpp-quick-guide-by-vtw.html).
 
 ## Audio
 
@@ -251,6 +269,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [The sound of Hearthstone](https://www.youtube.com/watch?v=XYKL3uozCfQ) :tv:.
 * [Effective Audio in Game Design](https://www.youtube.com/watch?v=g6Z4ad3qBoQ) :tv:.
 * [An introduction to game audio scripting](https://www.asoundeffect.com/game-audio-scripting/).
+* [Creating music for games in Fruity Loops 12](https://www.youtube.com/watch?v=sgSZCl0Mdhs) :tv:.
+* [The music of Breath of the Wild](https://www.youtube.com/watch?v=3FWVKu1gnWs) :tv:.
 
 ## Organization
 
@@ -268,6 +288,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Spiral model for game development](http://gamedevelopertips.com/spiral-model-for-game-development/).
 * [Crunch: the failure of project management in the games industry](http://www.openthesis.org/document/view/602718_0.pdf).
 * [How to plan a video game: The pre-production phase](https://www.youtube.com/watch?v=_kx_mpRyVMM) :tv:.
+* [The stress of game development - Tips for survival](https://youtu.be/XUcp2bNTwBg) :tv:.
+* [How to host your own private Git repositories](https://eklitzke.org/how-to-how-your-own-private-git-repositories).
 
 ## Unity
 
@@ -336,6 +358,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Blend Trees quick tutorial](https://www.youtube.com/watch?v=YgaLKrSApWM) :tv:.
 * [Top 10 Unity quick tips](https://youtu.be/JDVuTBHnGWw) :tv:.
 * [Unity essential shortcuts for level design](https://www.youtube.com/watch?v=UVP2iycqisk) :tv:.
+* [Introduction to Unity 2D](https://www.raywenderlich.com/147686/introduction-unity-2d-2).
+* [How to create an RPG game in Unity](https://gamedevacademy.org/how-to-create-an-rpg-game-in-unity-comprehensive-guide/).
 
 ## Unreal
 
@@ -349,6 +373,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Unreal Engine C++ tutorials](https://www.youtube.com/channel/UCpsN2TfWGmun4peN2IPgcKg) :tv:.
 * [Blender to UE4 animation pipeline](https://www.youtube.com/watch?v=moAcoJx8Hfg) :tv:.
 * [Unreal Engine 4 C++ Tutorials](http://orfeasel.com/blog/).
+* [Epic released the documents on shaders for realistic characters in UE4](https://docs.unrealengine.com/latest/INT/Resources/Showcases/PhotorealisticCharacter/).
 
 ## Engines
 
@@ -393,6 +418,11 @@ To add, remove or change things on the list: please submit a pull request.
 * [Costs: A year of game development](https://yellowlensgames.wordpress.com/2016/10/26/costs-a-year-of-game-development/).
 * [The (whole) making of toto temple deluxe](http://juicybeast.com/2015/12/the-whole-making-of-toto-temple-deluxe/).
 * [Poncho – A postmortem](http://poncho-game.com/?p=208).
+* [One year of Gremlins, Inc. sales data across three app stores](http://steamcommunity.com/games/369990/announcements/detail/483414098556767390).
+* [Crescent Loom Kickstarter postmortem](http://wick.works/crescentloom-ks-postmortem/).
+* [KleptoCats post-mortem](https://medium.com/@Fayer/kleptocats-post-mortem-english-59c28cff6193).
+* [Postmortem on Meganoid 2017](http://techblog.orangepixel.net/2017/04/post-mortem-on-meganoid-2017/).
+* [Postmortem: Thomas Brush's Pinstripe](http://www.gamasutra.com/view/news/297284/Postmortem_Thomas_Brushs_Pinstripe.php).
 
 ## Web
 
@@ -403,7 +433,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Search domains and generate a beautiful, responsive, free website](http://launchaco.com/).
 
 ## Resources
-* [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/)
+
 * [Open Game Art](http://opengameart.org/).
 * [Free fonts for commercial use](https://www.fontsquirrel.com).
 * [The list of best free and affordable game graphics resources](http://gamasutra.com/blogs/ArtursSosins/20151028/257619/The_list_of_best_free_and_affordable_game_graphics_resources.php).
@@ -432,7 +462,9 @@ To add, remove or change things on the list: please submit a pull request.
 * [A list of game development resources](https://github.com/ellisonleao/magictools).
 * [Free programming eBooks](http://www.oreilly.com/programming/free/).
 * [The #GameAudioGDC bundle](http://www.sonniss.com/gameaudiogdc2017/).
-* [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models)
+* [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models).
+* [Yobi3D, a free 3D model search engine](https://www.yobi3d.com/).
+* [High quality FREE Unity resources](http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/).
 
 ## Tools
 
@@ -511,6 +543,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [The developer marketing guide](https://www.devmarketingguide.com/).
 * [59 ways to monetize your indie game](http://gdu.io/blog/monetization/).
 * [Marketing your indie game on a zero-dollar budget](http://www.gameanalytics.com/blog/marketing-indie-game-without-budget.html).
+* [Re-implementation of presskit() as a static site generator.](https://github.com/pixelnest/presskit.html).
+* [Getting featured on Apple TV vs. iOS](http://www.mobypixel.com/getting-featured-on-apple-tv-vs-ios).
 
 ## Commercial
 
