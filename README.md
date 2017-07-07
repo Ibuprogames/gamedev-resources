@@ -73,6 +73,12 @@ To add, remove or change things on the list: please submit a pull request.
 * [Learn how to prototype levels in Blender](https://www.youtube.com/watch?v=2Y2WwvOwn4w) :tv:.
 * [An introduction to procedural animations](http://www.alanzucconi.com/2017/04/17/procedural-animations/).
 * [Animation in games: function and automation](https://80.lv/articles/animation-in-games-function-and-automation/).
+* [Low poly modeling: style through economy](https://youtu.be/H1oNuKChsdU) :tv:.
+* [Lights, lights and Tube Lights](https://madewith.unity.com/en/stories/tube-lights-in-antigraviator).
+* [Creating a kraken in Inkscape & Krita](http://www.2dgameartguru.com/2017/06/creating-kraken-in-inkscape-krita.html).
+* [Stylized VFX in Rime](https://youtu.be/lAYIF0lwy60) :tv:.
+* [Creating the striking pixel art of Crawl](http://www.gamasutra.com/view/news/300004/Game_Design_Deep_Dive_Creating_the_striking_pixel_art_of_Crawl.php).
+* [Creation facial 2D animation for games](https://80.lv/articles/creation-facial-2d-animation-for-games/).
 
 ## Design
 
@@ -158,6 +164,13 @@ To add, remove or change things on the list: please submit a pull request.
 * [Seven memorable boss fights that every developer should study](http://www.gamasutra.com/view/news/296157/7_memorable_boss_fights_that_every_developer_should_study.php).
 * [The computer RPG book project (450 pages PDF)](https://crpgbook.files.wordpress.com/2017/04/crpg-book-preview-5.pdf).
 * [Early access lessons from Raw Data](https://youtu.be/OTgvqfHWMGM) :tv:.
+* [How to get into VR](https://blog.ycombinator.com/how-to-get-into-vr/).
+* [Combat system, game mechanics discussion](https://www.youtube.com/watch?v=Hk1dHpKnc7A).
+* [Storytelling and Character Design series](https://www.youtube.com/playlist?list=PL8nFs6m2Yq_X-etltVp94nSxF2on17-ZK) :tv:.
+* [7 tips for aspiring game designers](http://www.squeakywheel.ph/blog/2017/5/24/7-tips-for-aspiring-game-designers).
+* [Game design patterns wiki](http://virt10.itu.chalmers.se/index.php/Category:Patterns).
+* [A psychological approach to making desicions in games](https://sitavriend.wordpress.com/2017/06/19/making-decisions-dual-process-theory/).
+* [Core principles to make your environments understandable to the player](https://80.lv/articles/defining-environment-language-for-video-games/).
 
 ## Programming
 
@@ -249,6 +262,14 @@ To add, remove or change things on the list: please submit a pull request.
 * [How does multiplayer game sync their state?](http://www.cakesolutions.net/teamblogs/how-does-multiplayer-game-sync-their-state-part-1).
 * [A study path for game programmer](https://github.com/miloyip/game-programmer).
 * [C++ language quick guide](http://viptechworld.blogspot.com.es/2017/05/cpp-quick-guide-by-vtw.html).
+* [Unit Tests, how to write testable code and why it matters](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters).
+* [Top 10 algorithms and data structures for competitive programming](http://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/).
+* [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit).
+* [Program a game engine from scratch](http://dragonfly.wpi.edu/book/).
+* [Tinyheaders, one-file C/C++ libraries with no dependencies](https://github.com/RandyGaul/tinyheaders).
+* [7 ways to get better at C++ during this summer](http://www.fluentcpp.com/2017/06/23/7-ways-better-cpp-summer/).
+* [A manually curated list of 240+ popular programming podcast episodes](https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/htmlview?usp=sharing&sle=true).
+* [How to Unit Test Unity code](https://youtu.be/TyxDg70hc3g) :tv:.
 
 ## Audio
 
@@ -271,6 +292,10 @@ To add, remove or change things on the list: please submit a pull request.
 * [An introduction to game audio scripting](https://www.asoundeffect.com/game-audio-scripting/).
 * [Creating music for games in Fruity Loops 12](https://www.youtube.com/watch?v=sgSZCl0Mdhs) :tv:.
 * [The music of Breath of the Wild](https://www.youtube.com/watch?v=3FWVKu1gnWs) :tv:.
+* [Interview with the composer of LIMBO and INSIDE](https://vimeo.com/215488901) :tv:.
+* [Get started making music](https://learningmusic.ableton.com/).
+* [Composing the music and sound of Hyper Light Drifter](https://youtu.be/k1b9xKRC74E) :tv:.
+* [The sound design secrets of Horizon Zero Dawn](https://youtu.be/SIAmi88akl0) :tv:.
 
 ## Organization
 
@@ -290,6 +315,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [How to plan a video game: The pre-production phase](https://www.youtube.com/watch?v=_kx_mpRyVMM) :tv:.
 * [The stress of game development - Tips for survival](https://youtu.be/XUcp2bNTwBg) :tv:.
 * [How to host your own private Git repositories](https://eklitzke.org/how-to-how-your-own-private-git-repositories).
+* [How to survive as a solo dev for like a decade or so](http://www.sizefivegames.com/2017/05/04/how-to-survive-as-a-solo-dev-for-like-a-decade-or-so/).
 
 ## Unity
 
@@ -374,6 +400,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Blender to UE4 animation pipeline](https://www.youtube.com/watch?v=moAcoJx8Hfg) :tv:.
 * [Unreal Engine 4 C++ Tutorials](http://orfeasel.com/blog/).
 * [Epic released the documents on shaders for realistic characters in UE4](https://docs.unrealengine.com/latest/INT/Resources/Showcases/PhotorealisticCharacter/).
+* [Unreal for Unity developers](https://www.youtube.com/playlist?list=PLb8LPjN5zpx3ridPWb_kuEu6TWBATP45F) :tv:.
 
 ## Engines
 
@@ -423,6 +450,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [KleptoCats post-mortem](https://medium.com/@Fayer/kleptocats-post-mortem-english-59c28cff6193).
 * [Postmortem on Meganoid 2017](http://techblog.orangepixel.net/2017/04/post-mortem-on-meganoid-2017/).
 * [Postmortem: Thomas Brush's Pinstripe](http://www.gamasutra.com/view/news/297284/Postmortem_Thomas_Brushs_Pinstripe.php).
+* [Another one bites the dust: Dynasty Feud postmortem](http://www.gamasutra.com/blogs/JonSanchez/20170623/300333/Another_One_Bites_the_Dust_Dynasty_Feud_Postmortem.php).
+* [How not to launch a Kickstarter](https://medium.com/level-three/how-not-to-launch-a-kickstarter-49799652fe76).
 
 ## Web
 
@@ -465,6 +494,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [NASA 3D Resources](https://nasa3d.arc.nasa.gov/models).
 * [Yobi3D, a free 3D model search engine](https://www.yobi3d.com/).
 * [High quality FREE Unity resources](http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/).
+* [12 Great places to find sound effects for yout game](http://ninichimusic.com/blog/2017/3/29/12-great-places-to-find-sound-effects-for-your-game-or-project).
 
 ## Tools
 
@@ -602,6 +632,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Top 100 countries by game revenues](http://www.newzoo.com/free/rankings/top-100-countries-by-game-revenues/).
 * [How to succeed in the west](http://www.slideshare.net/DavidPChiu/how-to-succeed-in-the-west-stats-best-practices-and-common-mistakes-for-f2p-core-games-kongregate-f2p-monetization-presentation-chinajoy-wmgc-2014).
 * [9 tips on localizing audio](http://www.gamedev.net/page/resources/_/creative/music-and-sound/9-tips-on-localizing-audio-r4337).
+* [Find voice actors on any budget, from free, all the way up to Union talent](http://www.tamararyanvo.com/news/2017/3/1/how-to-find-voice-actors-for-my-game).
 
 ## Bureaucracy
 
@@ -636,6 +667,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Getting a job in the games industry](http://arrowheadgamestudios.com/2016/04/getting-a-job-in-the-games-industry-part-1/).
 * [Quo Vadis 2016: 100 Gamedev Talks](https://vimeo.com/computec/videos/sort:alphabetical/format:thumbnail) :tv:.
 * [Non-Professional game development - The joy of making](https://youtu.be/m4p7T9O_tqg) :tv:.
+* [Roadmap to becoming a game developer in 2017](https://github.com/utilForever/game-developer-roadmap).
 
 ## Fun
 
