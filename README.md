@@ -79,6 +79,23 @@ To add, remove or change things on the list: please submit a pull request.
 * [Stylized VFX in Rime](https://youtu.be/lAYIF0lwy60) :tv:.
 * [Creating the striking pixel art of Crawl](http://www.gamasutra.com/view/news/300004/Game_Design_Deep_Dive_Creating_the_striking_pixel_art_of_Crawl.php).
 * [Creation facial 2D animation for games](https://80.lv/articles/creation-facial-2d-animation-for-games/).
+* [Simple stylized content for Unity games](https://80.lv/articles/simple-stylized-content-for-unity-games/).
+* [GPU performance for game artists](http://www.fragmentbuffer.com/gpu-performance-for-game-artists/).
+* [Create a forest in UE4 in one hour](https://www.youtube.com/watch?v=FzoY062kY1s) :tv:.
+* [Creating pixel art in Blender](http://www.javin-inc.com/blenderpixel/).
+* [25 official beginner Blender tutorial videos.](https://www.youtube.com/playlist?list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1) :tv:.
+* [The ultimate pixel art business guide](https://pixelation.org/index.php?topic=23286.0).
+* [Optical effects in User Interfaces (for true nerds)](https://medium.muz.li/optical-effects-9fca82b4cd9a).
+* [Cyberpunk scene production with Unity & Blender](https://80.lv/articles/cyberpunk-scene-production-with-unity-blender/).
+* [The best pixel art tools for making your own game](http://www.pcgamer.com/best-pixel-art-maker-tools/).
+* [Real time rendering, an overview for artists](https://jesshiderue4.wordpress.com/real-time-rendering-an-overview-for-artists/).
+* [Tips on low poly indie game creation](https://80.lv/articles/omno/).
+* [How to model and texture architectural scenes](https://80.lv/articles/how-to-model-and-texture-architectural-scenes/).
+* [Designing a hero](https://www.patreon.com/posts/15640491).
+* [Stylized prop production with Substance Painter](https://academy.allegorithmic.com/courses/c203935e374ca25287b00df0f6775262).
+* [A database of palettes for pixel art](https://lospec.com/palette-list).
+* [Realistic vs. Stylized asset production: a technique overview](https://80.lv/articles/realistic-vs-stylized-technique-overview/).
+* [An interesting analysis on the art style of Overwatch](https://80.lv/articles/overwatch-technical-overview/).
 
 ## Design
 
@@ -171,6 +188,24 @@ To add, remove or change things on the list: please submit a pull request.
 * [Game design patterns wiki](http://virt10.itu.chalmers.se/index.php/Category:Patterns).
 * [A psychological approach to making desicions in games](https://sitavriend.wordpress.com/2017/06/19/making-decisions-dual-process-theory/).
 * [Core principles to make your environments understandable to the player](https://80.lv/articles/defining-environment-language-for-video-games/).
+* [Designing each of the 50 weapons in Dead Cells to feel distinctive](http://www.gamasutra.com/view/news/299848/Designing_each_of_the_50_weapons_in_Dead_Cells_to_feel_distinctive.php).
+* [Environment storytelling in Dishonored 2](https://80.lv/articles/environment-storytelling-in-dishonored-2/).
+* [Learn the language of design](https://www.youtube.com/watch?v=c06uoVVFZd4) :tv:.
+* [Urban design and the creation of videogame cities](https://medium.com/@KonstantinosD/urban-design-and-the-creation-of-videogame-cities-f56449f74d7f).
+* [Pretty pixels, the importance of visuals in game design](http://www.loadingdeveloper.com/pretty-pixels/).
+* [Studying the level design of DOOM (2016)](https://www.mapcore.org/articles/development/argent/).
+* [What makes a good detective game?](https://youtu.be/gwV_mA2cv_0) :tv:.
+* [Book-Length essay on the design of Diablo II](http://thegamedesignforum.com/features/RD_D2_1.html).
+* [Game accessibility guidelines](http://gameaccessibilityguidelines.com/).
+* [The aesthetic of play](https://youtu.be/R7AJwlFHZ70) :tv:.
+* [Final Fantasy Tactics and combat initiative systems](https://youtu.be/NtUNI59UzMU) :tv:.
+* [Designing the open world of The Witcher 3](https://youtu.be/oSS5T4od-GQ) :tv:.
+* [Lootboxes and gambling](https://youtu.be/YMDGPSWWA18) :tv:.
+* [How games teach us to play their way](https://youtu.be/7L8vAGGitr8) :tv:.
+* [The Dos and Don'ts of enemy design](http://www.duelingdevblogs.com/2017/10/the-dos-and-donts-of-enemy-design.html).
+* [The design behind Super Mario Odyssey](https://youtu.be/z_KVEjhT4wQ) :tv:.
+* [Free-To-Play game design - mechanics, psychology, & business practices](https://www.youtube.com/watch?v=2b4XOXS8c2E) :tv:.
+* [The Inner Psycho, morality in games](https://immersionaddict.wordpress.com/2017/11/09/the-inner-psycho-morality-in-games/).
 
 ## Programming
 
@@ -270,6 +305,14 @@ To add, remove or change things on the list: please submit a pull request.
 * [7 ways to get better at C++ during this summer](http://www.fluentcpp.com/2017/06/23/7-ways-better-cpp-summer/).
 * [A manually curated list of 240+ popular programming podcast episodes](https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/htmlview?usp=sharing&sle=true).
 * [How to Unit Test Unity code](https://youtu.be/TyxDg70hc3g) :tv:.
+* [The Ronimo coding style guide](http://www.gamasutra.com/blogs/JoostVanDongen/20170711/301454/The_Ronimo_coding_style_guide.php).
+* [Scaling dedicated game servers with Kubernetes](http://www.compoundtheory.com/scaling-dedicated-game-servers-with-kubernetes-part-1-containerising-and-deploying/).
+* [Is your code ready to prevent the Nedelin Catastrophe?](http://www.gamasutra.com/blogs/BartlomiejWaszak/20170719/301973/Is_Your_Code_Ready_to_Prevent_the_Nedelin_Catastrophe.php).
+* [The basics of demo programming (2011)](https://www.youtube.com/watch?v=TbcZyAO6K7c) :tv:.
+* [Awesome articles on server programming for multiplayer games](http://www.gabrielgambetta.com/client-server-game-architecture.html).
+* [Tools, tricks and technologies for reaching stutter Free 60 FPS in Inside](https://youtu.be/mQ2KTRn4BMI) :tv:.
+* [Camera logic in a 2D platformer](https://asylumsquare.com/#blog/2017-11-25/Camera-Logic-in-a-2D-Platformer.html).
+* [Foliage optimization in Unity](https://www.gamasutra.com/blogs/DannyWeinbaum/20171201/310813/Foliage_Optimization_in_Unity.php).
 
 ## Audio
 
@@ -296,6 +339,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Get started making music](https://learningmusic.ableton.com/).
 * [Composing the music and sound of Hyper Light Drifter](https://youtu.be/k1b9xKRC74E) :tv:.
 * [The sound design secrets of Horizon Zero Dawn](https://youtu.be/SIAmi88akl0) :tv:.
+* [How to make commercial-quality orchestral music](https://youtu.be/iDaNs3AMWIg) :tv:.
+* [Setting the gold standard for audio in Hellblade](http://www.thesoundarchitect.co.uk/hellblade-senuas-sacrifice-setting-the-gold-standard-for-audio/).
 
 ## Organization
 
@@ -316,6 +361,13 @@ To add, remove or change things on the list: please submit a pull request.
 * [The stress of game development - Tips for survival](https://youtu.be/XUcp2bNTwBg) :tv:.
 * [How to host your own private Git repositories](https://eklitzke.org/how-to-how-your-own-private-git-repositories).
 * [How to survive as a solo dev for like a decade or so](http://www.sizefivegames.com/2017/05/04/how-to-survive-as-a-solo-dev-for-like-a-decade-or-so/).
+* [Working with Git (for games and... in general)](https://blog.joy-machine.com/working-with-git-for-games-and-in-general-a0efb78f3a01).
+* [How actually make your dream game, publish it and not die in the process](https://godotengine.org/article/how-actually-make-your-dream-game).
+* [Detailed guide to Git](https://medium.com/learn-git-today/the-ultimate-git-guide-to-creating-your-first-repo-b50762a6ab00).
+* [Choosing Version Control System for development](http://ithare.com/choosing-version-control-system-for-gamedev/).
+* [How I got to 200 productive hours a month](https://qotoqot.com/blog/improving-focus/).
+* [Techniques for dealing with lack of motivation, malaise, depression](https://www.youtube.com/watch?v=i7kh8pNRWOo) :tv:.
+* [A curated directory of resources and tools to help you build your Startup](http://startupstash.com/).
 
 ## Unity
 
@@ -386,6 +438,10 @@ To add, remove or change things on the list: please submit a pull request.
 * [Unity essential shortcuts for level design](https://www.youtube.com/watch?v=UVP2iycqisk) :tv:.
 * [Introduction to Unity 2D](https://www.raywenderlich.com/147686/introduction-unity-2d-2).
 * [How to create an RPG game in Unity](https://gamedevacademy.org/how-to-create-an-rpg-game-in-unity-comprehensive-guide/).
+* [Using Unity to effectively polish your gameplay](https://80.lv/articles/using-unity-to-effectively-polish-your-gameplay/).
+* [Unity3D Git basics](https://www.youtube.com/watch?v=tNhIh3NzANc&feature=youtu.be) :tv:.
+* [Sci-Fi space in Unity: tips and tricks](https://80.lv/articles/sci-fi-space-in-unity-tips-and-tricks/).
+* [Unity shaders for stylized scenes](https://80.lv/articles/unity-shaders-for-stylized-scenes/).
 
 ## Unreal
 
@@ -452,6 +508,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Postmortem: Thomas Brush's Pinstripe](http://www.gamasutra.com/view/news/297284/Postmortem_Thomas_Brushs_Pinstripe.php).
 * [Another one bites the dust: Dynasty Feud postmortem](http://www.gamasutra.com/blogs/JonSanchez/20170623/300333/Another_One_Bites_the_Dust_Dynasty_Feud_Postmortem.php).
 * [How not to launch a Kickstarter](https://medium.com/level-three/how-not-to-launch-a-kickstarter-49799652fe76).
+* [Darkest Dungeon: A design postmortem](https://youtu.be/0IUaGQhlPwo) :tv:.
+* [Postmortem: Mimimi's Shadow Tactics: Blades of the Shogun](https://www.gamasutra.com/view/news/310894/Postmortem_Mimimis_Shadow_Tactics_Blades_of_the_Shogun.php).
 
 ## Web
 
@@ -495,6 +553,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Yobi3D, a free 3D model search engine](https://www.yobi3d.com/).
 * [High quality FREE Unity resources](http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/).
 * [12 Great places to find sound effects for yout game](http://ninichimusic.com/blog/2017/3/29/12-great-places-to-find-sound-effects-for-your-game-or-project).
+* [Colossal game music collection free](https://www.assetstore.unity3d.com/en/#!/content/88190).
 
 ## Tools
 
@@ -575,6 +634,13 @@ To add, remove or change things on the list: please submit a pull request.
 * [Marketing your indie game on a zero-dollar budget](http://www.gameanalytics.com/blog/marketing-indie-game-without-budget.html).
 * [Re-implementation of presskit() as a static site generator.](https://github.com/pixelnest/presskit.html).
 * [Getting featured on Apple TV vs. iOS](http://www.mobypixel.com/getting-featured-on-apple-tv-vs-ios).
+* [Marketing for indies](https://www.unrealengine.com/en-US/blog/marketing-for-indies).
+* [List of mobile sites, youtubers, etc to send your game](https://docs.google.com/spreadsheets/d/1MBGEG2OtzuI98srRfvbONxJHassuztPrk_4yMm9CWUY/edit#gid=697742541).
+* [Marketing with GIFs](https://lucasmolinablog.wordpress.com/2017/08/16/indiemarketing-gif/).
+* [A quick guide to making indie game trailers](http://www.academiagame.com/academia-blog-1/2017/8/24/how-i-made-the-trailer-for-academia-school-simulator).
+* [Making entertaining and engaging video game trailers](http://www.kertgartner.com/making-entertaining-and-engaging-video-game-trailers/).
+* [Maximizing indie dev eye candy, marketing images on social media](https://www.polygon-treehouse.com/blog/2017/9/25/indiedev-eyecandy).
+* [Do articles on PC Gamer increase sales of your indie game? Polygon? Kotaku?](https://medium.com/@DarthSouls/do-articles-on-pc-gamer-increase-sales-of-your-indie-game-polygon-kotaku-f6198fa5ac3b).
 
 ## Commercial
 
@@ -621,6 +687,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [How to survive in gamedev for eleven years without a hit](https://www.youtube.com/watch?v=JmwbYl6f11c) :tv:.
 * [Big list of Steam indie publishers (50+ companies)](https://docs.google.com/spreadsheets/d/1envgysmy1jRSPGimAXMhWcKQrdxG7eFK9YdBruJzhWw/edit#gid=0).
 * [How to sell your premium indie game](http://headlampstudios.com/how-to-sell-your-indie-game/).
+* [A big List of incubators, accelerators and funding opportunities](https://purplelilgirl.wordpress.com/2017/09/08/big-list-of-incubators-accelerators-and-funding-opportunities/).
 
 ## Localization
 
@@ -668,6 +735,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Quo Vadis 2016: 100 Gamedev Talks](https://vimeo.com/computec/videos/sort:alphabetical/format:thumbnail) :tv:.
 * [Non-Professional game development - The joy of making](https://youtu.be/m4p7T9O_tqg) :tv:.
 * [Roadmap to becoming a game developer in 2017](https://github.com/utilForever/game-developer-roadmap).
+* [Game development: Jumpstart course](https://docs.google.com/document/d/1VRU-E_5hf-DLucBOHl7MaFp2TE0LI5RS8fIDOn0nmc8).
 
 ## Fun
 
