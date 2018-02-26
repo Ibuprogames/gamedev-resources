@@ -96,6 +96,14 @@ To add, remove or change things on the list: please submit a pull request.
 * [A database of palettes for pixel art](https://lospec.com/palette-list).
 * [Realistic vs. Stylized asset production: a technique overview](https://80.lv/articles/realistic-vs-stylized-technique-overview/).
 * [An interesting analysis on the art style of Overwatch](https://80.lv/articles/overwatch-technical-overview/).
+* [A step-by-step guide to modeling in Unreal Engine](https://game-ace.com/blog/unreal-engine-3d-modeling-a-step-by-step-guide).
+* [Step by step character art](https://www.thomasdocjohnson.com/single-post/2018/01/06/Digital-Art-Workflow-Step-by-StepCharacter-Art).
+* [GPU performance for game artists](http://www.fragmentbuffer.com/gpu-performance-for-game-artists/).
+* [Stylized environment production in Unity](https://80.lv/articles/stylized-environment-production-in-unity/).
+* [VFX staples: shape, color, and motion](https://80.lv/articles/vfx-staples-shape-color-and-motion/).
+* [Blender to Godot 3, low poly scene import](https://youtu.be/SiueBTuwS_4) :tv:.
+* [How to use Spine and make awesomes 2D animations](https://youtu.be/pyKDC-ptFIg) :tv:.
+* [Creating simple pixel art textures](http://www.slynyrd.com/blog/2018/2/15/pixelblog-2-texture).
 
 ## Design
 
@@ -206,6 +214,13 @@ To add, remove or change things on the list: please submit a pull request.
 * [The design behind Super Mario Odyssey](https://youtu.be/z_KVEjhT4wQ) :tv:.
 * [Free-To-Play game design - mechanics, psychology, & business practices](https://www.youtube.com/watch?v=2b4XOXS8c2E) :tv:.
 * [The Inner Psycho, morality in games](https://immersionaddict.wordpress.com/2017/11/09/the-inner-psycho-morality-in-games/).
+* [An analysis on how Undertale made pacifism fun](https://youtu.be/PTgcUIudRY8) :tv:.
+* [Applications of AI in AAA games](https://www.youtube.com/playlist?list=PLokhY9fbx05eq8SvcNOxYRquYMzMjF9Ok) :tv:.
+* [Survival Horror – Do’s and Don’t’s (I/II)](https://enomview.com/2018/01/27/survival-horror-dos-and-donts-1/).
+* [Why monster hunter world's combat is so satisfying](https://www.youtube.com/watch?v=ZqQtFbOnK0Y) :tv:.
+* ['CRPG Book Project', the history of Computer Role-Playing Games](https://crpgbook.files.wordpress.com/2018/02/crpg_book_1-0.pdf) PDF.
+* [How Celeste teaches you its mechanics](https://youtu.be/lZoQ9a7oPvo) :tv:.
+* [Nice advices about level design](https://www.gamasutra.com/view/news/314857/GDC_2018_Level_Design_Workshop_An_expert_roundtable_QA.php).
 
 ## Programming
 
@@ -313,6 +328,21 @@ To add, remove or change things on the list: please submit a pull request.
 * [Tools, tricks and technologies for reaching stutter Free 60 FPS in Inside](https://youtu.be/mQ2KTRn4BMI) :tv:.
 * [Camera logic in a 2D platformer](https://asylumsquare.com/#blog/2017-11-25/Camera-Logic-in-a-2D-Platformer.html).
 * [Foliage optimization in Unity](https://www.gamasutra.com/blogs/DannyWeinbaum/20171201/310813/Foliage_Optimization_in_Unity.php).
+* [Matrices, from a geometric perspective](http://www.coranac.com/documents/geomatrix/).
+* [A framework to translate the rules of a (turn-based) game to a series of simple functions](https://github.com/google/boardgame.io).
+* [How to write your own C++ game engine](http://preshing.com/20171218/how-to-write-your-own-cpp-game-engine/).
+* [A comprehensive guide to serverless architecture](https://www.simform.com/serverless-architecture-guide/).
+* [Game developer’s guide to graphical projections (I/II)](https://medium.com/retronator-magazine/game-developers-guide-to-graphical-projections-with-video-game-examples-part-1-introduction-aa3d051c137d).
+* [Using neural networks and machine learning to power up a 2D roguelike in Unity](https://blogs.unity3d.com/es/2017/12/11/using-machine-learning-agents-in-a-real-game-a-beginners-guide/).
+* [Make a RPG and learn C#](https://wpuploads.azureedge.net/2016/08/LearnCSharpSimpleRPG_2ndEd.pdf) PDF.
+* [Making a C++ game engine from scratch](https://www.jacobmilligan.com/posts/making-a-game-engine-part-0/).
+* [Profiling, measurement and analysis](https://engineering.riotgames.com/news/profiling-measurement-and-analysis).
+* [A rendering abstraction which describes a frame as a directed acyclic graph of render tasks and resources](https://github.com/acdemiralp/fg).
+* [The 15 C++11 features you must really use](http://cppdepend.com/blog/?p=319).
+* [How to make a game from scratch using Lua and Löve](https://github.com/SSYGEN/blog/issues/30).
+* [Books I had to read to develop a game engine](https://www.haroldserrano.com/blog/books-i-used-to-develop-a-game-engine).
+* [The poor man's netcode](http://etodd.io/2018/02/20/poor-mans-netcode/).
+* [Networked physics in VR](https://developer.oculus.com/blog/networked-physics-in-virtual-reality-networking-a-stack-of-cubes-with-unity-and-physx/).
 
 ## Audio
 
@@ -341,6 +371,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [The sound design secrets of Horizon Zero Dawn](https://youtu.be/SIAmi88akl0) :tv:.
 * [How to make commercial-quality orchestral music](https://youtu.be/iDaNs3AMWIg) :tv:.
 * [Setting the gold standard for audio in Hellblade](http://www.thesoundarchitect.co.uk/hellblade-senuas-sacrifice-setting-the-gold-standard-for-audio/).
+* [The basics of sound design for video games and films](https://youtu.be/Zd3507sC7GY) :tv:.
 
 ## Organization
 
@@ -368,6 +399,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [How I got to 200 productive hours a month](https://qotoqot.com/blog/improving-focus/).
 * [Techniques for dealing with lack of motivation, malaise, depression](https://www.youtube.com/watch?v=i7kh8pNRWOo) :tv:.
 * [A curated directory of resources and tools to help you build your Startup](http://startupstash.com/).
+* [Improving productivity using Pomodoro, takeaways after 2 years of practice](http://mehdi.cherti.name/improving-my-productivity-using-pomodoro-takeaways-after-2-years-of-practice.html).
+* [Three reasons to soft launch your mobile game](http://www.gamesindustry.biz/articles/2018-01-10-three-reasons-to-soft-launch-your-mobile-game).
 
 ## Unity
 
@@ -442,6 +475,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Unity3D Git basics](https://www.youtube.com/watch?v=tNhIh3NzANc&feature=youtu.be) :tv:.
 * [Sci-Fi space in Unity: tips and tricks](https://80.lv/articles/sci-fi-space-in-unity-tips-and-tricks/).
 * [Unity shaders for stylized scenes](https://80.lv/articles/unity-shaders-for-stylized-scenes/).
+* [Physically Based Rendering algorithms: A comprehensive study in Unity3D](http://www.jordanstevenstechart.com/physically-based-rendering).
 
 ## Unreal
 
@@ -457,6 +491,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Unreal Engine 4 C++ Tutorials](http://orfeasel.com/blog/).
 * [Epic released the documents on shaders for realistic characters in UE4](https://docs.unrealengine.com/latest/INT/Resources/Showcases/PhotorealisticCharacter/).
 * [Unreal for Unity developers](https://www.youtube.com/playlist?list=PLb8LPjN5zpx3ridPWb_kuEu6TWBATP45F) :tv:.
+* [The ultimate Unreal C++ tutorial series](https://www.youtube.com/watch?v=K8iSi1oGaBI) :tv:.
 
 ## Engines
 
@@ -518,6 +553,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [html5up.net](http://html5up.net/), [getbootstrap.com](http://getbootstrap.com/), html5 responsive templates.
 * [7 steps to optimizing your Indie Game Development website](http://devdog.io/blog/2016/11/7-things-every-game-developer-needs-on-their-website).
 * [Search domains and generate a beautiful, responsive, free website](http://launchaco.com/).
+* [From sabbatical year to $800k](https://failory.com/battle-scars).
+* [Did I just waste 3 years?](https://infinitroid.com/blog/posts/did_i_just_waste_3_years).
 
 ## Resources
 
@@ -641,6 +678,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Making entertaining and engaging video game trailers](http://www.kertgartner.com/making-entertaining-and-engaging-video-game-trailers/).
 * [Maximizing indie dev eye candy, marketing images on social media](https://www.polygon-treehouse.com/blog/2017/9/25/indiedev-eyecandy).
 * [Do articles on PC Gamer increase sales of your indie game? Polygon? Kotaku?](https://medium.com/@DarthSouls/do-articles-on-pc-gamer-increase-sales-of-your-indie-game-polygon-kotaku-f6198fa5ac3b).
+* [Marketing 101 for Indies](https://docs.google.com/presentation/d/1Ug-DGkdlWVwJezl9wgyuZt9rfm87gfQ40Gvh4cHEESQ/edit#slide=id.g12ab6f90be_0_8).
 
 ## Commercial
 
@@ -727,6 +765,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Test mobile games on 1000 mobile devices in 1 hour](http://en.testbird.com/).
 * [Game cloud testing services](http://gamecloud-ltd.com/).
 * [Automated testing League Of Legends](https://engineering.riotgames.com/news/automated-testing-league-legends).
+* [Increasing the chance of store featuring with compliance](https://medium.com/flaregames-blog/increasing-the-chance-of-store-featuring-with-compliance-e03a95deda3d).
 
 ## Misc
 
@@ -736,6 +775,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Non-Professional game development - The joy of making](https://youtu.be/m4p7T9O_tqg) :tv:.
 * [Roadmap to becoming a game developer in 2017](https://github.com/utilForever/game-developer-roadmap).
 * [Game development: Jumpstart course](https://docs.google.com/document/d/1VRU-E_5hf-DLucBOHl7MaFp2TE0LI5RS8fIDOn0nmc8).
+* [The cost of doing game dev business](https://medium.com/@morganjaffit/the-cost-of-doing-business-c09cc5cc8728).
 
 ## Fun
 
