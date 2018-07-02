@@ -104,6 +104,19 @@ To add, remove or change things on the list: please submit a pull request.
 * [Blender to Godot 3, low poly scene import](https://youtu.be/SiueBTuwS_4) :tv:.
 * [How to use Spine and make awesomes 2D animations](https://youtu.be/pyKDC-ptFIg) :tv:.
 * [Creating simple pixel art textures](http://www.slynyrd.com/blog/2018/2/15/pixelblog-2-texture).
+* [Killer sci-Fi environment production tips and tricks](https://80.lv/articles/killer-sci-fi-environment-production-tips-and-tricks/).
+* [Photogrammetry guide for 3D artists](https://80.lv/articles/full-photogrammetry-guide-for-3d-artists/).
+* [Building great lighting in Unity](https://80.lv/articles/building-great-lighting-in-unity/).
+* [Math for game programmers: Juicing your cameras with math](https://youtu.be/tu-Qe66AvtY) :tv:.
+* [Thoughtful hair design: theory and practise](http://blog.camposanto.com/post/171638832704/zora-is-one-of-the-two-main-characters-in-our).
+* [Stylized character production techniques in Unreal Engine](https://80.lv/articles/stylized-character-production-techniques-in-ue4/).
+* [Realistic material design tips and tricks](https://80.lv/articles/realistic-material-design-tips-and-tricks/).
+* [Grass creation for games](https://80.lv/articles/tutorial-grass-creation-for-games/).
+* [Building the Just Cause 3 animation and rigging pipeline](https://youtu.be/Tfw21ciEyZE) :tv:.
+* [Dirt generator in Substance Designer](https://80.lv/articles/dirt-generator-in-substance-designer/).
+* [Stylizing 3D character content: model, texture and details](https://80.lv/articles/stylizing-3d-character-content-model-texture-details/).
+* [Creating Riot-like stylized VFX in Unity, tips and tricks](https://80.lv/articles/creating-stylized-vfx-in-unity/).
+* [Tips on creating stylized 3D content](https://80.lv/articles/tips-on-creating-stylized-3d-content/).
 
 ## Design
 
@@ -221,6 +234,12 @@ To add, remove or change things on the list: please submit a pull request.
 * ['CRPG Book Project', the history of Computer Role-Playing Games](https://crpgbook.files.wordpress.com/2018/02/crpg_book_1-0.pdf) PDF.
 * [How Celeste teaches you its mechanics](https://youtu.be/lZoQ9a7oPvo) :tv:.
 * [Nice advices about level design](https://www.gamasutra.com/view/news/314857/GDC_2018_Level_Design_Workshop_An_expert_roundtable_QA.php).
+* [Creating strong video game characters](https://youtu.be/4mgK2hL33Vw) :tv:.
+* [Game Design Document examples](http://seriousgamesnet.eu/assets/view/238).
+* [Mobile screen patterns](https://mobile-patterns.com/).
+* [What makes a good combat system?](https://youtu.be/8X4fx-YncqA) :tv:.
+* [Psych of play: how to make a video game memorable](https://youtu.be/SqdqgSZUPes) :tv:.
+* [Prototyping tools for game writers](https://link.springer.com/article/10.1007/s40869-018-0062-y).
 
 ## Programming
 
@@ -343,6 +362,11 @@ To add, remove or change things on the list: please submit a pull request.
 * [Books I had to read to develop a game engine](https://www.haroldserrano.com/blog/books-i-used-to-develop-a-game-engine).
 * [The poor man's netcode](http://etodd.io/2018/02/20/poor-mans-netcode/).
 * [Networked physics in VR](https://developer.oculus.com/blog/networked-physics-in-virtual-reality-networking-a-stack-of-cubes-with-unity-and-physx/).
+* [Color theory for programmers, how to find great colors](https://youtu.be/-l2g4adWWwo) :tv:.
+* [Shaders: a short story](https://medium.com/@darkdreamday/shaders-a-short-story-31210427a7c).
+* [Optimization of Catan Universe on mobile for Unity](https://rubentorresbonet.github.io/unity/2017/06/12/catan-universe-mobile-optimization-unity.html).
+* [Unreal Engine gameplay framework primer for C++](http://www.tomlooman.com/ue4-gameplay-framework/).
+* [OpenGL, step by step](http://ogldev.atspace.co.uk/).
 
 ## Audio
 
@@ -372,6 +396,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [How to make commercial-quality orchestral music](https://youtu.be/iDaNs3AMWIg) :tv:.
 * [Setting the gold standard for audio in Hellblade](http://www.thesoundarchitect.co.uk/hellblade-senuas-sacrifice-setting-the-gold-standard-for-audio/).
 * [The basics of sound design for video games and films](https://youtu.be/Zd3507sC7GY) :tv:.
+* [The minimalist sound design of The Witness](https://www.gamasutra.com/view/news/264301/The_minimalist_sound_design_of_The_Witness.php).
 
 ## Organization
 
@@ -401,6 +426,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [A curated directory of resources and tools to help you build your Startup](http://startupstash.com/).
 * [Improving productivity using Pomodoro, takeaways after 2 years of practice](http://mehdi.cherti.name/improving-my-productivity-using-pomodoro-takeaways-after-2-years-of-practice.html).
 * [Three reasons to soft launch your mobile game](http://www.gamesindustry.biz/articles/2018-01-10-three-reasons-to-soft-launch-your-mobile-game).
+* [How to interview game programmers](https://youtu.be/a1MjIWGYvy8) :tv:.
+* [Modern approaches to game production](https://80.lv/articles/modern-approaches-to-game-production/).
 
 ## Unity
 
@@ -492,6 +519,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Epic released the documents on shaders for realistic characters in UE4](https://docs.unrealengine.com/latest/INT/Resources/Showcases/PhotorealisticCharacter/).
 * [Unreal for Unity developers](https://www.youtube.com/playlist?list=PLb8LPjN5zpx3ridPWb_kuEu6TWBATP45F) :tv:.
 * [The ultimate Unreal C++ tutorial series](https://www.youtube.com/watch?v=K8iSi1oGaBI) :tv:.
+* [An cheat sheet for Unreal Engine 4 C++ programming](https://github.com/jbtronics/UE4-CheatSheet).
 
 ## Engines
 
@@ -545,6 +573,9 @@ To add, remove or change things on the list: please submit a pull request.
 * [How not to launch a Kickstarter](https://medium.com/level-three/how-not-to-launch-a-kickstarter-49799652fe76).
 * [Darkest Dungeon: A design postmortem](https://youtu.be/0IUaGQhlPwo) :tv:.
 * [Postmortem: Mimimi's Shadow Tactics: Blades of the Shogun](https://www.gamasutra.com/view/news/310894/Postmortem_Mimimis_Shadow_Tactics_Blades_of_the_Shogun.php).
+* [Horizon Zero Dawn: A game design postmortem](https://youtu.be/TawhcWao9ls) :tv:.
+* [Designing a game for multiple platforms: 'Cat Quest' postmortem](https://thegentlebros.com/blog/uncategorized/designing-game-multiple-platforms-cat-quest-postmortem/).
+* [A Year of Monument Valley 2](https://medium.com/@ustwogames/a-year-of-monument-valley-2-36754517a386).
 
 ## Web
 
@@ -591,6 +622,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [High quality FREE Unity resources](http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/).
 * [12 Great places to find sound effects for yout game](http://ninichimusic.com/blog/2017/3/29/12-great-places-to-find-sound-effects-for-your-game-or-project).
 * [Colossal game music collection free](https://www.assetstore.unity3d.com/en/#!/content/88190).
+* [Free music for your videos](https://icons8.com/music/).
 
 ## Tools
 
@@ -603,6 +635,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [HacknPlan](http://hacknplan.com/), project management for gamedev.
 * [Codecks](https://www.codecks.io), project management tool inspired by collectible card games.
 * [A procedural tile creator designed for pixel-art games](https://led.itch.io/tilemancer).
+* [Storyboarder, a free, cross-platform storyboard tool](https://wonderunit.com/storyboarder/).
 
 ## Social
 
@@ -726,6 +759,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Big list of Steam indie publishers (50+ companies)](https://docs.google.com/spreadsheets/d/1envgysmy1jRSPGimAXMhWcKQrdxG7eFK9YdBruJzhWw/edit#gid=0).
 * [How to sell your premium indie game](http://headlampstudios.com/how-to-sell-your-indie-game/).
 * [A big List of incubators, accelerators and funding opportunities](https://purplelilgirl.wordpress.com/2017/09/08/big-list-of-incubators-accelerators-and-funding-opportunities/).
+* [The list of indie-friendly game publishers - 2018](https://medium.com/@ekisterev/indie-friendly-game-publishers-list-2018-47c2d96e6cbb).
+* [How viable is supporting yourself as an Indie Game Developer?](https://youtu.be/jCuS9pImle0) :tv:.
 
 ## Localization
 
@@ -752,6 +787,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Why you should always register the trademark on your Kickstarter game](http://www.gamasutra.com/blogs/StephenMcArthur/20160504/271940/Why_You_Should_Always_Register_the_Trademark_on_your_Kickstarter_Game.php).
 * [Practical law 101 for indie developers: Not scary edition](https://www.youtube.com/watch?v=8eAW-7Js7NA) :tv:.
 * [Negotiations for game aevs: a practical guide](https://indiewatch.net/2016/09/06/negotiations-for-game-devs-a-practical-guide-part-1/).
+* [Practical IP law for indie developers 301: Plain scary edition](https://youtu.be/ePQcAjuiSEo) :tv:.
 
 ## Hardware
 
