@@ -2,7 +2,33 @@
 
 An updated collection of useful resources to design, develop and marketing games. Maintained by [@ibuprogames](https://twitter.com/Ibuprogames).
 
-To add, remove or change things on the list: please submit a pull request.
+<p align="center">To add, remove or change things on the list: please submit a pull request.</p>
+<br>
+
+## Contents
+
+- [Art](#art).
+- [Design](#design).
+- [Programming](#programming).
+- [Audio](#audio).
+- [organization](#organization).
+- [Unity](#unity).
+- [Unreal](#unreal).
+- [Engines](#engines).
+- [Postmortems](#postmortems).
+- [Web](#web).
+- [Resources](#resources).
+- [Tools](#tools).
+- [Social](#social).
+- [Marketing](#marketing).
+- [Commercial](#commercial).
+- [Localization](#localization).
+- [Bureaucracy](#bureaucracy).
+- [Hardware](#hardware).
+- [Testing](#testing).
+- [Misc](#misc).
+- [Fun](#fun).
+<br>
 
 ## Art
 * [Lots of icons from iOS apps](http://iosicongallery.com).
