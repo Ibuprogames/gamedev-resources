@@ -143,6 +143,13 @@ An updated collection of useful resources to design, develop and marketing games
 * [Stylizing 3D character content: model, texture and details](https://80.lv/articles/stylizing-3d-character-content-model-texture-details/).
 * [Creating Riot-like stylized VFX in Unity, tips and tricks](https://80.lv/articles/creating-stylized-vfx-in-unity/).
 * [Tips on creating stylized 3D content](https://80.lv/articles/tips-on-creating-stylized-3d-content/).
+* [Making Zelda-like VFX with Unity](https://80.lv/articles/making-zelda-like-vfx-with-unity/).
+* [Seamless forest textures with photogrammetry](https://80.lv/articles/creating-a-forest-biome-with-photogrammetry/).
+* [Making Wild West scene with CryEngine](https://80.lv/articles/making-wild-west-scene-with-cryengine/).
+* [Apocalyptic environment in Blender](https://youtu.be/mVaxO05toJg) :tv:.
+* [Game UX style guide: Why do you need one?](https://www.gamasutra.com/blogs/OmTandon/20180830/325522/Game_UX_Style_Guide_Why_do_you_need_one.php).
+* [Color palettes, a guide](https://www.gamedev.net/articles/visual-arts/color-palettes-r4964/).
+* [Tips on low poly indie game creation](https://80.lv/articles/omno/).
 
 ## Design
 
@@ -266,6 +273,9 @@ An updated collection of useful resources to design, develop and marketing games
 * [What makes a good combat system?](https://youtu.be/8X4fx-YncqA) :tv:.
 * [Psych of play: how to make a video game memorable](https://youtu.be/SqdqgSZUPes) :tv:.
 * [Prototyping tools for game writers](https://link.springer.com/article/10.1007/s40869-018-0062-y).
+* [Intro to narrative design and storytelling](https://youtu.be/IGluIMhB73Y) :tv:.
+* [7 UX lessons from the trenches](https://www.straybasilisk.com/7-game-ux-lessons-from-the-trenches/).
+* [How to write a game design document?](https://youtu.be/VO4FNf-Xc58) :tv:.
 
 ## Programming
 
@@ -393,6 +403,8 @@ An updated collection of useful resources to design, develop and marketing games
 * [Optimization of Catan Universe on mobile for Unity](https://rubentorresbonet.github.io/unity/2017/06/12/catan-universe-mobile-optimization-unity.html).
 * [Unreal Engine gameplay framework primer for C++](http://www.tomlooman.com/ue4-gameplay-framework/).
 * [OpenGL, step by step](http://ogldev.atspace.co.uk/).
+* [The total beginner's guide to game AI](https://www.gamedev.net/articles/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/).
+* [A list of useful books for game AI programming](http://alumni.media.mit.edu/~jorkin/aibooks.html).
 
 ## Audio
 
@@ -423,6 +435,8 @@ An updated collection of useful resources to design, develop and marketing games
 * [Setting the gold standard for audio in Hellblade](http://www.thesoundarchitect.co.uk/hellblade-senuas-sacrifice-setting-the-gold-standard-for-audio/).
 * [The basics of sound design for video games and films](https://youtu.be/Zd3507sC7GY) :tv:.
 * [The minimalist sound design of The Witness](https://www.gamasutra.com/view/news/264301/The_minimalist_sound_design_of_The_Witness.php).
+* [Musical sound effects in the Super Mario Series](https://youtu.be/6hHbTVloizU) :tv:.
+* [How to make indie game music for beginners](https://youtu.be/AheuOqlAMvA) :tv:.
 
 ## Organization
 
@@ -454,6 +468,11 @@ An updated collection of useful resources to design, develop and marketing games
 * [Three reasons to soft launch your mobile game](http://www.gamesindustry.biz/articles/2018-01-10-three-reasons-to-soft-launch-your-mobile-game).
 * [How to interview game programmers](https://youtu.be/a1MjIWGYvy8) :tv:.
 * [Modern approaches to game production](https://80.lv/articles/modern-approaches-to-game-production/).
+* [Efficient indie tricks to get close to AAA quality](https://youtu.be/15PAsik0PZE) :tv:.
+* [Intensely practical tips for growing an indie studio](https://youtu.be/MDYh2mnDCIM) :tv:.
+* [Learn Git in 20 minutes](https://youtu.be/IHaTbJPdB-s) :tv:.
+* [Worldbuilding with ProBuilder effective iteration and workflow enhancements](https://youtu.be/yJsQJ6gwnn0) :tv:.
+* [AAA best practices for indie studios to maintain a healthy build](https://unity3d.com/es/how-to/set-up-a-stable-build-pipeline).
 
 ## Unity
 
@@ -529,6 +548,7 @@ An updated collection of useful resources to design, develop and marketing games
 * [Sci-Fi space in Unity: tips and tricks](https://80.lv/articles/sci-fi-space-in-unity-tips-and-tricks/).
 * [Unity shaders for stylized scenes](https://80.lv/articles/unity-shaders-for-stylized-scenes/).
 * [Physically Based Rendering algorithms: A comprehensive study in Unity3D](http://www.jordanstevenstechart.com/physically-based-rendering).
+* [How to use Nested Prefabs](https://www.youtube.com/watch?v=SMH8wY4HQ0I) :tv:.
 
 ## Unreal
 
@@ -546,6 +566,7 @@ An updated collection of useful resources to design, develop and marketing games
 * [Unreal for Unity developers](https://www.youtube.com/playlist?list=PLb8LPjN5zpx3ridPWb_kuEu6TWBATP45F) :tv:.
 * [The ultimate Unreal C++ tutorial series](https://www.youtube.com/watch?v=K8iSi1oGaBI) :tv:.
 * [An cheat sheet for Unreal Engine 4 C++ programming](https://github.com/jbtronics/UE4-CheatSheet).
+* [Lighting studies in UE4](https://80.lv/articles/lighting-studies-in-ue4/).
 
 ## Engines
 
@@ -574,6 +595,7 @@ An updated collection of useful resources to design, develop and marketing games
 * [Banshee3D](http://www.banshee3d.com), multi-threaded, C++14, 2D & 3Ds.
 * [Kit Framework](http://svkonsult.se/kit/), C++11, PBR.
 * [Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.](https://github.com/bkaradzic/bgfx).
+* [Diligent](https://github.com/DiligentGraphics/DiligentEngine), a modern cross-platform 3D graphics library.
 
 ## Postmortems
 
@@ -602,6 +624,10 @@ An updated collection of useful resources to design, develop and marketing games
 * [Horizon Zero Dawn: A game design postmortem](https://youtu.be/TawhcWao9ls) :tv:.
 * [Designing a game for multiple platforms: 'Cat Quest' postmortem](https://thegentlebros.com/blog/uncategorized/designing-game-multiple-platforms-cat-quest-postmortem/).
 * [A Year of Monument Valley 2](https://medium.com/@ustwogames/a-year-of-monument-valley-2-36754517a386).
+* [Learning from Mistakes: The Moon Hunters Launch](https://medium.com/@kitfoxgames/learning-from-mistakes-the-moon-hunters-launch-df53cadd56e4).
+* [10 lessons from making 100 games in 5 years](https://www.gamasutra.com/blogs/JamesCox/20180628/321005/10_Lessons_from_Making_100_Games_in_5_Years.php).
+* [Cultist Simulator: the retrospective](https://www.gamasutra.com/blogs/LottieBevan/20180716/322016/Cultist_Simulator_the_retrospective.php).
+* [The making of Hollow Knight](https://www.gameinformer.com/2018/10/15/the-making-of-hollow-knight).
 
 ## Web
 
@@ -649,6 +675,7 @@ An updated collection of useful resources to design, develop and marketing games
 * [12 Great places to find sound effects for yout game](http://ninichimusic.com/blog/2017/3/29/12-great-places-to-find-sound-effects-for-your-game-or-project).
 * [Colossal game music collection free](https://www.assetstore.unity3d.com/en/#!/content/88190).
 * [Free music for your videos](https://icons8.com/music/).
+* [Public domain (CC0) PBR textures](https://cc0textures.com/).
 
 ## Tools
 
@@ -787,6 +814,7 @@ An updated collection of useful resources to design, develop and marketing games
 * [A big List of incubators, accelerators and funding opportunities](https://purplelilgirl.wordpress.com/2017/09/08/big-list-of-incubators-accelerators-and-funding-opportunities/).
 * [The list of indie-friendly game publishers - 2018](https://medium.com/@ekisterev/indie-friendly-game-publishers-list-2018-47c2d96e6cbb).
 * [How viable is supporting yourself as an Indie Game Developer?](https://youtu.be/jCuS9pImle0) :tv:.
+* [A deep dive into how games are selling on Steam](https://youtu.be/WycVOCbeKqQ) :tv:.
 
 ## Localization
 
