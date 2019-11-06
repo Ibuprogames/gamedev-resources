@@ -150,6 +150,17 @@ An updated collection of useful resources to design, develop and marketing games
 * [Game UX style guide: Why do you need one?](https://www.gamasutra.com/blogs/OmTandon/20180830/325522/Game_UX_Style_Guide_Why_do_you_need_one.php).
 * [Color palettes, a guide](https://www.gamedev.net/articles/visual-arts/color-palettes-r4964/).
 * [Tips on low poly indie game creation](https://80.lv/articles/omno/).
+* [Stylized 3D game asset tutorial: Low poly with Blender 2.8](https://www.youtube.com/watch?v=zpP9_i9TpbY) :tv:.
+* [The best design tools for everything](https://github.com/LisaDziuba/Awesome-Design-Tools).
+* [Low poly character design](https://sundaysundae.co/how-to-make-low-poly-characters/).
+* [Hand-Painted texture guide](https://80.lv/articles/001agt-hand-painted-texture-guide-from-vsquad/).
+* [3D geometry best practices for artists](https://developer.arm.com/solutions/graphics/developer-guides/best-practices-for-mobile-game-art-assets-1/geometry-best-practices/single-page).
+* [Best practice for particle effects in 2D pixel art games](https://imgur.com/gallery/z4Boura).
+* [How to create a character with ZBrush](https://youtu.be/VIFJWi4u6Ls) :tv:.
+* [Typography in games](https://youtu.be/iEonPcoqEFQ) :tv:.
+* [Improve your programmer art: Up your color game](https://youtu.be/aT_gghruWAg) :tv:.
+* [Psychology of colour](https://themarketingindex.com/the-marketers-guide-to-psychology-of-colour/).
+* [High to low Poly workflow: Blender to Substance Painter to Unity](https://youtu.be/rfBp9YhkoWo) :tv:.
 
 ## Design
 
@@ -276,6 +287,18 @@ An updated collection of useful resources to design, develop and marketing games
 * [Intro to narrative design and storytelling](https://youtu.be/IGluIMhB73Y) :tv:.
 * [7 UX lessons from the trenches](https://www.straybasilisk.com/7-game-ux-lessons-from-the-trenches/).
 * [How to write a game design document?](https://youtu.be/VO4FNf-Xc58) :tv:.
+* [Curates screenshots of games, if you need inspiration for UI/UX](https://gameswat.ch/).
+* [Laws of UX](https://lawsofux.com/).
+* [How to use ProBuilder for rapid prototyping](https://youtu.be/X6ZuBpGzvME) :tv:.
+* [The challenge of cameras](https://youtu.be/bHdi5Ar8GXw) :tv:.
+* [Roguelike progression systems](https://youtu.be/yOfgUFx9RkU) :tv:.
+* [Level design patterns in 2D games](https://www.gamasutra.com/blogs/AhmedKhalifa/20190610/344344/Level_Design_Patterns_in_2D_Games.php).
+* [The power of Cute in video games and the Uncanny Valley](https://youtu.be/if_hvgLC5cM) :tv:.
+* [Why does Celeste feel so good to play?](https://youtu.be/yorTG9at90g) :tv:.
+* [Designing for color-blindness in games](https://youtu.be/KbFs9ghIIEI) :tv:.
+* [Designing a Vertical Slice of your Unity game](https://youtu.be/yEP9KWeHwXQ) :tv:.
+* [What I learned after making 100+ game levels](https://youtu.be/WPimiBP8d6o) :tv:.
+* [When the fun stops: The science of addiction (GDC 2019)](https://youtu.be/vVwu4RDChsY) :tv:.
 
 ## Programming
 
@@ -405,6 +428,11 @@ An updated collection of useful resources to design, develop and marketing games
 * [OpenGL, step by step](http://ogldev.atspace.co.uk/).
 * [The total beginner's guide to game AI](https://www.gamedev.net/articles/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/).
 * [A list of useful books for game AI programming](http://alumni.media.mit.edu/~jorkin/aibooks.html).
+* [From setup to gameplay, a introduction to C++ for Unreal Engine 4](https://www.youtube.com/watch?v=D4UM73O7Zxs) :tv:.
+* [Game shaders for beginners](https://github.com/lettier/3d-game-shaders-for-beginners).
+* [Game source code collection](https://archive.org/details/gamesourcecode).
+* [A list of awesome programming talks by language](https://github.com/hellerve/programming-talks).
+* [S.O.L.I.D Design Patterns: Single responsibility principle](https://www.youtube.com/watch?v=f5zJ4D2E0dI) :tv:.
 
 ## Audio
 
@@ -437,6 +465,11 @@ An updated collection of useful resources to design, develop and marketing games
 * [The minimalist sound design of The Witness](https://www.gamasutra.com/view/news/264301/The_minimalist_sound_design_of_The_Witness.php).
 * [Musical sound effects in the Super Mario Series](https://youtu.be/6hHbTVloizU) :tv:.
 * [How to make indie game music for beginners](https://youtu.be/AheuOqlAMvA) :tv:.
+* [Designing sounds for a game](https://www.gamasutra.com/blogs/PavelShylenok/20190506/342095/Designing_Sounds_for_a_Game.php).
+* [Creating explosion sounds](https://youtu.be/Go7qOzFnOsg) :tv:.
+* [100% free, hand-crafted music](https://openmusicrevolution.com).
+* [9 sound design tips to improve your game’s audio](https://gameanalytics.com/blog/9-sound-design-tips-to-improve-your-games-audio.html).
+* [How to make fighting game sounds](https://youtu.be/o0epA2d2t_c) :tv:.
 
 ## Organization
 
@@ -473,6 +506,9 @@ An updated collection of useful resources to design, develop and marketing games
 * [Learn Git in 20 minutes](https://youtu.be/IHaTbJPdB-s) :tv:.
 * [Worldbuilding with ProBuilder effective iteration and workflow enhancements](https://youtu.be/yJsQJ6gwnn0) :tv:.
 * [AAA best practices for indie studios to maintain a healthy build](https://unity3d.com/es/how-to/set-up-a-stable-build-pipeline).
+* [Pro tips for managing the unmanageable project](https://www.youtube.com/watch?v=dNlEZZlmIcw) :tv:.
+* [Deploying a video game to Steam with GitLab CI](https://medium.com/plapadoo/deploying-to-steam-using-gitlab-2fea0149fdaf).
+* [Jenkins for Unity with DigitalOcean](https://github.com/CarlHalstead/Jenkins-for-Unity-with-DigitalOcean/).
 
 ## Unity
 
@@ -549,6 +585,16 @@ An updated collection of useful resources to design, develop and marketing games
 * [Unity shaders for stylized scenes](https://80.lv/articles/unity-shaders-for-stylized-scenes/).
 * [Physically Based Rendering algorithms: A comprehensive study in Unity3D](http://www.jordanstevenstechart.com/physically-based-rendering).
 * [How to use Nested Prefabs](https://www.youtube.com/watch?v=SMH8wY4HQ0I) :tv:.
+* [Unity3D mistakes I wish I'd known to avoid](https://www.youtube.com/watch?v=3kino_s-4mo) :tv:.
+* [7 Unity UI optimization tips for your game](https://medium.com/@ahhaoah/unity-ui-optimization-procedures-4d0f6ca2d827]).
+* [Unity multiplayer survival tutorials](https://www.youtube.com/playlist?list=PLciOnwoWoI0ufUpMxqW911njO0sqJbbL1) :tv:.
+* [Advanced FPS movement tutorial](https://youtu.be/2xjIfFOTtBc) :tv:.
+* [Full body FPS controller](http://matthew-isidore.ovh/full-body-fps-controller-part-1-base-character-controller/).
+* [UpperBody IK](https://matthew-isidore.ovh/unity-tutorial-full-body-fps-controller-part-2-upperbody-ik/).
+* [Multiplayer 2D platformer in Unity](https://www.youtube.com/playlist?list=PLciOnwoWoI0vhoHZH3DbL4qOdBoDxJCc9) :tv:.
+* [Player movement using Unity's Animator](https://github.com/OBalfaqih/PlayerMovementUsingAnimator).
+* [Runtime mesh manipulation with Unity](https://www.raywenderlich.com/3169311-runtime-mesh-manipulation-with-unity).
+* [Getting started with 'High Definition Render Pipeline' guide for artists](https://blogs.unity3d.com/2018/09/24/the-high-definition-render-pipeline-getting-started-guide-for-artists/).
 
 ## Unreal
 
@@ -567,6 +613,8 @@ An updated collection of useful resources to design, develop and marketing games
 * [The ultimate Unreal C++ tutorial series](https://www.youtube.com/watch?v=K8iSi1oGaBI) :tv:.
 * [An cheat sheet for Unreal Engine 4 C++ programming](https://github.com/jbtronics/UE4-CheatSheet).
 * [Lighting studies in UE4](https://80.lv/articles/lighting-studies-in-ue4/).
+* [FPS controller foundation using C++](https://youtu.be/7Equ1dVbfgo) :tv:.
+* [Low poly dungeon generator with Houdini Digital Asset for UE4](https://www.artstation.com/artwork/3og9e2).
 
 ## Engines
 
@@ -676,6 +724,8 @@ An updated collection of useful resources to design, develop and marketing games
 * [Colossal game music collection free](https://www.assetstore.unity3d.com/en/#!/content/88190).
 * [Free music for your videos](https://icons8.com/music/).
 * [Public domain (CC0) PBR textures](https://cc0textures.com/).
+* [A collection of high quality sound effects](https://www.pmsfx.com/free/).
+* [Free music for your own projects](https://www.purple-planet.com/).
 
 ## Tools
 
@@ -765,6 +815,12 @@ An updated collection of useful resources to design, develop and marketing games
 * [Maximizing indie dev eye candy, marketing images on social media](https://www.polygon-treehouse.com/blog/2017/9/25/indiedev-eyecandy).
 * [Do articles on PC Gamer increase sales of your indie game? Polygon? Kotaku?](https://medium.com/@DarthSouls/do-articles-on-pc-gamer-increase-sales-of-your-indie-game-polygon-kotaku-f6198fa5ac3b).
 * [Marketing 101 for Indies](https://docs.google.com/presentation/d/1Ug-DGkdlWVwJezl9wgyuZt9rfm87gfQ40Gvh4cHEESQ/edit#slide=id.g12ab6f90be_0_8).
+* [Video games marketing 101: Announcing your game](https://youtu.be/DKVzLkT1mrY) :tv:.
+* [How to make an indie game trailer](https://youtu.be/4CSYA9R70R8) :tv:.
+* [Video games marketing 101: How to create a marketing plan and campaign](https://youtu.be/Wk8eMdMqEzo) :tv:.
+* [How to market your indie game](https://youtu.be/UwjbLFImXOg) :tv:.
+* [5 marketing mistakes indie gevs make with their games](https://www.youtube.com/watch?v=6K7lN3i2K64) :tv:.
+* [How my dumb mobile game got 400k downloads](https://youtu.be/zkIfCo2JxJY) :tv:.
 
 ## Commercial
 
@@ -815,6 +871,8 @@ An updated collection of useful resources to design, develop and marketing games
 * [The list of indie-friendly game publishers - 2018](https://medium.com/@ekisterev/indie-friendly-game-publishers-list-2018-47c2d96e6cbb).
 * [How viable is supporting yourself as an Indie Game Developer?](https://youtu.be/jCuS9pImle0) :tv:.
 * [A deep dive into how games are selling on Steam](https://youtu.be/WycVOCbeKqQ) :tv:.
+* [10 awesome sources of funding & grants for indie games](https://ninichimusic.com/blog/10-awesome-sources-of-funding-grants-for-your-indie-game).
+* [So you're ready to pitch to a publisher? You're not](https://youtu.be/MP-nmrMb9FQ) :tv:.
 
 ## Localization
 
@@ -842,6 +900,7 @@ An updated collection of useful resources to design, develop and marketing games
 * [Practical law 101 for indie developers: Not scary edition](https://www.youtube.com/watch?v=8eAW-7Js7NA) :tv:.
 * [Negotiations for game aevs: a practical guide](https://indiewatch.net/2016/09/06/negotiations-for-game-devs-a-practical-guide-part-1/).
 * [Practical IP law for indie developers 301: Plain scary edition](https://youtu.be/ePQcAjuiSEo) :tv:.
+* [Top 5 ways to protect your intellectual property](https://homagames.com/top-5-ways-to-protect-your-intellectual-property/).
 
 ## Hardware
 
@@ -866,6 +925,7 @@ An updated collection of useful resources to design, develop and marketing games
 * [Roadmap to becoming a game developer in 2017](https://github.com/utilForever/game-developer-roadmap).
 * [Game development: Jumpstart course](https://docs.google.com/document/d/1VRU-E_5hf-DLucBOHl7MaFp2TE0LI5RS8fIDOn0nmc8).
 * [The cost of doing game dev business](https://medium.com/@morganjaffit/the-cost-of-doing-business-c09cc5cc8728).
+* [How to stay motivated](https://youtu.be/cx2-aN6e69o) :tv:.
 
 ## Fun
 
